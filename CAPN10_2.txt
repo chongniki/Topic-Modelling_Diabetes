@@ -1,0 +1,1404 @@
+19799532|t|Influence of genetic polymorphisms on the pharmacokinetics and pharmaco-dynamics of sulfonylurea drugs.
+19799532|a|Sulfonylurea drugs including chlorpropamide, gliclazide, tolbutamide, glipizide, glibenclamide (glyburide) and glimepiride are the most widely used oral hypoglycaemic agents in people with type 2 diabetes. This review investigates the impact of genetic polymorphisms on the pharmacokinetics and pharmacodynamics of sulfonylurea drugs. CYP2C9 is the major enzyme involved in sulfonylurea drug metabolism. CYP2C9 variant allele carriers have significant lower apparent clearance of these medicines. CYP2C19 genotype is more influential for gliclazide pharmacokinetics when compared to CYP2C9. Sulfonylurea pharmacodynamics is affected by several genes. Sulfonylurea receptor 1 (SUR1, ABCC8 gene) and K+ inward rectifier Kir6.2 (KCNJ11) have been correlated to significant variation in sulfonylurea response. Diabetics with the SUR1 exon 33 G allele are more sensitive to gliclazide and the rs5210 variant of the KCNJ11 gene was associated with improved clinical efficacy of gliclazide. Carriers of Transcription factor 7-like 2 (TCF7L2) variants are more likely to fail sulfonylurea therapy. On the other hand, patients with HNF-1alpha mutations had a significant greater response to gliclazide when compared to those with type 2 diabetes. The Arg972 polymorphism of insulin receptor substrate 1 (IRS1) may lead to secondary failure of sulfonylurea therapy. Calpain 10 gene (CAPN10) polymorphism has also been linked to sulfonylurea drug response. Despite the available evidence, larger population studies that investigate the pharmacokinetics and pharmacodynamics of sulfonylurea drugs are needed to investigate the influence of key SNPs amidst all potential contributing factors to variability in response to these which inturn will provide information to optimise sulfonylurea use in people with diabetes.
+19799532	84	96	sulfonylurea	Chemical	MESH:D013453
+19799532	104	116	Sulfonylurea	Chemical	MESH:D013453
+19799532	133	147	chlorpropamide	Chemical	MESH:D002747
+19799532	149	159	gliclazide	Chemical	MESH:D005907
+19799532	161	172	tolbutamide	Chemical	MESH:D014044
+19799532	174	183	glipizide	Chemical	MESH:D005913
+19799532	185	198	glibenclamide	Chemical	MESH:D005905
+19799532	200	209	glyburide	Chemical	MESH:D005905
+19799532	215	226	glimepiride	Chemical	MESH:C057619
+19799532	281	287	people	Species	9606
+19799532	300	308	diabetes	Disease	MESH:D003920
+19799532	419	431	sulfonylurea	Chemical	MESH:D013453
+19799532	439	445	CYP2C9	Gene	1559
+19799532	478	506	sulfonylurea drug metabolism	Disease	MESH:D065606
+19799532	508	514	CYP2C9	Gene	1559
+19799532	601	608	CYP2C19	Gene	1557
+19799532	642	652	gliclazide	Chemical	MESH:D005907
+19799532	687	693	CYP2C9	Gene	1559
+19799532	695	707	Sulfonylurea	Chemical	MESH:D013453
+19799532	755	778	Sulfonylurea receptor 1	Gene	6833
+19799532	780	784	SUR1	Gene	6833
+19799532	786	791	ABCC8	Gene	6833
+19799532	822	828	Kir6.2	Gene	3767
+19799532	830	836	KCNJ11	Gene	3767
+19799532	887	899	sulfonylurea	Chemical	MESH:D013453
+19799532	910	919	Diabetics	Disease	MESH:D003920
+19799532	929	933	SUR1	Gene	6833
+19799532	973	983	gliclazide	Chemical	MESH:D005907
+19799532	992	998	rs5210	SNP	rs5210
+19799532	1014	1020	KCNJ11	Gene	3767
+19799532	1076	1086	gliclazide	Chemical	MESH:D005907
+19799532	1100	1129	Transcription factor 7-like 2	Gene	6934
+19799532	1131	1137	TCF7L2	Gene	6934
+19799532	1172	1184	sulfonylurea	Chemical	MESH:D013453
+19799532	1213	1221	patients	Species	9606
+19799532	1227	1237	HNF-1alpha	Gene	6927
+19799532	1286	1296	gliclazide	Chemical	MESH:D005907
+19799532	1332	1340	diabetes	Disease	MESH:D003920
+19799532	1369	1397	insulin receptor substrate 1	Gene	3667
+19799532	1399	1403	IRS1	Gene	3667
+19799532	1438	1450	sulfonylurea	Chemical	MESH:D013453
+19799532	1460	1470	Calpain 10	Gene	11132
+19799532	1477	1483	CAPN10	Gene	11132
+19799532	1522	1534	sulfonylurea	Chemical	MESH:D013453
+19799532	1670	1682	sulfonylurea	Chemical	MESH:D013453
+19799532	1869	1881	sulfonylurea	Chemical	MESH:D013453
+19799532	1889	1895	people	Species	9606
+19799532	1901	1909	diabetes	Disease	MESH:D003920
+
+20119856|t|Haplotype association of calpain 10 gene variants with type 2 diabetes mellitus in an Irish sample.
+20119856|a|BACKGROUND: Calpain 10 (CAPN10) gene may contribute to the pathogenesis of type 2 diabetes mellitus (T2DM). AIM: To examine the contribution of four CAPN10 gene variants to T2DM risk in an Irish sample. METHODS: Genotyping of marker 19 insertion-deletion (ins/del) and three CAPN10 variants, rs3792267, rs3749166 and rs5030952 at the CAPN10 gene was performed in 236 T2DM subjects and 120 controls. Allelic, genotypic and haplotype comparisons were conducted between the groups. RESULTS: In the examined markers, no significant differences were observed although the deletion/deletion allele tended to be more common in T2DM subjects (chi(2) = 3.2, P = 0.07). A significant overrepresentation of a haplotype comprising (rs3792267), (19) and rs3749166 (chi(2) = 5.3, P = 0.021) was seen in T2DM subjects. Two protective haplotypes were detected: (G-ins-G) of (rs3792267), (19) and rs3749166 (chi(2) = 6.7, P = 0.009) and (ins-G-C) of (19), (rs3749166) and rs5030952 (chi(2) = 8.5, P = 0.003). CONCLUSIONS: CAPN10 gene variants may affect T2DM susceptibility in the Irish population.
+20119856	25	35	calpain 10	Gene	11132
+20119856	62	79	diabetes mellitus	Disease	MESH:D003920
+20119856	112	122	Calpain 10	Gene	11132
+20119856	124	130	CAPN10	Gene	11132
+20119856	175	199	type 2 diabetes mellitus	Disease	MESH:D003924
+20119856	249	255	CAPN10	Gene	11132
+20119856	375	381	CAPN10	Gene	11132
+20119856	392	401	rs3792267	SNP	rs3792267
+20119856	403	412	rs3749166	SNP	rs3749166
+20119856	417	426	rs5030952	SNP	rs5030952
+20119856	434	440	CAPN10	Gene	11132
+20119856	820	829	rs3792267	SNP	rs3792267
+20119856	841	850	rs3749166	SNP	rs3749166
+20119856	959	968	rs3792267	SNP	rs3792267
+20119856	980	989	rs3749166	SNP	rs3749166
+20119856	1040	1049	rs3749166	SNP	rs3749166
+20119856	1055	1064	rs5030952	SNP	rs5030952
+20119856	1105	1111	CAPN10	Gene	11132
+
+20142250|t|Diabetes genes and prostate cancer in the Atherosclerosis Risk in Communities study.
+20142250|a|There is a known inverse association between type 2 diabetes (T2D) and prostate cancer (PrCa) that is poorly understood. Genetic studies of the T2D-PrCa association may provide insight into the underlying mechanisms of this association. We evaluated associations in the Atherosclerosis Risk in Communities study between PrCa and nine T2D single nucleotide polymorphisms from genome-wide association studies of T2D (in CDKAL1, CDKN2A/B, FTO, HHEX, IGF2BP2, KCNJ11, PPARG, SLC30A8, and TCF7L2) and four T2D single nucleotide polymorphisms from pre-genome-wide association studies (in ADRB2, CAPN10, SLC2A2, and UCP2). From 1987 to 2000, there were 397 incident PrCa cases among 6,642 men ages 45 to 64 years at baseline. We used race-adjusted Cox proportional hazards models to estimate associations between PrCa and increasing number of T2D risk-raising alleles. PrCa was positively associated with the CAPN10 rs3792267 G allele [hazard ratio (HR) 1.20; 95% confidence interval (CI), 1.00-1.44] and inversely associated with the SLC2A2 rs5400 Thr110 allele (HR, 0.85; 95% CI, 0.72, 1.00), the UCP2 rs660339 Val55 allele (HR, 0.84; 95% CI, 0.73, 0.97) and the IGF2BP2 rs4402960 T allele (HR, 0.79; 95% CI, 0.61-1.02; blacks only). The TCF7L2 rs7903146 T allele was inversely associated with PrCa using a dominant genetic model (HR, 0.79; 95% CI, 0.65-0.97). Further knowledge of T2D gene-PrCa mechanisms may improve understanding of PrCa etiology.
+20142250	0	14	Diabetes genes	Disease	MESH:D058495
+20142250	19	34	prostate cancer	Disease	MESH:D011471
+20142250	42	57	Atherosclerosis	Disease	MESH:D050197
+20142250	137	145	diabetes	Disease	MESH:D003920
+20142250	156	171	prostate cancer	Disease	MESH:D011471
+20142250	355	370	Atherosclerosis	Disease	MESH:D050197
+20142250	503	509	CDKAL1	Gene	54901
+20142250	511	519	CDKN2A/B	Gene	1029;1030
+20142250	521	524	FTO	Gene	79068
+20142250	526	530	HHEX	Gene	3087
+20142250	532	539	IGF2BP2	Gene	10644
+20142250	541	547	KCNJ11	Gene	3767
+20142250	549	554	PPARG	Gene	5468
+20142250	556	563	SLC30A8	Gene	169026
+20142250	569	575	TCF7L2	Gene	6934
+20142250	667	672	ADRB2	Gene	154
+20142250	674	680	CAPN10	Gene	11132
+20142250	682	688	SLC2A2	Gene	6514
+20142250	694	698	UCP2	Gene	7351
+20142250	767	770	men	Species	9606
+20142250	987	993	CAPN10	Gene	11132
+20142250	994	1003	rs3792267	SNP	rs3792267
+20142250	1113	1119	SLC2A2	Gene	6514
+20142250	1120	1126	rs5400	SNP	rs5400
+20142250	1127	1130	Thr	Chemical	MESH:C055175
+20142250	1177	1181	UCP2	Gene	7351
+20142250	1182	1190	rs660339	SNP	rs660339
+20142250	1243	1250	IGF2BP2	Gene	10644
+20142250	1251	1260	rs4402960	SNP	rs4402960
+20142250	1318	1324	TCF7L2	Gene	6934
+20142250	1325	1334	rs7903146	SNP	rs7903146
+
+20178008|t|Association of diabetes susceptibility gene calpain-10 with pancreatic cancer among smokers.
+20178008|a|OBJECTIVE: The objective of this study was to test the association between calpain-10 (CAPN10), a diabetes susceptibility gene, with risk of pancreatic cancer (PC). METHODS: DNA samples from 83 incident exocrine PC cases and 166 controls, all of whom were smokers, were genotyped for four markers of CAPN10 in a nested case-control study based on the Beta-Carotene and Retinol Efficacy Trial (CARET), a randomized chemoprevention trial of subjects at high risk of lung cancer. Controls were matched on sex, race, age, CARET intervention arm, duration of exposure to asbestos, and smoking history. Conditional logistic regression was used for statistical analyses. RESULTS: The minor allele of SNP-43 (rs3792267) in intron 3 was associated with increased risk of PC with an odds ratio of 1.57 (95%CI 1.03-2.38, p = 0.035) per allele. The three markers of the highest risk haplotype had an odds ratio of 1.98 (95%CI 1.12-3.49, p = 0.019) for risk of PC compared to the most common haplotype. There was no evidence of interaction between either of these associations by diabetes status. CONCLUSION: These results suggest that variation in CAPN10 may be associated with increased risk of PC among smokers. Thus, studies of genes associated with diabetes risk in PC are warranted in a larger population.
+20178008	15	23	diabetes	Disease	MESH:D003920
+20178008	44	54	calpain-10	Gene	11132
+20178008	60	77	pancreatic cancer	Disease	MESH:D010190
+20178008	168	178	calpain-10	Gene	11132
+20178008	180	186	CAPN10	Gene	11132
+20178008	191	199	diabetes	Disease	MESH:D003920
+20178008	234	251	pancreatic cancer	Disease	MESH:D010190
+20178008	393	399	CAPN10	Gene	11132
+20178008	444	457	Beta-Carotene	Chemical	MESH:D019207
+20178008	462	469	Retinol	Chemical	MESH:D014801
+20178008	557	568	lung cancer	Disease	MESH:D008175
+20178008	794	803	rs3792267	SNP	rs3792267
+20178008	1160	1168	diabetes	Disease	MESH:D003920
+20178008	1229	1235	CAPN10	Gene	11132
+20178008	1334	1342	diabetes	Disease	MESH:D003920
+
+20193213|t|[Association between calpain-10 gene polymorphism and risk of type 2 diabetes mellitus: a meta analysis].
+20193213|a|OBJECTIVE: The purpose of this study was to approach the relation of SNP43, SNP44 locus, main haplotypes and haplotype combinations with type 2 diabetes mellitus (T2DM). METHODS: According to the theory and principles of systematic review, data from case-control studies regarding the association between calpain-10 (CAPN10) gene and T2DM were derived through electronic search of PubMed and Chinese journals databases. To gain a more precise estimation of the relationship, a stratified Meta-analysis with four subgroups was performed according to the races. Publication bias was also assessed. RESULTS: The association with T2DM in different races was evaluated. In Mongoloid race, SNP43-G allele, G/G genotype and 111/221 haplotype combination showed notable association with T2DM with ORs (95%CI) as 1.368 (1.155 - 1.620), 1.437 (1.186 - 1.741) and 2.762 (1.287 - 5.927) respectively. In Caucasoid race, SNP44-C allele, 111/111 hapotype combination showed strong relationship with T2DM with ORs (95%CI) as 1.144 (1.023 - 1.278), 1.291(1.050 - 1.586) respectively. In Hybrid race, only one positive finding was obtained which was SNP44-C allele with OR (95%CI) as 1.653 (1.025 - 2.665). CONCLUSION: SNP43-G allele, G/G genotype, 111/221 were risk factors to Mongoloid race. And SNP-C allele, 111/111 haplotype combination were risk factors to Caucasoid race, and SNP44-C allele to Hybrid race.
+20193213	21	31	calpain-10	Gene	11132
+20193213	69	86	diabetes mellitus	Disease	MESH:D003920
+20193213	243	267	type 2 diabetes mellitus	Disease	MESH:D003924
+20193213	411	421	calpain-10	Gene	11132
+20193213	423	429	CAPN10	Gene	11132
+20193213	1014	1021	SNP44-C	Chemical	MESH:C121720
+20193213	1239	1246	SNP44-C	Chemical	MESH:C121720
+20193213	1387	1392	SNP-C	Chemical	MESH:C121720
+20193213	1472	1479	SNP44-C	Chemical	MESH:C121720
+
+20368234|t|Co-existence of risk and protective haplotypes of Calpain 10 gene to type 2 diabetes in the eastern Indian population.
+20368234|a|Linkage and association studies have detected a role for Calpain-10 (CAPN10) polymorphisms in susceptibility to T2DM in many populations. This study aimed to evaluate possible associations between three SNPs in the CAPN10 (UCSNPs -43, -19 and -63) gene and T2DM in the east Indian population. The distribution of genotype frequency of UCSNP-63 varied significantly between T2DM patients and controls under a dominant model. The uncommon (T) allele (OR = 3.74, 95% CI: 1.44-9.7) of the UCSNP-63 and haplotype 112 (OR = 3.4, 95% CI: 1.17-9.9) were associated with increased risk of T2DM. On the contrary, the most common haplotype 121 (OR = 0.70 95% CI: 0.50-0.99) was associated with a reduced risk for T2DM. In our population a novel 111/112-haplotype combination created by the CAPN10 UCSNP-43, -19 and -63 was associated with risk of T2DM. Haplotypes 112 and 121 with opposite genetic influences also co-exist in our population.
+20368234	50	60	Calpain 10	Gene	11132
+20368234	76	84	diabetes	Disease	MESH:D003920
+20368234	176	186	Calpain-10	Gene	11132
+20368234	188	194	CAPN10	Gene	11132
+20368234	334	340	CAPN10	Gene	11132
+20368234	497	505	patients	Species	9606
+20368234	898	904	CAPN10	Gene	11132
+
+20388922|t|Calpain-10 is a component of the obesity-related quantitative trait locus Adip1.
+20388922|a|We previously mapped Adip1, an obesity quantitative trait locus (QTL), to the central portion of murine chromosome 1 containing the calpain-10 (Capn10) gene. Human studies have associated calpain-10 (CAPN10) variants with type 2 diabetes and various metabolic traits. We performed a quantitative hybrid complementation test (QHCT) to determine whether differences attributed to Adip1 are the result of variant Capn10 alleles in LG/J and SM/J mice. We crossed LG/J and SM/J to wild-type (C57BL/6J) and Capn10 knockout (Capn10(-/-)) mice to form four F(1) hybrid groups: LG/J by wild-type, LG/J by Capn10(-/-), SM/J by wild-type, and SM/J by Capn10(-/-). We performed a two-way ANOVA with the experimental strain, tester strain, and their interaction as the factors. Significant interaction indicates a quantitative failure to complement. We found failure to complement for fat, organ, and body weights, and leptin, female free fatty acid, and triglyceride levels. Capn10(-/-) resulted in heavier weights and higher serum levels in LG/J crosses but not in SM/J crosses. For glucose tolerance and insulin response tests, the Capn10(-/-) allele resulted in lower glucose levels in crosses with SM/J but had no effect in the LG/J crosses. Differences between the LG/J and SM/J Capn10 alleles are the likely source of some of the QTL effects mapped to Adip1 in the LG/J-by-SM/J cross. Capn10 plays an important role in regulating obesity and diabetes in mice.
+20388922	0	10	Calpain-10	Gene	23830
+20388922	33	40	obesity	Disease	MESH:D009765
+20388922	74	79	Adip1	Gene	114337
+20388922	102	107	Adip1	Gene	114337
+20388922	112	119	obesity	Disease	MESH:D009765
+20388922	178	184	murine	Species	10090
+20388922	213	223	calpain-10	Gene	23830
+20388922	225	231	Capn10	Gene	23830
+20388922	239	244	Human	Species	9606
+20388922	269	279	calpain-10	Gene	11132
+20388922	281	287	CAPN10	Gene	11132
+20388922	310	318	diabetes	Disease	MESH:D003920
+20388922	459	464	Adip1	Gene	114337
+20388922	491	497	Capn10	Gene	23830
+20388922	523	527	mice	Species	10090
+20388922	582	588	Capn10	Gene	23830
+20388922	599	605	Capn10	Gene	23830
+20388922	612	616	mice	Species	10090
+20388922	677	683	Capn10	Gene	23830
+20388922	721	727	Capn10	Gene	23830
+20388922	1007	1017	fatty acid	Chemical	MESH:D005227
+20388922	1023	1035	triglyceride	Chemical	MESH:D014280
+20388922	1044	1050	Capn10	Gene	23830
+20388922	1153	1160	glucose	Chemical	MESH:D005947
+20388922	1203	1209	Capn10	Gene	23830
+20388922	1240	1247	glucose	Chemical	MESH:D005947
+20388922	1353	1359	Capn10	Gene	23830
+20388922	1427	1432	Adip1	Gene	114337
+20388922	1460	1466	Capn10	Gene	23830
+20388922	1505	1512	obesity	Disease	MESH:D009765
+20388922	1517	1525	diabetes	Disease	MESH:D003920
+20388922	1529	1533	mice	Species	10090
+
+20406624|t|Association of CAPN10 gene with insulin sensitivity, glucose tolerance and renal function in essential hypertensive patients.
+20406624|a|BACKGROUND: Essential hypertension (EH) is a common disorder, which can increase the risk for type 2 diabetes (T2D). Calpain-10 (CAPN10) gene was the first candidate gene of T2D identified through genome-wide linkage and positional cloning, but few works have focused on the relationship of CAPN10 with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) in EH patients. METHODS: To identify the effect of UCSNP-43 and UCSNP-44 in CAPN10 gene on susceptibility to IFG/IGT, we conducted a case-control study in 961 EH patients with and without IFG/IGT among Han Chinese population. We also evaluated the impact of two SNPs on insulin sensitivity and glucose tolerance estimated through oral glucose tolerance test and renal functions by blood chemical assays. RESULTS: The major findings of this study were that UCSNP-43 displayed higher G120 and AUCg. In addition, UCSNP-44 was found associated with IFG/IGT in EH patients, and associated with increased G30, G60, AUCg, Cederholm index, Scr and eGFR. The haplotype UCSNP-43-44 was detected associated with IFG/IGT susceptibility, G60, G120, I0, AUCg, Scr and eGFR by the linear regression with the adjustment for sex, age, BMI, mean blood pressures and ACEI/ARB treatment. CONCLUSIONS: These findings provided some evidence that CAPN10 gene may play an important role in the pathogenesis of IFG/IGT in EH patients.
+20406624	15	21	CAPN10	Gene	11132
+20406624	32	39	insulin	Gene	3630
+20406624	53	60	glucose	Chemical	MESH:D005947
+20406624	103	115	hypertensive	Disease	MESH:D006973
+20406624	116	124	patients	Species	9606
+20406624	148	160	hypertension	Disease	MESH:D006973
+20406624	220	235	type 2 diabetes	Disease	MESH:D003924
+20406624	243	253	Calpain-10	Gene	11132
+20406624	255	261	CAPN10	Gene	11132
+20406624	417	423	CAPN10	Gene	11132
+20406624	429	453	impaired fasting glucose	Disease	MESH:D018149
+20406624	463	489	impaired glucose tolerance	Disease	MESH:D018149
+20406624	502	510	patients	Species	9606
+20406624	572	578	CAPN10	Gene	11132
+20406624	658	666	patients	Species	9606
+20406624	766	773	insulin	Gene	3630
+20406624	790	797	glucose	Chemical	MESH:D005947
+20406624	831	838	glucose	Chemical	MESH:D005947
+20406624	1055	1063	patients	Species	9606
+20406624	1136	1140	eGFR	Gene	1956
+20406624	1250	1254	eGFR	Gene	1956
+20406624	1420	1426	CAPN10	Gene	11132
+20406624	1496	1504	patients	Species	9606
+
+20470430|t|Common polymorphisms of calpain-10 and the risk of Type 2 Diabetes in a Tunisian Arab population: a case-control study.
+20470430|a|BACKGROUND: Genetic variations in the calpain-10 gene (CAPN10), in particular the at-risk diplotype (112/121), were previously implicated with increased risk of type 2 diabetes (T2D). METHODS: We examined the association of CAPN10 UCSNP-43 (rs3792267), UCSNP-19 (rs3842570), and UCSNP-63 (rs5030952) SNPs with T2D in 917 Tunisian T2D patients and 748 non-diabetic controls. CAPN10 genotyping was done by PCR-RFLP. RESULTS: Enrichment of UCSNP-19 2R (minor) allele and 2R/2R genotype was found in T2D patients; the allele and genotype distribution of UCSNP-43 and UCSNP-63 alleles and genotypes were not significantly different between patient groups and non-diabetic control subjects. Regression analysis demonstrated progressive increases in T2D risk in 3R/2R [OR (95% CI) = 1.35 (1.08 - 1.68)] and 2R/2R [OR (95% CI) = 1.61 (1.20 - 2.18)] genotypes. Of the six haplotypes detected, enrichment of haplotype 111 (UCSNP-43/UCSNP-19/UCSNP-63) was seen in patients (Pc = 0.034); the distribution of the other haplotypes was comparable between patients and control subjects; neither haplotype 211 nor haplotype 212 was observed. Furthermore, the frequency of all CAPN10 diplotypes identified, including the "high-risk diplotype (112/121) reported for Mexican-Americans and Northern Europeans, were comparable between patients and controls. CONCLUSIONS: CAPN10 UCSNP-19 variant, and the 111 haplotype contribute to the risk of T2D in Tunisian subjects; no significant associations between CAPN10 diplotypes and T2D were demonstrated for Tunisians.
+20470430	24	34	calpain-10	Gene	11132
+20470430	51	66	Type 2 Diabetes	Disease	MESH:D003924
+20470430	158	168	calpain-10	Gene	11132
+20470430	175	181	CAPN10	Gene	11132
+20470430	288	296	diabetes	Disease	MESH:D003920
+20470430	344	350	CAPN10	Gene	11132
+20470430	361	370	rs3792267	SNP	rs3792267
+20470430	383	392	rs3842570	SNP	rs3842570
+20470430	409	418	rs5030952	SNP	rs5030952
+20470430	454	462	patients	Species	9606
+20470430	475	483	diabetic	Disease	MESH:D003920
+20470430	494	500	CAPN10	Gene	11132
+20470430	620	628	patients	Species	9606
+20470430	755	762	patient	Species	9606
+20470430	778	786	diabetic	Disease	MESH:D003920
+20470430	1073	1081	patients	Species	9606
+20470430	1160	1168	patients	Species	9606
+20470430	1279	1285	CAPN10	Gene	11132
+20470430	1433	1441	patients	Species	9606
+20470430	1469	1475	CAPN10	Gene	11132
+20470430	1604	1610	CAPN10	Gene	11132
+
+20570542|t|Variants within the calpain-10 gene and relationships with type 2 diabetes (T2DM) and T2DM-related traits among Tunisian Arabs.
+20570542|a|BACKGROUND: Common variations in the calpain 10 (CAPN10) gene variants UCSNP-43, UCSNP-19 and UCSNP-63, and the 112/121 diplotype, are associated with an increased risk of type 2 diabetes (T2DM) and T2DM-related traits. METHODS: The association of UCSNP-43, -19 and -63 CAPN10 SNPs with T2DM was assessed in 917 Tunisian T2DM patients and 748 ethnically matched non-diabetic controls. CAPN10 genotyping was done by PCR-RFLP. RESULTS: Significant differences in UCSNP-19 MAF, but not UCSNP-43 or -63, and genotype distribution were seen between patients and controls. Heterogeneity in UCSNP-19, but not UCSNP-43 and -63, genotype distribution was noted according to geographical origin. Obesity was associated with UCSNP-19, while raised fasting glucose was associated with UCSNP-63, and increased HDL was associated with UCSNP-43. Enrichment of homozygous UCSNP-19 2/2 was seen in overweight and obese compared with lean patients; logistic-regression analyses demonstrated a positive association of the 2/2 genotype with overweight [P=0.003; OR (95% CI)=2.07 (1.28-3.33)] and obese [P=0.021; OR (95% CI)=1.83 (1.10-3.07)] patients. Of the six CAPN10 haplotypes identified, significant enrichment of only haplotype 111 was seen in T2DM patients [Pc=0.034; OR (95% CI)=1.22 (1.06-1.41)], while the frequency of all identified CAPN10 diplotypes, including the high-risk 112/121, was comparable between patients and controls. CONCLUSION: While CAPN10 UCSNP-19 SNP and haplotype 111 contribute to the risk of T2DM in Tunisian subjects, no significant association between CAPN10 diplotypes and T2DM was demonstrated.
+20570542	20	30	calpain-10	Gene	11132
+20570542	59	74	type 2 diabetes	Disease	MESH:D003924
+20570542	165	175	calpain 10	Gene	11132
+20570542	177	183	CAPN10	Gene	11132
+20570542	307	315	diabetes	Disease	MESH:D003920
+20570542	398	404	CAPN10	Gene	11132
+20570542	454	462	patients	Species	9606
+20570542	494	502	diabetic	Disease	MESH:D003920
+20570542	513	519	CAPN10	Gene	11132
+20570542	598	601	MAF	Gene	4094
+20570542	672	680	patients	Species	9606
+20570542	814	821	Obesity	Disease	MESH:D009765
+20570542	873	880	glucose	Chemical	MESH:D005947
+20570542	1024	1029	obese	Disease	MESH:D009765
+20570542	1049	1057	patients	Species	9606
+20570542	1204	1209	obese	Disease	MESH:D009765
+20570542	1250	1258	patients	Species	9606
+20570542	1271	1277	CAPN10	Gene	11132
+20570542	1363	1371	patients	Species	9606
+20570542	1452	1458	CAPN10	Gene	11132
+20570542	1527	1535	patients	Species	9606
+20570542	1568	1574	CAPN10	Gene	11132
+20570542	1694	1700	CAPN10	Gene	11132
+
+20667559|t|Association of calpain 10 gene polymorphisms with type 2 diabetes mellitus in Southern Indians.
+20667559|a|The aim was to investigate the association between the CAPN10 gene single nucleotide polymorphisms (SNPs) -44 (rs2975760), -43 (rs3792267), -19 (rs3842570), and -63 (rs5030952) and type 2 diabetes mellitus in an Asian Indian population in Southern India. A total of 1443 subjects, 794 normal glucose tolerant (NGT) and 649 type 2 diabetes mellitus subjects, were randomly selected from the Chennai Urban Rural Epidemiology Study. These subjects were genotyped for the 4 CAPN10 SNPs using polymerase chain reaction-restriction fragment length polymorphism and validated by direct sequencing. None of the 4 SNPs showed any significant differences in the genotypic distribution among the NGT and type 2 diabetes mellitus subjects (P = .20, .86, .34, and .39 for SNPs -44, -43, -19, and -63, respectively). The NGT subjects with the 11 genotype of the SNP -63 had significantly higher 2-hour postload plasma glucose (mean +- SD, 5.66 +- 1.05 mmol/L) levels compared with the combined 12 and 22 genotype group (5.33 +- 1.11 mmol/L, P = .004). The P value remained significant even after adjusting for age, sex, body mass index, smoking, and alcohol consumption (nominal P = .008). No significant difference in the biochemical parameters was observed when the subjects were stratified according to the other SNPs. The 2111 haplotype corresponding to SNPs -44, -43, -19, and -63 showed a significant difference in the proportion among NGT (0.18) and type 2 diabetes mellitus subjects (0.22, nominal P = .014). Although the Bonferroni correction based on the asymptotic test does not preserve this significance, the test based on the empirical distribution remained significant. In conclusion, our study raises the possibility that the 2111 haplotype of SNPs -44, -43, -19, and -63 may be associated with type 2 diabetes mellitus, although none of these SNPs may be individually associated with diabetes.
+20667559	15	25	calpain 10	Gene	11132
+20667559	57	74	diabetes mellitus	Disease	MESH:D003920
+20667559	151	157	CAPN10	Gene	11132
+20667559	207	216	rs2975760	SNP	rs2975760
+20667559	224	233	rs3792267	SNP	rs3792267
+20667559	241	250	rs3842570	SNP	rs3842570
+20667559	262	271	rs5030952	SNP	rs5030952
+20667559	284	301	diabetes mellitus	Disease	MESH:D003920
+20667559	388	395	glucose	Chemical	MESH:D005947
+20667559	426	443	diabetes mellitus	Disease	MESH:D003920
+20667559	566	572	CAPN10	Gene	11132
+20667559	796	813	diabetes mellitus	Disease	MESH:D003920
+20667559	1000	1007	glucose	Chemical	MESH:D005947
+20667559	1232	1239	alcohol	Chemical	MESH:D000431
+20667559	1546	1563	diabetes mellitus	Disease	MESH:D003920
+20667559	1893	1917	type 2 diabetes mellitus	Disease	MESH:D003924
+20667559	1983	1991	diabetes	Disease	MESH:D003920
+
+20923526|t|Ethnic difference in patients with type 2 diabetes mellitus in inter-East Asian populations: a systematic review and meta-analysis focusing on gene polymorphism.
+20923526|a|BACKGROUND: We previously reported that the fasting serum insulin level was significantly lower in Japanese patients than in Korean and Chinese patients, and showed evidence that a difference in the dietary component would be one of the most influential factors for the ethnic difference. However, it is well known that type 2 diabetes mellitus (T2DM) results from the interaction between genetic predispositions and environmental risk factors. Therefore, we investigated ethnic differences by focusing on gene polymorphism, possibly related to T2DM in Japanese, Korean, and Chinese subjects. METHODS: Data sources included MEDLINE and EMBASE between January 2001 and October 2008. We conducted a search for articles containing minor allele frequency (MAF) in the gene polymorphisms of peroxisome proliferator-activated receptor-gamma (PPARG), inward-rectifying potassium channel Kir6.2 (KCNJ11), Calpain 10 (CAPN10), and transcription factor 7-like 2 (TCF7L2). The pooled odds ratio was calculated by using a fixed-effects model with the Mantel-Haenszel method after confirming statistical evidence of homogeneity across the ethnicities using the Breslow-Day test. RESULTS: The Breslow-Day test revealed that there were no statistically significant differences between ethnicities in pooled odds ratios for the gene polymorphisms in PPARG (P = 0.828), KCNJ11 (P = 0.194), CAPN10 (P = 0.090), and TCF7L2 (P = 0.376). Also, pooled odds ratios of each gene polymorphism in East Asians were 0.645 for PPARG (P = 0.000), 1.168 for KCNJ11 (P = 0.000), 0.967 for CAPN10 (P = 0.759), and 1.386 for TCF7L2 (P = 0.000). CONCLUSION: The results of this study and our previous studies suggest that behavioral and environmental risk factors have a more significant impact on ethnic difference in East Asian patients with T2DM compared with genetic predispositions.
+20923526	21	29	patients	Species	9606
+20923526	35	59	type 2 diabetes mellitus	Disease	MESH:D003924
+20923526	220	227	insulin	Gene	3630
+20923526	270	278	patients	Species	9606
+20923526	306	314	patients	Species	9606
+20923526	489	506	diabetes mellitus	Disease	MESH:D003920
+20923526	948	996	peroxisome proliferator-activated receptor-gamma	Gene	5468
+20923526	998	1003	PPARG	Gene	5468
+20923526	1024	1033	potassium	Chemical	MESH:D011188
+20923526	1042	1048	Kir6.2	Gene	3767
+20923526	1050	1056	KCNJ11	Gene	3767
+20923526	1059	1069	Calpain 10	Gene	11132
+20923526	1071	1077	CAPN10	Gene	11132
+20923526	1084	1113	transcription factor 7-like 2	Gene	6934
+20923526	1115	1121	TCF7L2	Gene	6934
+20923526	1496	1501	PPARG	Gene	5468
+20923526	1515	1521	KCNJ11	Gene	3767
+20923526	1535	1541	CAPN10	Gene	11132
+20923526	1559	1565	TCF7L2	Gene	6934
+20923526	1660	1665	PPARG	Gene	5468
+20923526	1689	1695	KCNJ11	Gene	3767
+20923526	1719	1725	CAPN10	Gene	11132
+20923526	1753	1759	TCF7L2	Gene	6934
+20923526	1957	1965	patients	Species	9606
+
+21389182|t|Calpain-10 interacts with plasma saturated fatty acid concentrations to influence insulin resistance in individuals with the metabolic syndrome.
+21389182|a|BACKGROUND: Calpain-10 protein (intracellular Ca(2+)-dependent cysteine protease) may play a role in glucose metabolism, pancreatic beta cell function, and regulation of thermogenesis. Several CAPN10 polymorphic sites have been studied for their potential use as risk markers for type 2 diabetes and the metabolic syndrome (MetS). Fatty acids are key metabolic regulators that may interact with genetic factors and influence glucose metabolism. OBJECTIVE: The objective was to examine whether the genetic variability at the CAPN10 gene locus is associated with the degree of insulin resistance and plasma fatty acid concentrations in subjects with MetS. DESIGN: The insulin sensitivity index, glucose effectiveness, insulin resistance [homeostasis model assessment of insulin resistance (HOMA-IR)], insulin secretion (disposition index, acute insulin response, and HOMA of beta cell function), plasma fatty acid composition, and 5 CAPN10 single nucleotide polymorphisms (SNPs) were determined in a cross-sectional analysis of 452 subjects with MetS participating in the LIPGENE dietary intervention cohort. RESULTS: The rs2953171 SNP interacted with plasma total saturated fatty acid (SFA) concentrations, which were significantly associated with insulin sensitivity (P &lt; 0.031 for fasting insulin, P &lt; 0.028 for HOMA-IR, and P &lt; 0.012 for glucose effectiveness). The G/G genotype was associated with lower fasting insulin concentrations, lower HOMA-IR, and higher glucose effectiveness in subjects with low SFA concentrations (below the median) than in subjects with the minor A allele (G/A and A/A). In contrast, subjects with the G/G allele with the highest SFA concentrations (above the median) had higher fasting insulin and HOMA-IR values and lower glucose effectiveness than did subjects with the A allele. CONCLUSION: The rs2953171 polymorphism at the CAPN10 gene locus may influence insulin sensitivity by interacting with the plasma fatty acid composition in subjects with MetS. This trial was registered at clinicaltrials.gov as NCT00429195.
+21389182	0	10	Calpain-10	Gene	11132
+21389182	43	53	fatty acid	Chemical	MESH:D005227
+21389182	82	89	insulin	Gene	3630
+21389182	125	143	metabolic syndrome	Disease	MESH:D008659
+21389182	157	167	Calpain-10	Gene	11132
+21389182	191	197	Ca(2+)	Chemical	MESH:D002118
+21389182	208	216	cysteine	Chemical	MESH:D003545
+21389182	246	264	glucose metabolism	Disease	MESH:D044882
+21389182	266	281	pancreatic beta	Disease	MESH:D010195
+21389182	338	344	CAPN10	Gene	11132
+21389182	425	440	type 2 diabetes	Disease	MESH:D003924
+21389182	449	467	metabolic syndrome	Disease	MESH:D008659
+21389182	476	487	Fatty acids	Chemical	MESH:D005227
+21389182	570	588	glucose metabolism	Disease	MESH:D044882
+21389182	669	675	CAPN10	Gene	11132
+21389182	720	727	insulin	Gene	3630
+21389182	750	760	fatty acid	Chemical	MESH:D005227
+21389182	811	818	insulin	Gene	3630
+21389182	838	845	glucose	Chemical	MESH:D005947
+21389182	861	868	insulin	Gene	3630
+21389182	913	920	insulin	Gene	3630
+21389182	944	951	insulin	Gene	3630
+21389182	988	995	insulin	Gene	3630
+21389182	1046	1056	fatty acid	Chemical	MESH:D005227
+21389182	1076	1082	CAPN10	Gene	11132
+21389182	1265	1274	rs2953171	SNP	rs2953171
+21389182	1318	1328	fatty acid	Chemical	MESH:D005227
+21389182	1330	1333	SFA	Chemical	MESH:C087202
+21389182	1392	1399	insulin	Gene	3630
+21389182	1438	1445	insulin	Gene	3630
+21389182	1494	1501	glucose	Chemical	MESH:D005947
+21389182	1569	1576	insulin	Gene	3630
+21389182	1619	1626	glucose	Chemical	MESH:D005947
+21389182	1662	1665	SFA	Chemical	MESH:C087202
+21389182	1815	1818	SFA	Chemical	MESH:C087202
+21389182	1872	1879	insulin	Gene	3630
+21389182	1909	1916	glucose	Chemical	MESH:D005947
+21389182	1984	1993	rs2953171	SNP	rs2953171
+21389182	2014	2020	CAPN10	Gene	11132
+21389182	2046	2053	insulin	Gene	3630
+21389182	2097	2107	fatty acid	Chemical	MESH:D005227
+
+21834909|t|A replication study of the IRS1, CAPN10, TCF7L2, and PPARG gene polymorphisms associated with type 2 diabetes in two different populations of Mexico.
+21834909|a|Type 2 diabetes (T2D) is a chronic degenerative disease that involves the participation of several genetic and environmental factors. The objective of the study was to determine the association of the IRS1 (rs1801278), CAPN10 (rs3792267), TCF7L2 (rs7903146 and rs12255372), and PPARG (rs1801282) gene polymorphisms with T2D, in two different Mexican populations. We conducted a case-control replication study in the state of Guerrero and in Mexico City, with 400 subjects from Guerrero and 1065 from Mexico City. Data were analyzed by logistic regression, adjusting by ancestry, age, gender, and BMI, to determine the association with T2D. Heterozygosity for the Gly972Arg variant of the IRS1 gene showed the strongest association for T2D in both analyzed samples (OR = 2.43, 95% CI 1.12-5.26 and 2.64, 95% CI 1.37-5.10, respectively). In addition, an association of two SNPs of the TCF7L2 gene with T2D was observed in both cities: rs7903146, (for Guerrero OR = 1.98 CI95% 1.02-3.89 and for Mexico OR = 1.94 CI95% 1.31-2.88) and rs12255372 (OR = 1.79 CI95% 1.08-2.97, OR = 1.78 CI95% 1.17-2.71 respectively). We suggest that our results provide strong evidence that variation in the IRS1 and TCF7L2 genes confers susceptibility to T2D in our studied populations.
+21834909	27	31	IRS1	Gene	3667
+21834909	33	39	CAPN10	Gene	11132
+21834909	41	47	TCF7L2	Gene	6934
+21834909	53	58	PPARG	Gene	5468
+21834909	101	109	diabetes	Disease	MESH:D003920
+21834909	150	165	Type 2 diabetes	Disease	MESH:D003924
+21834909	185	205	degenerative disease	Disease	MESH:D019636
+21834909	351	355	IRS1	Gene	3667
+21834909	357	366	rs1801278	SNP	rs1801278
+21834909	369	375	CAPN10	Gene	11132
+21834909	377	386	rs3792267	SNP	rs3792267
+21834909	389	395	TCF7L2	Gene	6934
+21834909	397	406	rs7903146	SNP	rs7903146
+21834909	411	421	rs12255372	SNP	rs12255372
+21834909	428	433	PPARG	Gene	5468
+21834909	435	444	rs1801282	SNP	rs1801282
+21834909	838	842	IRS1	Gene	3667
+21834909	1033	1039	TCF7L2	Gene	6934
+21834909	1083	1092	rs7903146	SNP	rs7903146
+21834909	1180	1190	rs12255372	SNP	rs12255372
+21834909	1334	1338	IRS1	Gene	3667
+21834909	1343	1349	TCF7L2	Gene	6934
+
+22384174|t|Association of CAPN10 SNPs and haplotypes with polycystic ovary syndrome among South Indian Women.
+22384174|a|Polycystic Ovary Syndrome (PCOS) is known to be characterized by metabolic disorder in which hyperinsulinemia and peripheral insulin resistance are central features. Given the physiological overlap between PCOS and type-2 diabetes (T2DM), and calpain 10 gene (CAPN10) being a strong candidate for T2DM, a number of studies have analyzed CAPN10 SNPs among PCOS women yielding contradictory results. Our study is first of its kind to investigate the association pattern of CAPN10 polymorphisms (UCSNP-44, 43, 56, 19 and 63) with PCOS among Indian women. 250 PCOS cases and 299 controls from Southern India were recruited for this study. Allele and genotype frequencies of the SNPs were determined and compared between the cases and controls. Results show significant association of UCSNP-44 genotype CC with PCOS (p = 0.007) with highly significant odds ratio when compared to TC (OR = 2.51, p = 0.003, 95% CI = 1.37-4.61) as well as TT (OR = 1.94, p = 0.016, 95% CI = 1.13-3.34). While the haplotype carrying the SNP-44 and SNP-19 variants (21121) exhibited a 2 fold increase in the risk for PCOS (OR = 2.37, p = 0.03), the haplotype containing SNP-56 and SNP-19 variants (11221) seems to have a protective role against PCOS (OR = 0.20, p = 0.004). Our results support the earlier evidence for a possible role of UCSNP-44 of the CAPN10 gene in the manifestation of PCOS.
+22384174	15	21	CAPN10	Gene	11132
+22384174	47	72	polycystic ovary syndrome	Disease	MESH:D011085
+22384174	92	97	Women	Species	9606
+22384174	99	124	Polycystic Ovary Syndrome	Disease	MESH:D011085
+22384174	126	130	PCOS	Disease	MESH:D011085
+22384174	164	182	metabolic disorder	Disease	MESH:D008659
+22384174	192	208	hyperinsulinemia	Disease	MESH:D006946
+22384174	224	231	insulin	Gene	3630
+22384174	305	309	PCOS	Disease	MESH:D011085
+22384174	314	329	type-2 diabetes	Disease	MESH:D003924
+22384174	342	352	calpain 10	Gene	11132
+22384174	359	365	CAPN10	Gene	11132
+22384174	436	442	CAPN10	Gene	11132
+22384174	454	458	PCOS	Disease	MESH:D011085
+22384174	459	464	women	Species	9606
+22384174	570	576	CAPN10	Gene	11132
+22384174	626	630	PCOS	Disease	MESH:D011085
+22384174	644	649	women	Species	9606
+22384174	655	659	PCOS	Disease	MESH:D011085
+22384174	905	909	PCOS	Disease	MESH:D011085
+22384174	1190	1194	PCOS	Disease	MESH:D011085
+22384174	1318	1322	PCOS	Disease	MESH:D011085
+22384174	1427	1433	CAPN10	Gene	11132
+22384174	1463	1467	PCOS	Disease	MESH:D011085
+
+22796443|t|Identification of copy number variation of CAPN10 in Thais with type 2 diabetes by multiplex PCR and denaturing high performance liquid chromatography (DHPLC).
+22796443|a|Copy number variations (CNVs) have been shown to be associated with several diseases. They can cause deviation of genotypes from Hardy-Weinberg Equilibrium (HWE). Genetic case-control association studies in Thais revealed that genotype distribution of CAPN10 Indel19 was deviated from HWE after correction of genotyping error. Therefore, we aim to identify CNVs within CAPN10 Indel19 region. The semi-quantitative denaturating high performance liquid chromatography (DHPLC) method was used to detect CNVs in the region of CAPN10 Indel19 marker in cohort of 305 patients with type 2 diabetes and 250 control subjects without diabetes. CNVs in the region of CAPN10 Indel19 was successfully detected by DHPLC. After correction of genotype calling based on the status of identified CNVs, CAPN10 Indel19 genotypes were well-fitted for HWE (p&gt;0.05). However, we did not find association between CNV genotypes and risk of type 2 diabetes in our population. CNVs in CAPN10 have been identified in Thais. These CNVs lead to deviation from HWE of CAPN10 Indel19 genotypes. After excluding identified CNVs from the analysis, CAPN10 Indel19 was associated with type 2 diabetes. The information obtained from our study would be helpful for genotyping accuracies of SNPs residing in the CNVs region.
+22796443	43	49	CAPN10	Gene	11132
+22796443	71	79	diabetes	Disease	MESH:D003920
+22796443	412	418	CAPN10	Gene	11132
+22796443	529	535	CAPN10	Gene	11132
+22796443	682	688	CAPN10	Gene	11132
+22796443	721	729	patients	Species	9606
+22796443	735	750	type 2 diabetes	Disease	MESH:D003924
+22796443	784	792	diabetes	Disease	MESH:D003920
+22796443	816	822	CAPN10	Gene	11132
+22796443	944	950	CAPN10	Gene	11132
+22796443	1085	1093	diabetes	Disease	MESH:D003920
+22796443	1121	1127	CAPN10	Gene	11132
+22796443	1200	1206	CAPN10	Gene	11132
+22796443	1277	1283	CAPN10	Gene	11132
+22796443	1319	1327	diabetes	Disease	MESH:D003920
+
+23021796|t|Calpain-10 gene polymorphisms in type 2 diabetes and its micro- and macrovascular complications.
+23021796|a|Genetic variations in the calpain 10 gene (CAPN10) were previously implicated with increased risk of type 2 diabetes (T2DM). We studied the association of single nucleotide polymorphisms in the CAPN10 gene, SNP -43, SNP -19 and SNP -63, with T2DM and its complications. Overall, we examined 1440 individuals: 880 patients with diabetes and 560 healthy subjects, all Caucasians of Polish origin. All subjects were genotyped for the CAPN10 SNPs by polymerase chain reaction (PCR). The frequencies of alleles, genotypes and haplotypes at three studied loci were similar between the groups. However, the -43 SNP was significantly more frequent in T2DM patients with coexisting cardiovascular disease (CVD) than in patients without CVD (p=0.001). The -43 SNP was still significantly associated with the risk of CVD after adjusting for potential risk factors including male gender, age, BMI, dyslipidemia and hypertension. The odds ratio for G allele for CVD+ versus CVD- patients was 1.89, 95% CI 1.52-2.35. None of the studied SNPs was significantly associated with microvascular diabetic complications. There was a tendency to increased frequency of SNP -43 1/1 homozygotes in patients with diabetic retinopathy (p=0.057). The homozygous haplotype combination 121/121 was more frequent in T2DM patients than in non-diabetic controls (18.4% vs 10.5%, p=0.019). In conclusion, the results of our study suggest the significant association of SNP -43 with the risk of CVD coexisting with T2DM. We also observed that 121/121 haplotype was associated with T2DM in the studied population.
+23021796	0	10	Calpain-10	Gene	11132
+23021796	40	48	diabetes	Disease	MESH:D003920
+23021796	123	133	calpain 10	Gene	11132
+23021796	140	146	CAPN10	Gene	11132
+23021796	205	213	diabetes	Disease	MESH:D003920
+23021796	291	297	CAPN10	Gene	11132
+23021796	410	418	patients	Species	9606
+23021796	424	432	diabetes	Disease	MESH:D003920
+23021796	528	534	CAPN10	Gene	11132
+23021796	745	753	patients	Species	9606
+23021796	770	792	cardiovascular disease	Disease	MESH:D002318
+23021796	807	815	patients	Species	9606
+23021796	983	995	dyslipidemia	Disease	MESH:D050171
+23021796	1000	1012	hypertension	Disease	MESH:D006973
+23021796	1063	1071	patients	Species	9606
+23021796	1159	1195	microvascular diabetic complications	Disease	OMIM:603933
+23021796	1271	1279	patients	Species	9606
+23021796	1285	1305	diabetic retinopathy	Disease	MESH:D003930
+23021796	1388	1396	patients	Species	9606
+
+23249316|t|Genetic susceptibility to type 2 diabetes: a global meta-analysis studying the genetic differences in Tunisian populations.
+23249316|a|The present study is the first meta-analysis to evaluate type 2 diabetes (T2D)- associated polymorphisms in cohorts originated from several Tunisian regions. In fact, we evaluated the effect of seven polymorphisms in the following genes-PPARg (Pro12Ala), TNFalpha (-308A/G), ENPP1(K121Q), TCF7L2(rs7903146 C/T), MTHFR(C677T), ACE(I/D), and CAPN10(3R/2R)-on T2D risk, through a meta-analysis combining data of previous studies performed on Tunisian populations originating from the north, center, or south of the country. R statistics version 2.12.1 software was used to estimate the heterogeneity between studies. Pooled odds ratios were computed by the fixed-effects method of Mantel-Haenszel if no heterogeneity between studies exists. Despite the similarities founded in a number of loci, the Woolf test reported that the contributions of ENPP1 and ACE loci in T2D risk are dependent on the geographic origin of concerned groups, and this heterogeneity could be attributed not only to the variable contribution of the variant in T2D risk but also to diversities of genetic background between tested groups. Interestingly, observed heterogeneity highlighted founding concerning Y chromosome and the mitochondrial DNA about the genetic structure of Tunisian population and proves once again that Tunisians, like the north-Africans, are a mosaic of subpopulations, with significant differences in genetic structure. In homogeneous groups, we replicated the association of single-nucleotide polymorphisms of TCF7L2, MTHFR, CAPN 10, TNFalpha, and ACE genes with a T2D risk in the Tunisian population with OR ranging from 1.43 to 6.72. However, we reported an absence of the association of PPARg with T2D in the Tunisian population.
+23249316	26	41	type 2 diabetes	Disease	MESH:D003924
+23249316	188	196	diabetes	Disease	MESH:D003920
+23249316	361	366	PPARg	Gene	5468
+23249316	368	376	Pro12Ala	Chemical	MESH:C046500
+23249316	379	387	TNFalpha	Gene	7124
+23249316	389	396	-308A/G	DNAMutation	c.-308A>G;RS#:1800629
+23249316	399	404	ENPP1	Gene	5167
+23249316	405	410	K121Q	ProteinMutation	p.K121Q;RS#:1044498
+23249316	413	419	TCF7L2	Gene	6934
+23249316	420	429	rs7903146	SNP	rs7903146
+23249316	436	441	MTHFR	Gene	4524
+23249316	442	447	C677T	DNAMutation	c.677C>T;RS#:1801133
+23249316	450	453	ACE	Gene	1636
+23249316	464	470	CAPN10	Gene	11132
+23249316	966	971	ENPP1	Gene	5167
+23249316	976	979	ACE	Gene	1636
+23249316	1631	1637	TCF7L2	Gene	6934
+23249316	1639	1644	MTHFR	Gene	4524
+23249316	1646	1653	CAPN 10	Gene	11132
+23249316	1655	1663	TNFalpha	Gene	7124
+23249316	1669	1672	ACE	Gene	1636
+23249316	1811	1816	PPARg	Gene	5468
+
+23262350|t|The reduction of Calpain-10 expression is associated with risk polymorphisms in obese children.
+23262350|a|Excessive weight gain and obesity are major public health concerns. Childhood obesity is growing at an alarming rate. Polymorphisms in the Calpain-10 gene and the reduced expression of this gene in muscle cells and adipocytes have been associated with an increased risk of type 2 diabetes mellitus in several populations. In the present study, we explored the contribution of Calpain-10 in the development of metabolic impairment in childhood. We evaluated the presence of risk polymorphisms in the CAPN10 gene (SNP-44, SNP-43, InDel-19 and SNP-63) and the associated changes in the Calpain-10 mRNA levels in a pediatric population. A total of 161 Mexican children between 4 and 18 years old were included in this study. This population was classified into three groups according to international growth references: healthy weight (HW), overweight (OW) and obese (OB). Association studies of the anthropometric data, clinical values, genotyping and expression assays showed a decrease in the Calpain-10 mRNA and protein expression in the OW and OB groups with respect to the HW group. This decrease in the Calpain-10 mRNA expression was more evident in individuals homozygous for SNP-44 (T/T) and InDel-19 (3/3), alone (p&lt;0.001 and p=0.015, respectively) or in combination (p=0.017). These polymorphisms were also associated with elevated BMI, weight percentiles, z-scores, waist circumferences, fasting glucose levels and beta cell functions in the OW and OB groups (p&lt;0.05). Moreover, our results indicate a statistically significant decrease in the expression of the 75-kDa Calpain-10 isoform in the OW+OB group. The presence of polymorphisms and alterations in the expression of the CAPN10 gene at early ages might result in metabolic impairment in adulthood and should be further investigated.
+23262350	17	27	Calpain-10	Gene	11132
+23262350	80	85	obese	Disease	MESH:D009765
+23262350	86	94	children	Species	9606
+23262350	96	117	Excessive weight gain	Disease	MESH:D015430
+23262350	122	129	obesity	Disease	MESH:D009765
+23262350	174	181	obesity	Disease	MESH:D009765
+23262350	235	245	Calpain-10	Gene	11132
+23262350	376	393	diabetes mellitus	Disease	MESH:D003920
+23262350	472	482	Calpain-10	Gene	11132
+23262350	505	525	metabolic impairment	Disease	MESH:D008659
+23262350	595	601	CAPN10	Gene	11132
+23262350	679	689	Calpain-10	Gene	11132
+23262350	752	760	children	Species	9606
+23262350	953	958	obese	Disease	MESH:D009765
+23262350	960	962	OB	Disease	MESH:D009765
+23262350	1088	1098	Calpain-10	Gene	11132
+23262350	1141	1143	OB	Disease	MESH:D009765
+23262350	1202	1212	Calpain-10	Gene	11132
+23262350	1503	1510	glucose	Chemical	MESH:D005947
+23262350	1556	1558	OB	Disease	MESH:D009765
+23262350	1679	1689	Calpain-10	Gene	11132
+23262350	1708	1710	OB	Disease	MESH:D009765
+23262350	1789	1795	CAPN10	Gene	11132
+23262350	1831	1851	metabolic impairment	Disease	MESH:D008659
+
+24034724|t|Analysis of the structure of calpain-10 and its interaction with the protease inhibitor SNJ-1715.
+24034724|a|Calpain-10 (CAPN10) is a cysteine protease that is activated by intracellular calcium (Ca(2+)) and known to be involved in diseases such as cancer, heart attack, and stroke. A role for the CAPN10 gene in diabetes mellitus type II was recently identified. Hyper activation of the enzyme initiates a series of destructive cycles that can cause irreversible damage to cells. The development of inhibitors may be useful as therapeutic agents for a number of calpainopathies. In this paper, we have used the homology modelling technique to determine the 3D structure of calpain-10 from Homo sapiens. The model of calpain-10 obtained by homology modelling suggests that its active site is conserved among family members and the main interactions are similar to those observed for mu-calpain. Structural analysis revealed that there are small differences in the charge distribution and molecular surface of the enzyme. These differences are probably less dependent on calcium for calpain-10 than they are for mu-calpain. In addition, the ion pair Cys(-)/His(+) formation was observed using of Molecular Dynamics (MD) simulations that were based upon hybrid quantum mechanical/molecular mechanical (QM/MM) approaches. Finally, the binding of the SNJ-1715 inhibitor to calpain-10 was investigated in order to further understand the mechanism of inhibition of calpain-10 by this inhibitor at the molecular level.
+24034724	29	39	calpain-10	Gene	11132
+24034724	88	96	SNJ-1715	Chemical	MESH:C512439
+24034724	98	108	Calpain-10	Gene	11132
+24034724	110	116	CAPN10	Gene	11132
+24034724	123	131	cysteine	Chemical	MESH:D003545
+24034724	176	183	calcium	Chemical	MESH:D002118
+24034724	185	191	Ca(2+)	Chemical	MESH:D002118
+24034724	238	244	cancer	Disease	MESH:D009369
+24034724	264	270	stroke	Disease	MESH:D020521
+24034724	287	293	CAPN10	Gene	11132
+24034724	302	327	diabetes mellitus type II	Disease	MESH:D003924
+24034724	552	567	calpainopathies	Disease	MESH:C535895
+24034724	663	673	calpain-10	Gene	11132
+24034724	679	691	Homo sapiens	Species	9606
+24034724	706	716	calpain-10	Gene	11132
+24034724	1059	1066	calcium	Chemical	MESH:D002118
+24034724	1071	1081	calpain-10	Gene	11132
+24034724	1138	1151	Cys(-)/His(+)	Chemical	MESH:C000592895
+24034724	1292	1294	MM	Disease	MESH:D009101
+24034724	1336	1344	SNJ-1715	Chemical	MESH:C512439
+24034724	1358	1368	calpain-10	Gene	11132
+24034724	1448	1458	calpain-10	Gene	11132
+
+24059590|t|The TCF7L2 rs7903146 (T) allele is associated with type 2 diabetes in urban Ghana: a hospital-based case-control study.
+24059590|a|BACKGROUND: Type 2 diabetes mellitus is increasing dramatically in sub-Saharan Africa, and genetic predisposition is likely involved in that. Yet, genetic variants known to confer increased susceptibility among Caucasians are far from being established in African populations. In Ghanaian adults, we examined associations of several of these polymorphisms with type 2 diabetes. METHODS: A hospital-based case-control study on type 2 diabetes (and hypertension) was conducted in Kumasi, Ghana. TCF7L2 rs7903146, KCNJ11 rs5219, PPARgamma rs1801282 and CAPN10 rs3842570, rs3792267, and rs5030952 were typed and associations with type 2 diabetes and phenotypic traits examined. RESULTS: 675 patients with type 2 diabetes and 377 controls were compared. The minor allele frequency of the TCF7L2 (T) allele was 0.33. In the multivariate model, this allele increased the risk of type 2 diabetes by 39% (95% confidence interval (CI), 1.07-1.81; p = 0.014). The minor alleles KCNJ11 (G) and PPARgamma (G) were practically absent (each, 0.001). Minor allele frequencies of CAPN10 were for -43 (A) 0.11 and for -63 (C) 0.46. These variants showed no significant associations with type 2 diabetes. Two CAPN10 haplotypes tended to protect against type 2 diabetes: 211 (aOR, 0.32; 95% CI, 0.03-1.92; p = 0.31) and 221 (aOR, 0.73; 95% CI, 0.48-1.10; p = 0.13). CONCLUSIONS: In urban Ghana, the frequency of the TCF7L2 rs7903146 (T) allele is comparable to the one in Caucasians; the association with type 2 diabetes is slightly weaker. The risk allele KCNJ11 (G) and the protective allele PPARgamma (G) are virtually absent. The potential influence of comparatively rare CAPN10 haplotypes on type 2 diabetes risk in this population requires further evaluation. Large-scale genetic studies among native Africans aiming at fine-mapping the candidate genes are needed to identify the actual factors involved in their increased susceptibility to type 2 diabetes.
+24059590	4	10	TCF7L2	Gene	6934
+24059590	11	20	rs7903146	SNP	rs7903146
+24059590	58	66	diabetes	Disease	MESH:D003920
+24059590	139	156	diabetes mellitus	Disease	MESH:D003920
+24059590	488	496	diabetes	Disease	MESH:D003920
+24059590	553	561	diabetes	Disease	MESH:D003920
+24059590	567	579	hypertension	Disease	MESH:D006973
+24059590	613	619	TCF7L2	Gene	6934
+24059590	620	629	rs7903146	SNP	rs7903146
+24059590	631	637	KCNJ11	Gene	3767
+24059590	638	644	rs5219	SNP	rs5219
+24059590	646	655	PPARgamma	Gene	5468
+24059590	656	665	rs1801282	SNP	rs1801282
+24059590	670	676	CAPN10	Gene	11132
+24059590	677	686	rs3842570	SNP	rs3842570
+24059590	688	697	rs3792267	SNP	rs3792267
+24059590	703	712	rs5030952	SNP	rs5030952
+24059590	753	761	diabetes	Disease	MESH:D003920
+24059590	807	815	patients	Species	9606
+24059590	821	836	type 2 diabetes	Disease	MESH:D003924
+24059590	903	909	TCF7L2	Gene	6934
+24059590	999	1007	diabetes	Disease	MESH:D003920
+24059590	1087	1093	KCNJ11	Gene	3767
+24059590	1102	1111	PPARgamma	Gene	5468
+24059590	1183	1189	CAPN10	Gene	11132
+24059590	1296	1304	diabetes	Disease	MESH:D003920
+24059590	1310	1316	CAPN10	Gene	11132
+24059590	1361	1369	diabetes	Disease	MESH:D003920
+24059590	1516	1522	TCF7L2	Gene	6934
+24059590	1523	1532	rs7903146	SNP	rs7903146
+24059590	1612	1620	diabetes	Disease	MESH:D003920
+24059590	1657	1663	KCNJ11	Gene	3767
+24059590	1694	1703	PPARgamma	Gene	5468
+24059590	1776	1782	CAPN10	Gene	11132
+24059590	1804	1812	diabetes	Disease	MESH:D003920
+24059590	2054	2062	diabetes	Disease	MESH:D003920
+
+24266779|t|Variation in the calpain-10 gene is not associated with gestational diabetes mellitus.
+24266779|a|BACKGROUND: In several large studies an association between certain single-nucleotide polymorphisms (SNP) of the calpain-10 gene (CAPN10) with type 2 diabetes mellitus (T2D) has been identified. Since T2D and gestational diabetes mellitus (GDM) seem to be linked pathophysiologically, we examined the frequencies of CAPN10-polymorphisms in women with GDM. METHODS: By using real-time PCR assisted melting curve analysis samples of 204 women with GDM and 297 controls were tested for variations of SNP-43, -44, -63 and Indel-19 of CAPN10. RESULTS: Since the genotype frequencies found in SNP-44 among the controls did not meet the Hardy-Weinberg-Equilibrium, the further analysis was performed with SNP-43, -63 and Indel-19 only. Herein, the distribution of neither genotype nor allele nor haplogenotype-combination nor haplotype showed a significant difference between both groups. CONCLUSIONS: Variations of SNP-43, -63 and Indel-19 of CAPN10 were not associated with an increased risk of developing GDM.
+24266779	17	27	calpain-10	Gene	11132
+24266779	56	85	gestational diabetes mellitus	Disease	MESH:D016640
+24266779	200	210	calpain-10	Gene	11132
+24266779	217	223	CAPN10	Gene	11132
+24266779	230	254	type 2 diabetes mellitus	Disease	MESH:D003924
+24266779	296	325	gestational diabetes mellitus	Disease	MESH:D016640
+24266779	403	409	CAPN10	Gene	11132
+24266779	427	432	women	Species	9606
+24266779	522	527	women	Species	9606
+24266779	617	623	CAPN10	Gene	11132
+24266779	1024	1030	CAPN10	Gene	11132
+
+24429295|t|Ethnic differences in CAPN10 SNP-19 in type 2 diabetes: a North-West Indian case control study and evidence from meta-analysis.
+24429295|a|Summary Calpain 10 (CAPN10) variants have been associated with the genetic susceptibility to type 2 diabetes (T2D). In the present case-control study, we analysed the distribution of SNP-19 insertion/deletion (I/D) polymorphism in a total of 607 samples (103 T2D cases and 102 healthy controls) from Brahmin; (100 T2D cases and 100 healthy controls) from Bania and (100 T2D cases and 102 healthy controls) from Jat Sikh ethnic groups of the North-West Indian population. Increased frequency of I allele and II genotype was found in T2D in Brahmin ethnic group [P = 0 003, OR = 2 83 (1 43-5 61 at 95% CI)]. Significant correlation between II genotype and body mass index (BMI) was also observed [P = 0 003, OR = 3 31 (1 52-7 20 at 95% CI)]. No association for the genotypes and alleles was seen in Banias and Jat Sikhs. Our data suggests that SNP-19 I/D variation in the CAPN10 gene is modulated by ethnicity and influences the susceptibility to T2D in the North-West Indian population. We also performed a meta-analysis of relevant studies to assess the validity of this association. Data from 13 case-control studies with 15 760 samples comprising of 8395 T2D cases and 7365 controls were finally analysed. Significant heterogeneity between individual studies was evident in dominant and codominant models. The results of present meta-analysis indicate an association of T2D with carriers of DD genotype of CAPN10 I/D polymorphism. However, further analyses on a larger sample size are required to establish a conclusive association in meta-analysis. 
+24429295	22	28	CAPN10	Gene	11132
+24429295	46	54	diabetes	Disease	MESH:D003920
+24429295	136	146	Calpain 10	Gene	11132
+24429295	148	154	CAPN10	Gene	11132
+24429295	221	236	type 2 diabetes	Disease	MESH:D003924
+24429295	998	1004	CAPN10	Gene	11132
+24429295	1536	1542	CAPN10	Gene	11132
+
+24508288|t|Role of calpain-10 in the development of diabetes mellitus and its complications.
+24508288|a|Calpain activity has been implicated in several cellular processes such as cell signaling, apoptosis, exocytosis, mitochondrial metabolism and cytoskeletal remodeling. Evidence has indicated that the impairment of calpain expression and the activity of different calpain family members are involved in diverse pathologies. Calpain-10 has been implicated in the development of type 2 diabetes, and polymorphisms in the CAPN10 gene have been associated with an increased risk of developing this disease. The present work focused on the molecular biology of calpain-10, supporting its key participation in glucose metabolism. Current knowledge regarding the role of calpain-10 in the development of type 2 diabetes mellitus and diabetes-related diseases is additionally reviewed. 
+24508288	8	18	calpain-10	Gene	11132
+24508288	41	58	diabetes mellitus	Disease	MESH:D003920
+24508288	82	89	Calpain	Gene	11132
+24508288	345	352	calpain	Gene	11132
+24508288	405	415	Calpain-10	Gene	11132
+24508288	458	473	type 2 diabetes	Disease	MESH:D003924
+24508288	500	506	CAPN10	Gene	11132
+24508288	637	647	calpain-10	Gene	11132
+24508288	685	703	glucose metabolism	Disease	MESH:D044882
+24508288	745	755	calpain-10	Gene	11132
+24508288	778	802	type 2 diabetes mellitus	Disease	MESH:D003924
+24508288	807	815	diabetes	Disease	MESH:D003920
+
+24612564|t|Association of IRS1, CAPN10, and PPARG gene polymorphisms with type 2 diabetes mellitus in the high-risk population of Hyderabad, India.
+24612564|a|BACKGROUND: We attempted to validate earlier findings on the nature of the association of the IRS1, CAPN10, and PPARG genes with type 2 diabetes mellitus (T2DM) in the high-risk population of Hyderabad, India. METHODS: A sample of 1379 subjects (758 T2DM patients, 621 controls) was genotyped for single nucleotide polymorphisms (SNPs) of the IRS1 (rs1801278), CAPN10 (rs3792267, rs5030952), and PPARG (rs1801282) genes. RESULTS: The allele and genotype frequencies of IRS1 (rs1801278) and CAPN10 (rs3792267) SNPs differed significantly between the patient and control groups. Logistic regression analysis suggested a significant association of these two SNPs (P &lt;= 0.007) with T2DM and the strength of association did not alter when adjusted for age, gender, body mass index, and the waist : hip ratio as covariates. The same two SNPs showed significant association in multivariate logistic regression analyses, even after Bonferroni correction for multiple testing, suggesting an independent nature of the role of these genes in the manifestation of T2DM in our population. CONCLUSIONS: We replicated the significant association of rs1801278 and rs3792267 SNPs of the IRS1 and CAPN10 genes with T2DM in the population of Hyderabad. Despite the known biological significance of the PPARG gene and a sufficient statistical power of the present study, we could not replicate the association of PPARG with T2DM in our high-risk population. Given the vast ethnic, geographic, and genetic heterogeneity of the Indian population, many more studies are needed covering the ethnic and geographic heterogeneity of India to enable identification of an Indian-specific profile of genes associated with T2DM.
+24612564	15	19	IRS1	Gene	3667
+24612564	21	27	CAPN10	Gene	11132
+24612564	33	38	PPARG	Gene	5468
+24612564	70	87	diabetes mellitus	Disease	MESH:D003920
+24612564	231	235	IRS1	Gene	3667
+24612564	237	243	CAPN10	Gene	11132
+24612564	249	254	PPARG	Gene	5468
+24612564	266	290	type 2 diabetes mellitus	Disease	MESH:D003924
+24612564	392	400	patients	Species	9606
+24612564	480	484	IRS1	Gene	3667
+24612564	486	495	rs1801278	SNP	rs1801278
+24612564	498	504	CAPN10	Gene	11132
+24612564	506	515	rs3792267	SNP	rs3792267
+24612564	517	526	rs5030952	SNP	rs5030952
+24612564	533	538	PPARG	Gene	5468
+24612564	540	549	rs1801282	SNP	rs1801282
+24612564	606	610	IRS1	Gene	3667
+24612564	612	621	rs1801278	SNP	rs1801278
+24612564	627	633	CAPN10	Gene	11132
+24612564	635	644	rs3792267	SNP	rs3792267
+24612564	686	693	patient	Species	9606
+24612564	1274	1283	rs1801278	SNP	rs1801278
+24612564	1288	1297	rs3792267	SNP	rs3792267
+24612564	1310	1314	IRS1	Gene	3667
+24612564	1319	1325	CAPN10	Gene	11132
+24612564	1423	1428	PPARG	Gene	5468
+24612564	1533	1538	PPARG	Gene	5468
+
+24630865|t|The calpain system and diabetes.
+24630865|a|Diabetes mellitus is recognized as a clinical syndrome that is characterized by hyperglycemia due to deficiency of insulin. The global prevalence of diabetes has been estimated to increase from 4% (1995) to 5.4% by the year 2025. Insulin dependent diabetes mellitus (IDDM/Type-1) in human, generating hyperglycemia due to insulin deficiency as a consequence of destructing beta cells in the pancreatic islets. Non-insulin dependent diabetes mellitus (NIDDM/Type-II), is a multifactorial, exact biochemical and genetic defect which has not yet been elucidated completely. Calpains seem to play a role in NIDDM and IDDM. Positional cloning experiments revealed that there is a NIDDM susceptibility to calpain 10 (CAPN10). Increased calpain activity and leukocyte trafficking were noticed in the microcirculation in ZDF (Zuker diabetic fatty) rats. Exercise and low body weight play a significant role in reducing calpains expression or elevating the calpains degradation in the skeletal muscle of NIDDM rats. Numerous investigations have been reported that non-coding polymorphisms in CAPN10 proteins might be involved in the NIDDM. Calpain and its mRNA presence had been reported in tissues from many mammalian species. CAPN10 and other calpains seem to be linked to glucose metabolism, insulin secretion and action pathways. This review will give an overview of the role of calpain in NIDDM and IDDM. 
+24630865	23	31	diabetes	Disease	MESH:D003920
+24630865	33	50	Diabetes mellitus	Disease	MESH:D003920
+24630865	113	126	hyperglycemia	Disease	MESH:D006943
+24630865	134	155	deficiency of insulin	Disease	MESH:D007333
+24630865	182	190	diabetes	Disease	MESH:D003920
+24630865	263	298	Insulin dependent diabetes mellitus	Disease	MESH:D003922
+24630865	300	304	IDDM	Disease	MESH:D003922
+24630865	316	321	human	Species	9606
+24630865	334	347	hyperglycemia	Disease	MESH:D006943
+24630865	355	373	insulin deficiency	Disease	MESH:D007333
+24630865	424	441	pancreatic islets	Disease	MESH:C535838
+24630865	443	482	Non-insulin dependent diabetes mellitus	Disease	MESH:D003924
+24630865	543	557	genetic defect	Disease	MESH:D030342
+24630865	646	650	IDDM	Disease	MESH:D003922
+24630865	732	742	calpain 10	Gene	11132
+24630865	744	750	CAPN10	Gene	11132
+24630865	851	871	Zuker diabetic fatty	Disease	MESH:D003920
+24630865	873	877	rats	Species	10116
+24630865	1034	1038	rats	Species	10116
+24630865	1116	1122	CAPN10	Gene	11132
+24630865	1233	1242	mammalian	Species	9606
+24630865	1252	1258	CAPN10	Gene	11132
+24630865	1299	1317	glucose metabolism	Disease	MESH:D044882
+24630865	1319	1326	insulin	Gene	3630
+24630865	1428	1432	IDDM	Disease	MESH:D003922
+
+24779302|t|A case-control study on the association of common variants of CAPN10 gene and the risk of type 2 diabetes in an Iranian population.
+24779302|a|BACKGROUND: Calpain-10 is a ubiquitously expressed protease that serves as an intracellular calcium-dependent cysteine protease and is regarded to be one of the candidate genes for type 2 diabetes mellitus (T2DM). We aimed to identify the association of the common variants of this gene and the risk of T2DM in the Kurdish ethnic group of Iran. METHODS: Study groups included 173 T2DM and 173 normoglycemic subjects. Genotyping was determined by PCR-RFLP. Genotypic and allelic frequencies were then evaluated. Data was analyzed using SPSS software. RESULTS: The allelic frequency of the A-allele of SNP-43 variant was significantly different (p = 0.01) between case and control groups (18% vs. 11%). The genotype frequencies for SNP-43 did not show any significant difference between case and control individuals. However, the dominant model of SNP-43 was found to be significantly associated with T2DM (OR = 1.75, 95% CI = 1.06 - 2.89, p &lt; 0.029). The distribution and allele frequency of other SNPs (SNP-19 and -63) did not show any significant difference between the study groups. For SNP-43, fasting serum insulin (p = 0.043) and HOMA-IR (p = 0.026) were higher in the control subjects with the GA+AA genotype when compared with the GG genotype. Among the T2DM subjects, there was no significant difference in any of the clinical or biochemical parameters between the GG and GA+AA genotypes of SNP-43. Normoglycemic subjects carrying the 2R/3R+3R/3R genotypes of SNP-19 had significantly lower HDL-C (p = 0.034) as compared with those with the 2R/2R genotype. In T2DM subjects, no significant difference was found in any of the clinical or biochemical parameters between 2R/2R and 2R/3R+3R/3R genotypes. T2DM subjects carrying the CT+TT genotypes of SNP-63 variation had significantly higher LDL-C (p = 0.015) as compared with those with the CC genotype. In normoglycemic subjects, no significant difference was found in any of the clinical or biochemical parameters between CC and CT+TT genotypes. CONCLUSIONS: Our findings revealed that there is an association between the SNP-43, but not SNP-19 and -63, and T2DM in the Kurdish ethnic group of West Iran.
+24779302	62	68	CAPN10	Gene	11132
+24779302	97	105	diabetes	Disease	MESH:D003920
+24779302	144	154	Calpain-10	Gene	11132
+24779302	224	231	calcium	Chemical	MESH:D002118
+24779302	242	250	cysteine	Chemical	MESH:D003545
+24779302	313	337	type 2 diabetes mellitus	Disease	MESH:D003924
+24779302	1246	1253	insulin	Gene	3630
+
+24993573|t|Utility of large consanguineous family-based model for investigating the genetics of type 2 diabetes mellitus.
+24993573|a|OBJECTIVES: This study examined the utility of a family-based model for replicating the results of genome-wide association studies (GWAS) of type 2 diabetes (T2D). METHODS AND RESULTS: In a total of 232 members of a large consanguineous Omani Arab pedigree (age: 16-80years), there were 27 diabetics and 50 prediabetics (17 with impaired fasting glucose and 33 with impaired glucose tolerance). All 232 individuals underwent anthropometric and biochemical investigations and genotyped for 14 known common gene variants of modest effect on T2D risk. Power analysis at a LOD score of 3, gave 80% power to locate a single specific locus that accounts for 52% of the total phenotypic variation. Measured genotype analysis (MGA) was used to determine heritability of various quantitative traits (QTs) which ranged 25-56%. Using MGA, some common gene variants were found to have little (&lt;5%) but significant impact on the heritability of T2D related QTs [KCNJ11 (rs5219), p=0.004]; [IGF2BP2 (rs4402960), p=0.02]; [SLC30A8 (rs13266634), p=0.05]; [CAPN10 (rs2975760), p=0.031]; [FTO (rs8050136), p=0.023]; [FTO (rs9939609), p=0.018] and [SLC30A8 (rs13266634), p=0.05]. Sib-TDT analysis showed that some gene variants were significantly associated with T2D risk but didn't reach the level of significance after Bonferroni correction [KCNJ11 (rs5219), p=0.047] and [CAPN10 (rs41266971), p=0.035]. CONCLUSION: We have demonstrated that, in principle, a family-based model with minor limitations could be used to replicate some of the results of large GWAS case-control studies. This model could successfully be applied for the future discovery, by deep sequencing, of rare gene variants.
+24993573	85	109	type 2 diabetes mellitus	Disease	MESH:D003924
+24993573	252	267	type 2 diabetes	Disease	MESH:D003924
+24993573	401	410	diabetics	Disease	MESH:D003920
+24993573	440	464	impaired fasting glucose	Disease	MESH:D018149
+24993573	477	503	impaired glucose tolerance	Disease	MESH:D018149
+24993573	1063	1069	KCNJ11	Gene	3767
+24993573	1071	1077	rs5219	SNP	rs5219
+24993573	1091	1098	IGF2BP2	Gene	10644
+24993573	1100	1109	rs4402960	SNP	rs4402960
+24993573	1122	1129	SLC30A8	Gene	169026
+24993573	1131	1141	rs13266634	SNP	rs13266634
+24993573	1154	1160	CAPN10	Gene	11132
+24993573	1162	1171	rs2975760	SNP	rs2975760
+24993573	1185	1188	FTO	Chemical	MESH:C075547
+24993573	1190	1199	rs8050136	SNP	rs8050136
+24993573	1213	1216	FTO	Chemical	MESH:C075547
+24993573	1218	1227	rs9939609	SNP	rs9939609
+24993573	1244	1251	SLC30A8	Gene	169026
+24993573	1253	1263	rs13266634	SNP	rs13266634
+24993573	1439	1445	KCNJ11	Gene	3767
+24993573	1447	1453	rs5219	SNP	rs5219
+24993573	1470	1476	CAPN10	Gene	11132
+24993573	1478	1488	rs41266971	SNP	rs41266971
+
+25238846|t|A genetic variant of the CAPN10 gene in Mexican subjects with dyslipidemia is associated with increased HDL-cholesterol concentrations after the consumption of a soy protein and soluble fiber dietary portfolio.
+25238846|a|Dyslipidemia is a major public health problem, and therefore, it is important to develop dietary strategies to diminish the prevalence of this disorder. It was recently reported that diet may play an important role in triggering insulin resistance by interacting with genetic variants at the CAPN10 gene locus in patients with metabolic syndrome. Nonetheless, it remains unknown whether genetic variants of genes involved in the development of type 2 diabetes are associated with variations in high-density lipoprotein cholesterol (HDL-C). The study used a single-center, prospective, cohort design. Here, we assessed the effect of four variants of the CAPN10 gene on HDL-C levels in response to a soy protein and soluble fiber dietary portfolio in subjects with dyslipidemia. In 31 Mexican dyslipidemic individuals, we analyzed four CAPN10 gene variants (rs5030952, rs2975762, rs3792267, and rs2975760) associated with type 2 diabetes. Subjects with the GG genotype of the rs2975762 variant of the CAPN10 gene were better responders to dietary intervention, showing increased HDL-C concentrations from the first month of treatment. HDL-C concentrations in participants with the wild type genotype increased by 17.0%, whereas the HDL-C concentration in subjects with the variant genotypes increased by only 3.22% (p = 0.03); the low-density lipoprotein cholesterol levels of GG carriers tended to decrease (-12.6%). These results indicate that Mexican dyslipidemic carriers of the rs2975762-GG genotype are better responders to this dietary intervention. 
+25238846	25	31	CAPN10	Gene	11132
+25238846	62	74	dyslipidemia	Disease	MESH:D050171
+25238846	108	119	cholesterol	Chemical	MESH:D002784
+25238846	211	223	Dyslipidemia	Disease	MESH:D050171
+25238846	503	509	CAPN10	Gene	11132
+25238846	524	532	patients	Species	9606
+25238846	538	556	metabolic syndrome	Disease	MESH:D008659
+25238846	662	670	diabetes	Disease	MESH:D003920
+25238846	730	741	cholesterol	Chemical	MESH:D002784
+25238846	864	870	CAPN10	Gene	11132
+25238846	974	986	dyslipidemia	Disease	MESH:D050171
+25238846	994	1014	Mexican dyslipidemic	Disease	MESH:C563087
+25238846	1045	1051	CAPN10	Gene	11132
+25238846	1067	1076	rs5030952	SNP	rs5030952
+25238846	1078	1087	rs2975762	SNP	rs2975762
+25238846	1089	1098	rs3792267	SNP	rs3792267
+25238846	1104	1113	rs2975760	SNP	rs2975760
+25238846	1138	1146	diabetes	Disease	MESH:D003920
+25238846	1185	1194	rs2975762	SNP	rs2975762
+25238846	1210	1216	CAPN10	Gene	11132
+25238846	1368	1380	participants	Species	9606
+25238846	1564	1575	cholesterol	Chemical	MESH:D002784
+25238846	1655	1675	Mexican dyslipidemic	Disease	MESH:C563087
+25238846	1692	1701	rs2975762	SNP	rs2975762
+
+25327507|t|A pharmacogenetic association between a variation in calpain 10 (CAPN10) gene and the response to metformin treatment in patients with type 2 diabetes.
+25327507|a|PURPOSE: The aim of the present study was to investigate possible associations of the single-nucleotide variants in six genes encoding the key molecules mediating the metformin pharmacodynamic effect with the response to treatment with metformin in patients with type 2 diabetes. METHODS: One hundred forty-eight drug-naive patients with type 2 diabetes were included in the study. PRKAA1 rs249429, STK11 rs741765, PCK1 rs4810083, PPARGC1A rs10213440, HNF1A rs11086926, and CAPN10 rs3792269 variants were genotyped. The outcomes of the study were treatment success defined by achieving HbA1c &lt;7 % and absolute reduction in HbAlc after 6-month metformin therapy. The relationships between genotypes and outcomes were evaluated in multivariate logistic and linear models. The level of statistical significance after Bonferroni correction was predefined as p&lt;0.0083. RESULTS: The minor G-allele of CAPN10 rs3792269 A&gt;G polymorphism was significantly associated with less treatment success with an odds ratio of 0.27 (95 % CI 0.12-0.62, p=0.002) per variant allele. When the reduction in HbA1c was analyzed as a quantitative trait, G-allele was nominally associated with a smaller reduction in HbA1c (per allele beta=-0.26, 95 % CI -0.50 to -0.02, p=0.032). The reduction in HbA1c in minor allele carriers (24 % of study population) was smaller by 0.3 % in comparison with the major allele homozygotes. CONCLUSIONS: The present study provides the first observation of an association between a variant in CAPN10 gene and the response to metformin therapy in patients with type 2 diabetes. This observation needs to be replicated in further studies in different populations.
+25327507	53	63	calpain 10	Gene	11132
+25327507	65	71	CAPN10	Gene	11132
+25327507	98	107	metformin	Chemical	MESH:D008687
+25327507	121	129	patients	Species	9606
+25327507	142	150	diabetes	Disease	MESH:D003920
+25327507	319	328	metformin	Chemical	MESH:D008687
+25327507	388	397	metformin	Chemical	MESH:D008687
+25327507	401	409	patients	Species	9606
+25327507	422	430	diabetes	Disease	MESH:D003920
+25327507	476	484	patients	Species	9606
+25327507	497	505	diabetes	Disease	MESH:D003920
+25327507	534	540	PRKAA1	Gene	5562
+25327507	541	549	rs249429	SNP	rs249429
+25327507	551	556	STK11	Gene	6794
+25327507	557	565	rs741765	SNP	rs741765
+25327507	567	571	PCK1	Gene	5105
+25327507	572	581	rs4810083	SNP	rs4810083
+25327507	583	591	PPARGC1A	Gene	10891
+25327507	592	602	rs10213440	SNP	rs10213440
+25327507	604	609	HNF1A	Gene	6927
+25327507	610	620	rs11086926	SNP	rs11086926
+25327507	626	632	CAPN10	Gene	11132
+25327507	633	642	rs3792269	SNP	rs3792269
+25327507	798	807	metformin	Chemical	MESH:D008687
+25327507	1053	1059	CAPN10	Gene	11132
+25327507	1060	1069	rs3792269	SNP	rs3792269
+25327507	1432	1436	HbA1	Gene	3039
+25327507	1661	1667	CAPN10	Gene	11132
+25327507	1693	1702	metformin	Chemical	MESH:D008687
+25327507	1714	1722	patients	Species	9606
+25327507	1735	1743	diabetes	Disease	MESH:D003920
+
+25382134|t|CAPN10 SNP43 G&gt;A gene polymorphism and type 2 diabetes mellitus in the Asian population: a meta-analysis of 9353 participants.
+25382134|a|A correlation between the single nucleotide polymorphism (SNP)43 G&gt;A in the calpain-10 (CAPN10) gene (i.e., CAPN10 SNP43) and type 2 diabetes mellitus (T2DM) susceptibility has been suggested, but the evidence for such a relationship remains controversial. To explore the association of the CAPN10 SNP43 with T2DM in Asian populations, a meta-analysis including 9,353 participants from 20 individual studies in Asian populations was conducted. The pooled odds ratios (ORs) and their corresponding 95% confidence intervals (95% CIs) were evaluated by a fixed-effect model or random-effect model. The relationship between CAPN10 SNP43 and T2DM was significant under allelic (OR: 1.18, 95% CI: 1.01-1.38, P = 0.03), recessive (OR: 1.236, 95% CI: 1.038-1.472, P =0.017), heterozygous (OR: 1.261, 95% CI: 1.053-1.512, P = 0.012), and additive (OR: 1.183, 95% CI: 1.014-1.381, P = 0.033) genetic models but not under dominant (OR: 1.12, 95% CI: 0.78-1.62, P = 0.53) or homozygous (OR: 0.937, 95% CI: 0.648-1.355, P = 0.730) genetic models. CAPN10 SNP43 was significantly associated with T2DM susceptibility in Asian populations, especially in Chinese populations. Asians, particularly Chinese people with the SNP43 G allele of the CAPN10 gene may have an increased risk of developing T2DM. 
+25382134	0	6	CAPN10	Gene	11132
+25382134	49	66	diabetes mellitus	Disease	MESH:D003920
+25382134	116	128	participants	Species	9606
+25382134	209	219	calpain-10	Gene	11132
+25382134	221	227	CAPN10	Gene	11132
+25382134	241	247	CAPN10	Gene	11132
+25382134	259	283	type 2 diabetes mellitus	Disease	MESH:D003924
+25382134	424	430	CAPN10	Gene	11132
+25382134	501	513	participants	Species	9606
+25382134	753	759	CAPN10	Gene	11132
+25382134	1167	1173	CAPN10	Gene	11132
+25382134	1320	1326	people	Species	9606
+25382134	1358	1364	CAPN10	Gene	11132
+
+25419435|t|Association of calpain-10 rs2975760 polymorphism with type 2 diabetes mellitus: a meta-analysis.
+25419435|a|Type 2 diabetes mellitus (T2DM) accounts for the majority of diabetes cases and affects a significant proportion of the adult population worldwide. Calpain-10 has been implicated in the development of type 2 diabetes, and some polymorphisms in the CAPN10 gene have been associated with an increased risk of developing this disease. Several molecular epidemiological studies were conducted in recent years to evaluate the association between the CAPN10 rs2975760 polymorphism and T2DM risk in diverse populations. However, the results remain conflicting rather than conclusive. We performed a meta-analysis of 8 case-control studies that included 2758 T2DM cases and 2762 case-free controls. We assessed the strength of the association, using odds ratios (ORs) with 95% confi dence intervals (CIs). Overall, this meta-analysis showed that the CAPN10 rs2975760 polymorphism was not associated with a significantly type 2 diabetes risk in three genetic models. However, after excluding two study for its heterogeneity, a significantly increased risk was found in all comparisons (for C vs T: OR=1.14, 95% CI=1.03-1.27, I (2)=0, P heterpgeneity=0.420, P b=0.012; for TC vs TT: OR=1.15, 95% CI=1.01-1.30, I (2)=3.8%, P heterpgeneity=0.392, P b=0.030; for CC+TC vs TT: OR=1.16, 95% CI=1.03-1.31, I (2)=3.7%, P heterpgeneity=0.393, P b=0.015). No publication bias was found in the present study. This meta-analysis suggests that the C allele of the CAPN10 rs2975760 polymorphism is associated with an increased T2DM risk. Further large and well-designed studies are needed to confi rm this association. 
+25419435	15	25	calpain-10	Gene	11132
+25419435	26	35	rs2975760	SNP	rs2975760
+25419435	61	78	diabetes mellitus	Disease	MESH:D003920
+25419435	97	121	Type 2 diabetes mellitus	Disease	MESH:D003924
+25419435	158	166	diabetes	Disease	MESH:D003920
+25419435	245	255	Calpain-10	Gene	11132
+25419435	298	313	type 2 diabetes	Disease	MESH:D003924
+25419435	345	351	CAPN10	Gene	11132
+25419435	542	548	CAPN10	Gene	11132
+25419435	549	558	rs2975760	SNP	rs2975760
+25419435	939	945	CAPN10	Gene	11132
+25419435	946	955	rs2975760	SNP	rs2975760
+25419435	1016	1024	diabetes	Disease	MESH:D003920
+25419435	1539	1545	CAPN10	Gene	11132
+25419435	1546	1555	rs2975760	SNP	rs2975760
+
+25606412|t|Investigation of Calpain 10 (rs2975760) gene polymorphism in Asian Indians with Gestational Diabetes Mellitus.
+25606412|a|BACKGROUND: Type 2 Diabetes Mellitus (T2DM) and Gestational Diabetes Mellitus (GDM) are part of a heterogeneous and complex metabolic group of disorders that share common pathophysiological circumstances, including beta-cell dysfunction and insulin resistance. The protein Calpain 10 (CAPN10) plays a role in glucose metabolism, pancreatic beta-cell insulin secretion, and thermogenesis. OBJECTIVE: Polymerase Chain Reaction-Restriction Fragment Length Polymorphism (PCR-RFLP) based genotyping of CAPN10 (rs2975760) polymorphism was carried out in T2DM and GDM with suitable controls for each of the pathologies from the same population. Genomic DNA was isolated from 787 participants, including 250 cases of T2DM, 287 pregnant women, of which 137 were identified as having GDM and the remaining 150 were confirmed as non-GDM, and 250 healthy control volunteers, and association analysis was carried out for genotypes and alleles. RESULTS: In the present study, T2DM was compared with healthy controls and was not found to be associated with the CAPN10 C allele (odds ratio, OR: 1.09; 95% CI = 0.8011-1.484; p = 0.5821). GDM also did not show any association when compared with non-GDM (OR: 1.124; 95% CI = 0.7585-1.667; p = 0.5606) respectively. CONCLUSION: Our study suggests that the CAPN10 (rs2975760) polymorphism scrutinized in this study is not associated with T2DM and GDM.
+25606412	17	27	Calpain 10	Gene	11132
+25606412	29	38	rs2975760	SNP	rs2975760
+25606412	80	109	Gestational Diabetes Mellitus	Disease	MESH:D016640
+25606412	123	147	Type 2 Diabetes Mellitus	Disease	MESH:D003924
+25606412	159	188	Gestational Diabetes Mellitus	Disease	MESH:D016640
+25606412	352	359	insulin	Gene	3630
+25606412	384	394	Calpain 10	Gene	11132
+25606412	396	402	CAPN10	Gene	11132
+25606412	420	438	glucose metabolism	Disease	MESH:D044882
+25606412	461	468	insulin	Gene	3630
+25606412	608	614	CAPN10	Gene	11132
+25606412	616	625	rs2975760	SNP	rs2975760
+25606412	783	795	participants	Species	9606
+25606412	839	844	women	Species	9606
+25606412	1157	1163	CAPN10	Gene	11132
+25606412	1398	1404	CAPN10	Gene	11132
+25606412	1406	1415	rs2975760	SNP	rs2975760
+
+25617558|t|[SNP-19 genotypic variants of CAPN10 gene and its relation to diabetes mellitus type 2 in a population of Ciudad Juarez, Mexico].
+25617558|a|INTRODUCTION: Diabetes Mellitus (DM) type 2 is a common pathology with multifactorial etiology, which exact genetic bases remain unknown. Some studies suggest that single nucleotides polymorphisms (SNPs) in the CAPN10 gene (Locus 2q37.3) could be associated with the development of this disease, including the insertion/deletion polymorphism SNP-19 (2R 3R). OBJECTIVE: The present study determined the association between the SNP-19 and the risk of developing DM type 2 in Ciudad Juarez population. METHODOLOGY: For this study 107 participants were selected: 43 diabetics type 2 (cases) and 64 non diabetics with no family history of DM type 2 in first grade (control). Anthropometric studies were realized as well as lipids, lipoproteins and serum glucose biochemical profiles. The genotypification of SNP-19 was performed using peripheral blood lymphocytes DNA, polymerase chain reactions (PCR), and electrophoretic analysis in agarose gels. Once obtained the genotypic and allelic frequencies, the Hardy-Weinberg equilibrium test (GenAlEx 6.4) was also performed. RESULTS: Using the X2 analysis it was identified the genotypic differences between cases and control with higher frequency of the homozygous genotype 3R of SNP- 19 in the cases group (0.418) compared to control group (0.265). Also, it was observed an association between genotype 2R/3R with elevated weight, body mass index, and waist and hip circumferences, but only in the diabetic group (P=&lt; 0.05). CONCLUSION: The findings in this study suggest that SNP-19 in CAPN10 may participate in the development of DM type 2 in the studied population.
+25617558	30	36	CAPN10	Gene	11132
+25617558	62	86	diabetes mellitus type 2	Disease	MESH:D003924
+25617558	144	161	Diabetes Mellitus	Disease	MESH:D003920
+25617558	341	347	CAPN10	Gene	11132
+25617558	661	673	participants	Species	9606
+25617558	692	701	diabetics	Disease	MESH:D003920
+25617558	728	737	diabetics	Disease	MESH:D003920
+25617558	879	886	glucose	Chemical	MESH:D005947
+25617558	1572	1580	diabetic	Disease	MESH:D003920
+25617558	1664	1670	CAPN10	Gene	11132
+
+25789119|t|Association of gene variants with susceptibility to type 2 diabetes among Omanis.
+25789119|a|AIM: To investigate the association of 10 known common gene variants with susceptibility to type 2 diabetes mellitus (T2D) among Omanis. METHODS: Using case-control design, a total of 992 diabetic patients and 294 normoglycemic Omani Arabs were genotyped, by an allelic discrimination assay-by-design TaqMan method on fast real time polymerase chain reaction system, for the following gene variants: KCNJ11 (rs5219), TCF7L2 (rs7903146), CDKAL1 (rs10946398), CDKN2A/B (rs10811661), FTO (rs9939609 and rs8050136), IGF2BP2 (rs4402960), SLC30A8 (rs13266634) CAPN10 (rs3792267) and HHEX (rs1111875). T2D patients were recruited from the Diabetes Clinic (n = 243) and inpatients (n = 749) at Sultan Qaboos Univesity Hospital (SQUH), Muscat, Oman. Adult control participants (n = 294) were volunteers from the community and from those visiting Family Medicine Clinic at SQU, for regular medical checkup. The difficulty in recruiting Omani participants with no family history of diabetes was the main reason behind the small number of control participants in this study. Almost all volunteers questioned had a relative with diabetes mellitus. Inspite of the small number of normoglycemic controls in this study, this sample was sufficient for detection of genes and loci for common alleles influencing T2D with an odds ratio of &gt;= 1.3 reaching at least 80% power. Data was collected from June 2010 to February 2012. RESULTS: Using binary logistic regression analysis, four gene variants showed significant association with T2D risk: KCNJ11 (rs5219, P = 5.8 x 10(-6), OR = 1.74), TCF7L2 (rs7903146, P = 0.001, OR = 1.46), CDKAL1 (rs10946398, P = 0.002, OR = 1.44) and CDKN2A/B (rs10811661, P = 0.020, OR = 1.40). The fixation index analysis of these four gene variants indicated significant genetic differentiation between diabetics and controls {[KCNJ11 (rs5219), P &lt; 0.001], [TCF7L2 (rs7903146), P &lt; 0.001], [CDKAL1 (rs10946398), P &lt; 0.05], [CDKN2A/B (rs10811661), P &lt; 0.05]}. The highest genotype variation % between diabetics and controls was found at KCNJ11 (2.07%) and TCF7L2 (1.62%). This study was not able to detect an association of T2D risk with gene variants of IGF2BP2 (rs4402960), SLC30A8 (rs13266634), CAPN10 (rs3792267) and HHEX (rs1111875). Moreover, no association was found between FTO gene variants (rs9939609 and rs8050136) and T2D risk. However, T2D risk was found to be significantly associated with obesity (P = 0.002, OR = 2.22); and with the Waist-to-Hip ratio (n = 532, P = 1.9 x10(-7), OR = 2.4), [among males (n = 234, P = 1.2 x 10(-4), OR = 2.0) and females (n = 298, P = 0.001, OR = 6.3)]. CONCLUSION: Results confirmed the association of KCNJ11 (rs5219), TCF7L2 (rs7903146), CDKAL1 (rs10946398) and CDKN2A/B (rs10811661) gene variants with susceptibility to T2D among Omani Arabs.
+25789119	52	67	type 2 diabetes	Disease	MESH:D003924
+25789119	174	198	type 2 diabetes mellitus	Disease	MESH:D003924
+25789119	270	278	diabetic	Disease	MESH:D003920
+25789119	279	287	patients	Species	9606
+25789119	482	488	KCNJ11	Gene	3767
+25789119	490	496	rs5219	SNP	rs5219
+25789119	499	505	TCF7L2	Gene	6934
+25789119	507	516	rs7903146	SNP	rs7903146
+25789119	519	525	CDKAL1	Gene	54901
+25789119	527	537	rs10946398	SNP	rs10946398
+25789119	540	548	CDKN2A/B	Gene	1029;1030
+25789119	550	560	rs10811661	SNP	rs10811661
+25789119	563	566	FTO	Gene	79068
+25789119	568	577	rs9939609	SNP	rs9939609
+25789119	582	591	rs8050136	SNP	rs8050136
+25789119	594	601	IGF2BP2	Gene	10644
+25789119	603	612	rs4402960	SNP	rs4402960
+25789119	615	622	SLC30A8	Gene	169026
+25789119	624	634	rs13266634	SNP	rs13266634
+25789119	636	642	CAPN10	Gene	11132
+25789119	644	653	rs3792267	SNP	rs3792267
+25789119	659	663	HHEX	Gene	3087
+25789119	665	674	rs1111875	SNP	rs1111875
+25789119	681	689	patients	Species	9606
+25789119	714	722	Diabetes	Disease	MESH:D003920
+25789119	837	849	participants	Species	9606
+25789119	1014	1026	participants	Species	9606
+25789119	1053	1061	diabetes	Disease	MESH:D003920
+25789119	1117	1129	participants	Species	9606
+25789119	1198	1215	diabetes mellitus	Disease	MESH:D003920
+25789119	1610	1616	KCNJ11	Gene	3767
+25789119	1618	1624	rs5219	SNP	rs5219
+25789119	1656	1662	TCF7L2	Gene	6934
+25789119	1664	1673	rs7903146	SNP	rs7903146
+25789119	1698	1704	CDKAL1	Gene	54901
+25789119	1706	1716	rs10946398	SNP	rs10946398
+25789119	1744	1752	CDKN2A/B	Gene	1029;1030
+25789119	1754	1764	rs10811661	SNP	rs10811661
+25789119	1899	1908	diabetics	Disease	MESH:D003920
+25789119	1924	1930	KCNJ11	Gene	3767
+25789119	1932	1938	rs5219	SNP	rs5219
+25789119	1957	1963	TCF7L2	Gene	6934
+25789119	1965	1974	rs7903146	SNP	rs7903146
+25789119	1993	1999	CDKAL1	Gene	54901
+25789119	2001	2011	rs10946398	SNP	rs10946398
+25789119	2029	2037	CDKN2A/B	Gene	1029;1030
+25789119	2039	2049	rs10811661	SNP	rs10811661
+25789119	2108	2117	diabetics	Disease	MESH:D003920
+25789119	2144	2150	KCNJ11	Gene	3767
+25789119	2163	2169	TCF7L2	Gene	6934
+25789119	2262	2269	IGF2BP2	Gene	10644
+25789119	2271	2280	rs4402960	SNP	rs4402960
+25789119	2283	2290	SLC30A8	Gene	169026
+25789119	2292	2302	rs13266634	SNP	rs13266634
+25789119	2305	2311	CAPN10	Gene	11132
+25789119	2313	2322	rs3792267	SNP	rs3792267
+25789119	2328	2332	HHEX	Gene	3087
+25789119	2334	2343	rs1111875	SNP	rs1111875
+25789119	2389	2392	FTO	Gene	79068
+25789119	2408	2417	rs9939609	SNP	rs9939609
+25789119	2422	2431	rs8050136	SNP	rs8050136
+25789119	2511	2518	obesity	Disease	MESH:D009765
+25789119	2758	2764	KCNJ11	Gene	3767
+25789119	2766	2772	rs5219	SNP	rs5219
+25789119	2775	2781	TCF7L2	Gene	6934
+25789119	2783	2792	rs7903146	SNP	rs7903146
+25789119	2795	2801	CDKAL1	Gene	54901
+25789119	2803	2813	rs10946398	SNP	rs10946398
+25789119	2819	2827	CDKN2A/B	Gene	1029;1030
+25789119	2829	2839	rs10811661	SNP	rs10811661
+
+25982606|t|[Association analysis of SNP-63 and indel-19 variant in the calpain-10 gene with polycystic ovary syndrome in women of reproductive age].
+25982606|a|BACKGROUND: Polycystic ovary syndrome is a complex and heterogeneous disease involving both reproductive and metabolic problems. It has been suggested a genetic predisposition in the etiology of this syndrome. The identification of calpain-10 gene (CAPN10) as the first candidate gene for type 2 diabetes mellitus, has focused the interest in investigating their possible relation with the polycystic ovary syndrome, because this syndrome is associated with hyperinsulinemia and insulin resistance, two metabolic abnormalities associated with type 2 diabetes mellitus. OBJECTIVE: To investigate if there is association between the SNP-63 and the variant indel-19 of the CAPN10 gene and polycystic ovary syndrome in women of reproductive age. MATERIAL AND METHODS: This study included 101 women (55 with polycystic ovary syndrome and 46 without polycystic ovary syndrome). The genetic variant indel-19 was identified by electrophoresis of the amplified fragments by PCR, and the SNP-63 by PCR-RFLP. RESULTS: The allele and genotype frequencies of the two variants do not differ significatly between women with polycystic ovary syndrome and control women group. The haplotype 21 (defined by the insertion allele of indel-19 variant and C allele of SNP-63) was found with higher frequency in both study groups, being more frequent in the polycystic ovary syndrome patients group, however, this difference was not statistically significant (p = 0.8353). CONCLUSIONS: The results suggest that SNP-63 and indel-19 variant of the CAPN10 gene do not represent a risk factor for polycystic ovary syndrome in our patients group.
+25982606	60	70	calpain-10	Gene	11132
+25982606	81	106	polycystic ovary syndrome	Disease	MESH:D011085
+25982606	110	115	women	Species	9606
+25982606	150	175	Polycystic ovary syndrome	Disease	MESH:D011085
+25982606	370	380	calpain-10	Gene	11132
+25982606	387	393	CAPN10	Gene	11132
+25982606	427	451	type 2 diabetes mellitus	Disease	MESH:D003924
+25982606	528	553	polycystic ovary syndrome	Disease	MESH:D011085
+25982606	596	612	hyperinsulinemia	Disease	MESH:D006946
+25982606	617	624	insulin	Gene	3630
+25982606	641	664	metabolic abnormalities	Disease	MESH:D008659
+25982606	681	705	type 2 diabetes mellitus	Disease	MESH:D003924
+25982606	808	814	CAPN10	Gene	11132
+25982606	824	849	polycystic ovary syndrome	Disease	MESH:D011085
+25982606	853	858	women	Species	9606
+25982606	926	931	women	Species	9606
+25982606	941	966	polycystic ovary syndrome	Disease	MESH:D011085
+25982606	982	1007	polycystic ovary syndrome	Disease	MESH:D011085
+25982606	1236	1241	women	Species	9606
+25982606	1247	1272	polycystic ovary syndrome	Disease	MESH:D011085
+25982606	1285	1290	women	Species	9606
+25982606	1473	1498	polycystic ovary syndrome	Disease	MESH:D011085
+25982606	1499	1507	patients	Species	9606
+25982606	1661	1667	CAPN10	Gene	11132
+25982606	1708	1733	polycystic ovary syndrome	Disease	MESH:D011085
+25982606	1741	1749	patients	Species	9606
+
+26042206|t|Gene-gene and gene-environment interactions in the etiology of type 2 diabetes mellitus in the population of Hyderabad, India.
+26042206|a|Fifteen SNPs from nine different genes were genotyped on 1379 individuals, 758 T2DM patients and 621 controls, from the city of Hyderabad, India, using Sequenom Massarray platform. These data were analyzed to examine the role of gene-gene and gene-environment interactions in the manifestation of T2DM. The multivariate analysis suggests that TCF7L2, CDKAL1, IGF2BP2, HHEX and PPARG genes are significantly associated with T2DM, albeit only the first two of the above 5 were associated in the univariate analysis. Significant gene-gene and gene-environment interactions were also observed with reference to TCF7L2, CAPN10 and CDKAL1 genes, highlighting their importance in the pathophysiology of T2DM. In the analysis for cumulative effect of risk alleles, SLC30A8 steps in as significant contributor to the disease by its presence in all combinations of risk alleles. A striking difference between risk allele categories, 1-4 and 5-6, was evident in showing protective and susceptible roles, respectively, while the latter was characterized by the presence of TCF7L2 and CDKAL1 variants. Overall, these two genes TCF7L2 and CDKAL1 showed strong association with T2DM, either individually or in interaction with the other genes. However, we need further studies on gene-gene and gene-environment interactions among heterogeneous Indian populations to obtain unequivocal conclusions that are applicable for the Indian population as a whole. 
+26042206	70	87	diabetes mellitus	Disease	MESH:D003920
+26042206	211	219	patients	Species	9606
+26042206	470	476	TCF7L2	Gene	6934
+26042206	478	484	CDKAL1	Gene	54901
+26042206	486	493	IGF2BP2	Gene	10644
+26042206	495	499	HHEX	Gene	3087
+26042206	504	509	PPARG	Gene	5468
+26042206	734	740	TCF7L2	Gene	6934
+26042206	742	748	CAPN10	Gene	11132
+26042206	753	759	CDKAL1	Gene	54901
+26042206	884	891	SLC30A8	Gene	169026
+26042206	1188	1194	TCF7L2	Gene	6934
+26042206	1199	1205	CDKAL1	Gene	54901
+26042206	1241	1247	TCF7L2	Gene	6934
+26042206	1252	1258	CDKAL1	Gene	54901
+
+26543536|t|Detection of CAPN10 copy number variation in Thai patients with type 2 diabetes by denaturing high performance liquid chromatography and real-time quantitative polymerase chain reaction.
+26543536|a|AIMS/INTRODUCTION: A combination of multiple genetic and environmental factors contribute to the pathogenesis of type 2 diabetes. Copy number variations (CNVs) are associated with complex human diseases. However, CNVs can cause genotype deviation from the Hardy-Weinberg equilibrium (HWE). A genetic case-control association study in 216 Thai diabetic patients and 192 non-diabetic controls found that, after excluding genotyping errors, genotype distribution of calpain 10 (CAPN10) SNP44 (rs2975760) deviated from HWE. Here, we aimed to detect CNV within the CAPN10 SNP44 region. MATERIALS AND METHODS: CNV within the CAPN10 SNP44 region was detected using denaturing high-performance liquid chromatography, and the results confirmed by real-time quantitative polymerase chain reaction with SYBR Green I. RESULTS: Both methods successfully identified CNV in the CAPN10 SNP44 region, obtaining concordant results. Correction of genotype calling based on the status of identified CNVs showed that the CAPN10 SNP44 genotype is in good agreement with HWE (P &gt; 0.05). However, no association between CNV genotypes and risk of type 2 diabetes was observed. CONCLUSIONS: Identified CNVs for CAPN10 SNP44 genotypes lead to deviation from HWE. Furthermore, both denaturing high-performance liquid chromatography and real-time quantitative polymerase chain reaction are useful for detecting CNVs.
+26543536	13	19	CAPN10	Gene	11132
+26543536	50	58	patients	Species	9606
+26543536	71	79	diabetes	Disease	MESH:D003920
+26543536	300	315	type 2 diabetes	Disease	MESH:D003924
+26543536	375	380	human	Species	9606
+26543536	530	538	diabetic	Disease	MESH:D003920
+26543536	539	547	patients	Species	9606
+26543536	560	568	diabetic	Disease	MESH:D003920
+26543536	650	660	calpain 10	Gene	11132
+26543536	662	668	CAPN10	Gene	11132
+26543536	677	686	rs2975760	SNP	rs2975760
+26543536	747	753	CAPN10	Gene	11132
+26543536	806	812	CAPN10	Gene	11132
+26543536	1050	1056	CAPN10	Gene	11132
+26543536	1187	1193	CAPN10	Gene	11132
+26543536	1319	1327	diabetes	Disease	MESH:D003920
+26543536	1375	1381	CAPN10	Gene	11132
+
+26937418|t|Candidate gene analysis supports a role for polymorphisms at TCF7L2 as risk factors for type 2 diabetes in Sudan.
+26937418|a|BACKGROUND: Genetic susceptibility to type 2 diabetes (T2D) is multifactorial. A growing number of genes have been identified as risk factors for T2D across multiple ethnicities in trans-ancestry meta-analysis of large-scale genome-wide association studies. Few studies have looked at these genes in Sub-Saharan African populations. This study was undertaken to look for associations between T2D and single nucleotide polymorphisms (SNPs) in a number of the top candidate genes in a selected Sudanese population. METHODS: A total 240 T2D cases and 128 unrelated healthy control subjects were included in this study. Age, sex, weight and height were recorded, blood pressure and biochemical profiles of glucose and lipids were analysed. Single nucleotide polymorphism (SNP) genotyping was performed using the Sequenom MassARRAY  system. Fourteen SNPs were selected across 7 genes: CAPN10 (rs2975760 and rs5030952), PPARG (rs17036314 and rs1801282), IGF2BP2 (rs4402960 and rs1470579), CDKAL1 (rs9465871), HHEX (rs1111875), TCF7L2 (rs7903146, rs11196205 and rs12255372), and KCNJ11 (rs5215, rs1800467 and rs5219). Allelic and haplotype association analyses were performed under additive models in PLINK. P &lt;= 0.007 (=0.05/7 genes) was the P-value required to achieve correction for multiple testing. RESULTS: A significant genetic association between the SNPs rs7903146 (odds ratio 1.69, 95 % confidence interval 1.21-2.38, P = 0.002) and rs12255372 (odds ratio 1.70, 95 % confidence interval 1.20-2.41, P = 0.003) at TCF7L2 and T2D was found in Sudanese population. These associations were retained after adjusting for age, sex and BMI (e.g. rs7903146: odds ratio 1.70, P adj:age/sex/BMI = 0.005). The strongest haplotype association (odds ratio 2.24; P adj:age/sex/BMI = 0.0003) comprised the two point haplotype T_C across rs7903146 and rs11196205. Stepwise logistic regression demonstrated that SNP rs7903146 added significant main effects to rs11196205 or rs12255372, whereas the reverse was not true, indicating that the main effect for association with T2D in this population is most strongly tagged by SNP rs7903146. Adjusted analyses also provided support for protection from T2D associated with minor alleles at SNPs rs2975760 at CAPN10 (odds ratio 0.44, 95 % confidence interval 0.20-0.97, P adj:age/sex/BMI = 0.042) and rs1111876 at HHEX (odds ratio 0.60, 95 % confidence interval 0.39- 0.93, P adj:age/sex/BMI = 0.022). CONCLUSIONS: Multiethnic associations between T2D and SNPs at TCF7L2, CAPN10 and HHEX extend to Sub-Saharan Africa, specifically Sudan.
+26937418	61	67	TCF7L2	Gene	6934
+26937418	88	103	type 2 diabetes	Disease	MESH:D003924
+26937418	107	112	Sudan	Chemical	MESH:C024336
+26937418	152	167	type 2 diabetes	Disease	MESH:D003924
+26937418	816	823	glucose	Chemical	MESH:D005947
+26937418	994	1000	CAPN10	Gene	11132
+26937418	1002	1011	rs2975760	SNP	rs2975760
+26937418	1016	1025	rs5030952	SNP	rs5030952
+26937418	1028	1033	PPARG	Gene	5468
+26937418	1035	1045	rs17036314	SNP	rs17036314
+26937418	1050	1059	rs1801282	SNP	rs1801282
+26937418	1062	1069	IGF2BP2	Gene	10644
+26937418	1071	1080	rs4402960	SNP	rs4402960
+26937418	1085	1094	rs1470579	SNP	rs1470579
+26937418	1097	1103	CDKAL1	Gene	54901
+26937418	1105	1114	rs9465871	SNP	rs9465871
+26937418	1117	1121	HHEX	Gene	3087
+26937418	1123	1132	rs1111875	SNP	rs1111875
+26937418	1135	1141	TCF7L2	Gene	6934
+26937418	1143	1152	rs7903146	SNP	rs7903146
+26937418	1154	1164	rs11196205	SNP	rs11196205
+26937418	1169	1179	rs12255372	SNP	rs12255372
+26937418	1186	1192	KCNJ11	Gene	3767
+26937418	1194	1200	rs5215	SNP	rs5215
+26937418	1202	1211	rs1800467	SNP	rs1800467
+26937418	1216	1222	rs5219	SNP	rs5219
+26937418	1474	1483	rs7903146	SNP	rs7903146
+26937418	1553	1563	rs12255372	SNP	rs12255372
+26937418	1632	1638	TCF7L2	Gene	6934
+26937418	1757	1766	rs7903146	SNP	rs7903146
+26937418	1940	1949	rs7903146	SNP	rs7903146
+26937418	1954	1964	rs11196205	SNP	rs11196205
+26937418	2017	2026	rs7903146	SNP	rs7903146
+26937418	2061	2071	rs11196205	SNP	rs11196205
+26937418	2075	2085	rs12255372	SNP	rs12255372
+26937418	2228	2237	rs7903146	SNP	rs7903146
+26937418	2341	2350	rs2975760	SNP	rs2975760
+26937418	2354	2360	CAPN10	Gene	11132
+26937418	2446	2455	rs1111876	SNP	rs1111876
+26937418	2459	2463	HHEX	Gene	3087
+26937418	2609	2615	TCF7L2	Gene	6934
+26937418	2617	2623	CAPN10	Gene	11132
+26937418	2628	2632	HHEX	Gene	3087
+26937418	2676	2681	Sudan	Chemical	MESH:C024336
+
+27324783|t|Meta-analysis of the association between four CAPN10 gene variants and gestational diabetes mellitus.
+27324783|a|PURPOSE: The purpose of the meta-analysis is to evaluate the association between calpain-10 (CANP10) gene polymorphisms and gestational diabetes mellitus (GDM). METHODS: A computer-based retrieval was performed in Web of Science, Embase and PubMed databases for eligible studies. The genotype data from four variants in CANP10 [single-nucleotide polymorphisms (SNP) 19, 43, 44, and 63] were collected. The pooled Odds ratios (ORs) with 95 % confidence intervals (CI) were conducted for five genetic models. RESULTS: Five studies containing 1003 GDMs and 1788 controls are included in this meta-analysis. The overall combined odds ratios show that SNP 19 and SNP 43 are not associated with increased risk of GDM in all genetic models. The association between SNP 63 and GDM is only significant in the heterozygous model (OR 2.79, 95 % CI 1.15-6.74). The SNP 44 is associated with increased risk of GDM in the recessive model (OR 1.75, 95 % CI 1.07-2.85), but only two studies are included. CONCLUSIONS: This meta-analysis indicates that women carriage of TT genotype in SNP 63 (rs5030952) is associated with increased risk in GDM.
+27324783	46	52	CAPN10	Gene	11132
+27324783	71	100	gestational diabetes mellitus	Disease	MESH:D016640
+27324783	183	193	calpain-10	Gene	11132
+27324783	195	201	CANP10	Gene	11132
+27324783	226	255	gestational diabetes mellitus	Disease	MESH:D016640
+27324783	422	428	CANP10	Gene	11132
+27324783	593	607	genetic models	Disease	MESH:D030342
+27324783	820	834	genetic models	Disease	MESH:D030342
+27324783	1138	1143	women	Species	9606
+27324783	1179	1188	rs5030952	SNP	rs5030952
+
+27374856|t|The Uyghur population and genetic susceptibility to type 2 diabetes: potential role for variants in CAPN10, APM1 and FUT6 genes.
+27374856|a|Genome-wide association studies have successfully identified over 70 loci associated with the risk of type 2 diabetes mellitus (T2DM) in multiple populations of European ancestry. However, the risk attributable to an individual variant is modest and does not yet provide convincing evidence for clinical utility. Association between these established genetic variants and T2DM in general populations is hitherto understudied in the isolated populations, such as the Uyghurs, resident in Hetian, far southern Xinjiang Uyghur Autonomous Region, China. In this case-control study, we genotyped 13 single-nucleotide polymorphisms (SNPs) at 10 genes associated with diabetes in 130 cases with T2DM and 135 healthy controls of Uyghur, a Chinese minority ethnic group. Three of the 13 SNPs demonstrated significant association with T2DM in the Uyghur population. There were significant differences between the T2DM patients and controls in the risk allele distributions of rs3792267 (CAPN10) (P = 0.002), rs1501299 (APM1) (P = 0.017), and rs3760776 (FUT6) (P = 0.031). Allelic carriers of rs3792267-A, rs1501299-T, and rs3760776-T had a 2.24-fold [OR (95% CI): 1.35-3.71], 0.59-fold [OR (95% CI): 0.39-0.91], 0.57-fold [OR (95% CI): 0.34-0.95] increased risk for T2DM respectively. We further confirmed that the cumulative risk allelic scores calculated from the 13 susceptibility loci for T2DM differed significantly between the T2DM patients and controls (P = 0.001), and the effect of obesity/overweight on T2DM was only observed in the subjects with a combined risk allelic score under a value of 17. This study observed that the SNPs rs3792267 in CAPN10, rs1501299 in APM1, and rs3760776 in FUT6 might serve as potential susceptible biomarkers for T2DM in Uyghurs. The cumulative risk allelic scores of multiple loci with modest individual effects are also significant risk factors in Uyghurs for T2DM, particularly among non-obese individuals. This is the first investigation having observed/found genetic variations on genetic loci functionally linked with glycosylation associated with the risk of T2DM in a Uyghur population.
+27374856	52	67	type 2 diabetes	Disease	MESH:D003924
+27374856	100	106	CAPN10	Gene	11132
+27374856	108	112	APM1	Gene	201501
+27374856	117	121	FUT6	Gene	2528
+27374856	238	255	diabetes mellitus	Disease	MESH:D003920
+27374856	790	798	diabetes	Disease	MESH:D003920
+27374856	1037	1045	patients	Species	9606
+27374856	1095	1104	rs3792267	SNP	rs3792267
+27374856	1106	1112	CAPN10	Gene	11132
+27374856	1127	1136	rs1501299	SNP	rs1501299
+27374856	1138	1142	APM1	Gene	201501
+27374856	1161	1170	rs3760776	SNP	rs3760776
+27374856	1172	1176	FUT6	Gene	2528
+27374856	1211	1220	rs3792267	SNP	rs3792267
+27374856	1224	1233	rs1501299	SNP	rs1501299
+27374856	1241	1250	rs3760776	SNP	rs3760776
+27374856	1557	1565	patients	Species	9606
+27374856	1610	1617	obesity	Disease	MESH:D009765
+27374856	1761	1770	rs3792267	SNP	rs3792267
+27374856	1774	1780	CAPN10	Gene	11132
+27374856	1782	1791	rs1501299	SNP	rs1501299
+27374856	1795	1799	APM1	Gene	201501
+27374856	1805	1814	rs3760776	SNP	rs3760776
+27374856	1818	1822	FUT6	Gene	2528
+27374856	2049	2058	non-obese	Disease	MESH:D009765
+
+28139539|t|Association of type 2 diabetes mellitus genes in polycystic ovary syndrome aetiology among women from southern India.
+28139539|a|BACKGROUND &amp; OBJECTIVES: Polycystic ovary syndrome (PCOS) is the most common reproductive endocrine disorder of premenopausal women. Given the phenotypic overlap between PCOS and type 2 diabetes mellitus (T2DM), this study was carried out to investigate whether genes implicated in T2DM were also involved in the susceptibility to PCOS among women from southern India. METHODS: A total of 248 women with PCOS and 210 healthy women as controls were genotyped for a panel of 15 single nucleotide polymorphisms (SNPs) from the nine T2DM genes, such as TCF7L2, IGF2BP2, SLC30A8, HHEX, CDKAL1, CDKN2A, IRS1, CAPN10 and PPARG, on Sequenom MassARRAY platform. RESULTS: None of the 15 SNPs were found to be significantly associated with PCOS after Bonferroni correction for multiple testing, either in the univariate or multivariate context. The cumulative effect of risk alleles observed with reference to T2DM was also not seen with reference to PCOS. INTERPRETATION &amp; CONCLUSIONS: The nine T2DM genes considered in this exploratory study might not be the primary susceptibility factors for PCOS among Indian women. Our results supplement the lack of evidence of the association of T2DM genes with PCOS among the Chinese and Caucasians hinting at the possible universality of this pattern. Specifically designed comprehensive studies that include women with T2DM and PCOS are required to explore the precise role of the diabetes genes.
+28139539	22	39	diabetes mellitus	Disease	MESH:D003920
+28139539	49	74	polycystic ovary syndrome	Disease	MESH:D011085
+28139539	91	96	women	Species	9606
+28139539	147	172	Polycystic ovary syndrome	Disease	MESH:D011085
+28139539	174	178	PCOS	Disease	MESH:D011085
+28139539	212	230	endocrine disorder	Disease	MESH:D004700
+28139539	248	253	women	Species	9606
+28139539	292	296	PCOS	Disease	MESH:D011085
+28139539	301	325	type 2 diabetes mellitus	Disease	MESH:D003924
+28139539	453	457	PCOS	Disease	MESH:D011085
+28139539	464	469	women	Species	9606
+28139539	515	520	women	Species	9606
+28139539	526	530	PCOS	Disease	MESH:D011085
+28139539	547	552	women	Species	9606
+28139539	671	677	TCF7L2	Gene	6934
+28139539	679	686	IGF2BP2	Gene	10644
+28139539	688	695	SLC30A8	Gene	169026
+28139539	697	701	HHEX	Gene	3087
+28139539	703	709	CDKAL1	Gene	54901
+28139539	711	717	CDKN2A	Gene	1029
+28139539	719	723	IRS1	Gene	3667
+28139539	725	731	CAPN10	Gene	11132
+28139539	736	741	PPARG	Gene	5468
+28139539	851	855	PCOS	Disease	MESH:D011085
+28139539	1062	1066	PCOS	Disease	MESH:D011085
+28139539	1211	1215	PCOS	Disease	MESH:D011085
+28139539	1229	1234	women	Species	9606
+28139539	1318	1322	PCOS	Disease	MESH:D011085
+28139539	1467	1472	women	Species	9606
+28139539	1487	1491	PCOS	Disease	MESH:D011085
+28139539	1540	1548	diabetes	Disease	MESH:D003920
+
+28277135|t|TCF7L2, CAPN10 polymorphisms are associated with gestational diabetes mellitus (GDM) risks: a meta-analysis.
+28277135|a|Several polymorphisms have been identified in transcription factor 7-like 2 (TCF7L2), and calpain-10 (CAPN10) genes. Controversial conclusions for the genetic relationship between these polymorphisms and gestational diabetes mellitus (GDM) risks were obtained. Our study aims at assessing whether these polymorphisms are associated with GDM susceptibility via a meta-analysis. A total of 19 eligible case-control articles were obtained after databases searching. A significantly increased GDM risk was observed for TCF7L2 rs7903146 (all OR &gt; 1, p &lt; 0.01), but not rs12255372. In addition, significant difference was observed in case/control comparison for 112/112 (GG/2R2R/TT) haplotype combination frequency of CAPN10 SNP-43/19/63 (OR = 3.32, p = 0.043). In summary, TCF7L2 rs7903146 and 112/112 haplotype of CAPN10 might be associated with GDM risks.
+28277135	0	6	TCF7L2	Gene	6934
+28277135	8	14	CAPN10	Gene	11132
+28277135	49	78	gestational diabetes mellitus	Disease	MESH:D016640
+28277135	155	184	transcription factor 7-like 2	Gene	6934
+28277135	186	192	TCF7L2	Gene	6934
+28277135	199	209	calpain-10	Gene	11132
+28277135	211	217	CAPN10	Gene	11132
+28277135	313	342	gestational diabetes mellitus	Disease	MESH:D016640
+28277135	624	630	TCF7L2	Gene	6934
+28277135	631	640	rs7903146	SNP	rs7903146
+28277135	679	689	rs12255372	SNP	rs12255372
+28277135	827	833	CAPN10	Gene	11132
+28277135	883	889	TCF7L2	Gene	6934
+28277135	890	899	rs7903146	SNP	rs7903146
+28277135	925	931	CAPN10	Gene	11132
+
+28357066|t|Association of two synonymous splicing-associated CpG single nucleotide polymorphisms in calpain 10 and solute carrier family 2 member 2 with type 2 diabetes.
+28357066|a|Coding synonymous single nucleotide polymorphisms (SNPs) have attracted little attention until recently. However, such SNPs located in epigenetic, CpG sites modifying exonic splicing enhancers (ESEs) can be informative with regards to the recently verified association of intragenic methylation and splicing. The present study describes the association of type 2 diabetes (T2D) with the exonic, synonymous, epigenetic SNPs, rs3749166 in calpain 10 (CAPN10) glucose transporter (GLUT4) translocator and rs5404 in solute carrier family 2, member 2 (SLC2A2), also termed GLUT2, which, according to prior bioinformatic analysis, strongly modify the splicing potential of glucose transport-associated genes. Previous association studies reveal that only rs5404 exhibits a strong negative T2D association, while data on the CAPN10 polymorphism are contradictory. In the present study DNA from blood samples of 99 Greek non-diabetic control subjects and 71 T2D patients was analyzed. In addition, relevant publicly available cases (40) resulting from examination of 110 Personal Genome Project data files were analyzed. The frequency of the rs3749166 A allele, was similar in the patients and non-diabetic control subjects. However, AG heterozygotes were more frequent among patients (73.24% for Greek patients and 54.55% for corresponding non-diabetic control subjects; P=0.0262; total cases, 52.99 and 75.00%, respectively; P=0.0039). The rs5404 T allele was only observed in CT heterozygotes (Greek non-diabetic control subjects, 39.39% and Greek patients, 22.54%; P=0.0205; total cases, 34.69 and 21.28%, respectively; P=0.0258). Notably, only one genotype, heterozygous AG/CC, was T2D-associated (Greek non-diabetic control subjects, 29.29% and Greek patients, 56.33%; P=0.004; total cases, 32.84 and 56.58%, respectively; P=0.0008). Furthermore, AG/CC was strongly associated with very high (&gt;=8.5%) glycosylated plasma hemoglobin levels among patients (P=0.0002 for all cases). These results reveal the complex heterozygotic SNP association with T2D, and indicate possible synergies of these epigenetic, splicing-regulatory, synonymous SNPs, which modify the splicing potential of two alternative glucose transport-associated genes.
+28357066	89	99	calpain 10	Gene	11132
+28357066	104	136	solute carrier family 2 member 2	Gene	6514
+28357066	149	157	diabetes	Disease	MESH:D003920
+28357066	515	530	type 2 diabetes	Disease	MESH:D003924
+28357066	583	592	rs3749166	SNP	rs3749166
+28357066	596	606	calpain 10	Gene	11132
+28357066	608	614	CAPN10	Gene	11132
+28357066	616	623	glucose	Chemical	MESH:D005947
+28357066	637	642	GLUT4	Gene	6517
+28357066	661	667	rs5404	SNP	rs5404
+28357066	671	704	solute carrier family 2, member 2	Gene	6514
+28357066	706	712	SLC2A2	Gene	6514
+28357066	727	732	GLUT2	Gene	6514
+28357066	826	833	glucose	Chemical	MESH:D005947
+28357066	908	914	rs5404	SNP	rs5404
+28357066	977	983	CAPN10	Gene	11132
+28357066	1072	1084	non-diabetic	Disease	MESH:D003924
+28357066	1113	1121	patients	Species	9606
+28357066	1293	1302	rs3749166	SNP	rs3749166
+28357066	1332	1340	patients	Species	9606
+28357066	1345	1357	non-diabetic	Disease	MESH:D003924
+28357066	1427	1435	patients	Species	9606
+28357066	1454	1462	patients	Species	9606
+28357066	1496	1504	diabetic	Disease	MESH:D003920
+28357066	1593	1599	rs5404	SNP	rs5404
+28357066	1658	1666	diabetic	Disease	MESH:D003920
+28357066	1702	1710	patients	Species	9606
+28357066	1864	1872	diabetic	Disease	MESH:D003920
+28357066	1908	1916	patients	Species	9606
+28357066	2105	2113	patients	Species	9606
+28357066	2359	2366	glucose	Chemical	MESH:D005947
+
+28607931|t|Genetic Epidemiology of Type 2 Diabetes in Mexican Mestizos.
+28607931|a|There are currently about 415 million people with diabetes worldwide, a figure likely to increase to 642 million by 2040. In 2015, Mexico was the second Latin American country and sixth in the world in prevalence of this disorder with nearly 11.5 million of patients. Type 2 diabetes (T2D) is the main kind of diabetes and its etiology is complex with environmental and genetic factors involved. Indeed, polymorphisms in several genes have been associated with this disease worldwide. To estimate the genetic epidemiology of T2D in Mexican mestizos a systematic bibliographic search of published articles through PubMed, Scopus, Google Scholar, and Web of Science was conducted. Just case-control studies of candidate genes about T2D in Mexican mestizo inhabitants were included. Nineteen studies that met the inclusion criteria were found. In total, 68 polymorphisms of 41 genes were assessed; 26 of them were associated with T2D risk, which were located in ABCA1, ADRB3, CAPN10, CDC123/CAMK1D, CDKAL1, CDKN2A/2B, CRP, ELMO1, FTO, HHEX, IGF2BP2, IRS1, JAZF1, KCNQ1, LOC387761, LTA, NXPH1, SIRT1, SLC30A8, TCF7L2, and TNF-alpha genes. Overall, 21 of the 41 analyzed genes were associated with T2D in Mexican mestizos. Such a genetic heterogeneity compares with findings in other ethnic groups.
+28607931	24	39	Type 2 Diabetes	Disease	MESH:D003924
+28607931	99	105	people	Species	9606
+28607931	111	119	diabetes	Disease	MESH:D003920
+28607931	319	327	patients	Species	9606
+28607931	329	344	Type 2 diabetes	Disease	MESH:D003924
+28607931	371	379	diabetes	Disease	MESH:D003920
+28607931	1020	1025	ABCA1	Gene	19
+28607931	1027	1032	ADRB3	Gene	155
+28607931	1034	1040	CAPN10	Gene	11132
+28607931	1042	1048	CDC123	Gene	8872
+28607931	1049	1055	CAMK1D	Gene	57118
+28607931	1057	1063	CDKAL1	Gene	54901
+28607931	1065	1079	CDKN2A/2B, CRP	Gene	1401;1029;1030
+28607931	1081	1086	ELMO1	Gene	9844
+28607931	1088	1091	FTO	Gene	79068
+28607931	1093	1097	HHEX	Gene	3087
+28607931	1099	1106	IGF2BP2	Gene	10644
+28607931	1108	1112	IRS1	Gene	3667
+28607931	1114	1119	JAZF1	Gene	221895
+28607931	1121	1126	KCNQ1	Gene	3784
+28607931	1128	1137	LOC387761	Chemical	MESH:C492399
+28607931	1144	1149	NXPH1	Gene	30010
+28607931	1151	1156	SIRT1	Gene	23411
+28607931	1158	1165	SLC30A8	Gene	169026
+28607931	1167	1173	TCF7L2	Gene	6934
+28607931	1179	1188	TNF-alpha	Gene	7124
+
+29151334|t|Investigation of glucocorticoid receptor and calpain-10 gene polymorphisms in Turkish patients with type 2 diabetes mellitus
+29151334|a|Background/aim: We proposed to investigate the role of calpain-10 (CAPN10) gene single nucleotide polymorphism (SNP)-19 and SNP-44 and glucocorticoid receptor (NR3C1) gene N363S polymorphisms in Turkish patients with type 2 diabetes mellitus (T2DM).Materials and methods: Peripheral blood samples were obtained from 125 patients with T2DM and 112 healthy volunteers. Genotyping was carried out by the polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) method. Results: There were no statistically significant differences found between the allele and genotype frequencies of CAPN10 SNP-19, CAPN10 SNP-44, and NR3C1 N363S polymorphisms and T2DM development (P &gt; 0.05). The CAPN10 SNP-19 del-allele, CAPN10 SNP-44 C-allele, and NR3C1 N363S G-allele were determined to be risk factors for T2DM development. In T2DM patients an association was identified between the CAPN10 SNP-19 del-allele, homozygous del/del genotype, SNP-44 C-allele, heterozygous TC genotype, NR3C1 N363S G-allele, heterozygous AG genotype, and increased BMI. Conclusion: The present study demonstrates that the SNP-44 polymorphism is associated with T2DM susceptibility and contributes to the risk of T2DM.
+29151334	17	40	glucocorticoid receptor	Gene	2908
+29151334	45	55	calpain-10	Gene	11132
+29151334	86	94	patients	Species	9606
+29151334	100	124	type 2 diabetes mellitus	Disease	MESH:D003924
+29151334	180	190	calpain-10	Gene	11132
+29151334	192	198	CAPN10	Gene	11132
+29151334	260	283	glucocorticoid receptor	Gene	2908
+29151334	285	290	NR3C1	Gene	2908
+29151334	297	302	N363S	ProteinMutation	p.N363S;RS#:56149945
+29151334	328	336	patients	Species	9606
+29151334	342	366	type 2 diabetes mellitus	Disease	MESH:D003924
+29151334	445	453	patients	Species	9606
+29151334	726	732	CAPN10	Gene	11132
+29151334	741	747	CAPN10	Gene	11132
+29151334	760	765	NR3C1	Gene	2908
+29151334	766	771	N363S	ProteinMutation	p.N363S;RS#:56149945
+29151334	826	832	CAPN10	Gene	11132
+29151334	833	843	SNP-19 del	ProteinMutation	c.SNP-19del
+29151334	852	858	CAPN10	Gene	11132
+29151334	859	867	SNP-44 C	Chemical	MESH:C121720
+29151334	880	885	NR3C1	Gene	2908
+29151334	886	891	N363S	ProteinMutation	p.N363S;RS#:56149945
+29151334	966	974	patients	Species	9606
+29151334	1017	1023	CAPN10	Gene	11132
+29151334	1024	1034	SNP-19 del	ProteinMutation	c.SNP-19del
+29151334	1072	1080	SNP-44 C	Chemical	MESH:C121720
+29151334	1115	1120	NR3C1	Gene	2908
+29151334	1121	1126	N363S	ProteinMutation	p.N363S;RS#:56149945
+
+29506634|t|Association analysis of calpain 10 gene variants/haplotypes with gestational diabetes mellitus among Mexican women.
+29506634|a|Gestational diabetes mellitus (GDM) is a metabolically complex disease with major genetic determinants. GDM has been associated with insulin resistance and dysfunction of pancreatic beta cells, so the GDM candidate genes are those that encode proteins modulating the function and secretion of insulin, such as that for calpain 10 (CAPN10). This study aimed to assess whether single nucleotide polymorphism (SNP)-43, SNP-44, SNP-63, and the indel-19 variant, and specific haplotypes of the CAPN10 gene were associated with gestational diabetes mellitus. We studied 116 patients with gestational diabetes mellitus and 83 women with normal glucose tolerance. Measurements of anthropometric and biochemical parameters were performed. SNP-43, SNP-44, and SNP-63 were identified by polymerase chain reaction (PCR)-restriction fragment length polymorphisms, while the indel-19 variant was detected by TaqMan qPCR assays.  The allele, genotype, and haplotype frequencies of the four variants did not differ significantly between women with gestational diabetes mellitus and controls. However, in women with gestational diabetes mellitus, glucose levels were significantly higher bearing the 3R/3R genotype than in carriers of the 3R/2R genotype of the indel-19 variant (p = 0.006). In conclusion, the 3R/3R genotype of the indel-19 variant of the CAPN-10 gene influenced increased glucose levels in these Mexican women with gestational diabetes mellitus.
+29506634	24	34	calpain 10	Gene	11132
+29506634	65	94	gestational diabetes mellitus	Disease	MESH:D016640
+29506634	109	114	women	Species	9606
+29506634	116	145	Gestational diabetes mellitus	Disease	MESH:D016640
+29506634	249	256	insulin	Gene	3630
+29506634	287	297	pancreatic	Disease	MESH:D010195
+29506634	409	416	insulin	Gene	3630
+29506634	435	445	calpain 10	Gene	11132
+29506634	447	453	CAPN10	Gene	11132
+29506634	532	538	SNP-44	Chemical	MESH:C121720
+29506634	605	611	CAPN10	Gene	11132
+29506634	650	667	diabetes mellitus	Disease	MESH:D003920
+29506634	684	692	patients	Species	9606
+29506634	698	727	gestational diabetes mellitus	Disease	MESH:D016640
+29506634	735	740	women	Species	9606
+29506634	753	760	glucose	Chemical	MESH:D005947
+29506634	854	860	SNP-44	Chemical	MESH:C121720
+29506634	1137	1142	women	Species	9606
+29506634	1148	1177	gestational diabetes mellitus	Disease	MESH:D016640
+29506634	1204	1209	women	Species	9606
+29506634	1215	1244	gestational diabetes mellitus	Disease	MESH:D016640
+29506634	1246	1253	glucose	Chemical	MESH:D005947
+29506634	1455	1462	CAPN-10	Gene	11132
+29506634	1489	1496	glucose	Chemical	MESH:D005947
+29506634	1521	1526	women	Species	9606
+29506634	1532	1561	gestational diabetes mellitus	Disease	MESH:D016640
+
+30425305|t|Calpain-10 regulates actin dynamics by proteolysis of microtubule-associated protein 1B.
+30425305|a|Calpain-10 (CAPN10) is the calpain family protease identified as the first candidate susceptibility gene for type 2 diabetes mellitus (T2DM). However, the detailed molecular mechanism has not yet been elucidated. Here we report that CAPN10 processes microtubule associated protein 1 (MAP1) family proteins into heavy and light chains and regulates their binding activities to microtubules and actin filaments. Immunofluorescent analysis of Capn10-/- mouse embryonic fibroblasts shows that MAP1B, a member of the MAP1 family of proteins, is localized at actin filaments rather than at microtubules. Furthermore, fluorescence recovery after photo-bleaching analysis shows that calpain-10 regulates actin dynamics via MAP1B cleavage. Moreover, in pancreatic islets from CAPN10 knockout mice, insulin secretion was significantly increased both at the high and low glucose levels. These findings indicate that deficiency of calpain-10 expression may affect insulin secretion by abnormal actin reorganization, coordination and dynamics through MAP1 family processing.
+30425305	0	10	Calpain-10	Gene	23830
+30425305	54	87	microtubule-associated protein 1B	Gene	17755
+30425305	89	99	Calpain-10	Gene	23830
+30425305	101	107	CAPN10	Gene	23830
+30425305	116	123	calpain	Gene	23830;23830
+30425305	198	222	type 2 diabetes mellitus	Disease	MESH:D003924
+30425305	322	328	CAPN10	Gene	23830
+30425305	529	535	Capn10	Gene	23830
+30425305	539	544	mouse	Species	10090
+30425305	578	583	MAP1B	Gene	17755
+30425305	764	774	calpain-10	Gene	23830
+30425305	804	809	MAP1B	Gene	17755
+30425305	856	862	CAPN10	Gene	23830
+30425305	872	876	mice	Species	10090
+30425305	949	956	glucose	Chemical	MESH:D005947
+30425305	1008	1018	calpain-10	Gene	23830
+
+30728419|t|Blood-based analysis of type-2 diabetes mellitus susceptibility genes identifies specific transcript variants with deregulated expression and association with disease risk.
+30728419|a|Despite significant progress by genome-wide association studies, the ability of genetic variants to conduce to the prediction or prognosis of type-2 diabetes (T2D) is weak. Expression analysis of the corresponding genes may suggest possible links between single-nucleotide polymorphisms and T2D phenotype and/or risk. Herein, we investigated the expression patterns of 24 T2D-susceptibility genes, and their individual transcript variants (tv), in peripheral blood of T2D patients and controls (CTs), applying RNA-seq and real-time qPCR methodologies, and explore possible associations with disease features. Our data revealed the deregulation of certain transcripts in T2D patients. Among them, the down-regulation of CAPN10 tv3 was confirmed as an independent predictor for T2D. In patients, increased expression of CDK5 tv2, CDKN2A tv3 or THADA tv5 correlated positively with serum insulin levels, of CDK5 tv1 positively with % HbA1c levels, while in controls, elevated levels of TSPAN8 were associated positively with the presence of T2D family history. Herein, a T2D-specific expression profile of specific transcripts of disease-susceptibility genes is for the first time described in human peripheral blood. Large-scale studies are needed to evaluate the potential of these molecules to serve as disease biomarkers.
+30728419	24	48	type-2 diabetes mellitus	Disease	MESH:D003924
+30728419	315	330	type-2 diabetes	Disease	MESH:D003924
+30728419	645	653	patients	Species	9606
+30728419	847	855	patients	Species	9606
+30728419	892	898	CAPN10	Gene	11132
+30728419	957	965	patients	Species	9606
+30728419	991	995	CDK5	Gene	1020
+30728419	1015	1020	THADA	Gene	63892
+30728419	1058	1065	insulin	Gene	3630
+30728419	1077	1081	CDK5	Gene	1020
+30728419	1156	1162	TSPAN8	Gene	7103
+30728419	1364	1369	human	Species	9606
+
+31122183|t|The Importance of Precision Medicine in Type 2 Diabetes Mellitus (T2DM): From Pharmacogenetic and Pharmacoepigenetic Aspects.
+31122183|a|BACKGROUND: Type 2 diabetes mellitus (T2DM) is a worldwide disorder as the most important challenges of health-care systems. Controlling the normal glycaemia greatly profit long-term prognosis and gives explanation for early, effective, constant, and safe intervention. MATERIAL AND METHODS: Finding the main genetic and epigenetic profile of T2DM and the exact molecular targets of T2DM medications can shed a light to its personalized management. The comprehensive information of T2DM was earned through the genome-wide association study (GWAS) studies. In the current review we represent the most important candidate genes of T2DM like CAPN10, TCF7L2, PPAR-gamma, IRSs, KCNJ11, WFS1, and HNF homeoboxes. Different genetic variations of candidate gene can predict the efficacy of T2DM personalized strategy medication. RESULTS: SLCs and AMPK variations are considered for metformin, CYP2C9, KATP channel, CDKAL1, CDKN2A/2B and KCNQ1 for sulphonylureas, OATP1B, and KCNQ1 for repaglinide and the last but not the least ADIPOQ, PPAR-gamma, SLC, CYP2C8, and SLCO1B1 for thiazolidinediones response prediction. CONCLUSION: Taken everything into the consideration, there is an extreme need to determine the genetic status of T2DM patients in some known genetic region before planning the medication strategies.
+31122183	40	64	Type 2 Diabetes Mellitus	Disease	MESH:D003924
+31122183	138	162	Type 2 diabetes mellitus	Disease	MESH:D003924
+31122183	274	283	glycaemia	Disease	
+31122183	765	771	CAPN10	Gene	11132
+31122183	773	779	TCF7L2	Gene	6934
+31122183	781	791	PPAR-gamma	Gene	5468
+31122183	799	805	KCNJ11	Gene	3767
+31122183	807	811	WFS1	Gene	7466
+31122183	1000	1009	metformin	Chemical	MESH:D008687
+31122183	1011	1017	CYP2C9	Gene	1559
+31122183	1033	1039	CDKAL1	Gene	54901
+31122183	1041	1050	CDKN2A/2B	Gene	1029
+31122183	1055	1060	KCNQ1	Gene	3784
+31122183	1093	1098	KCNQ1	Gene	3784
+31122183	1103	1114	repaglinide	Chemical	MESH:C072379
+31122183	1146	1152	ADIPOQ	Gene	9370
+31122183	1154	1164	PPAR-gamma	Gene	5468
+31122183	1166	1169	SLC	Gene	6366
+31122183	1171	1177	CYP2C8	Gene	1558
+31122183	1183	1190	SLCO1B1	Gene	10599
+31122183	1195	1213	thiazolidinediones	Chemical	MESH:D045162
+31122183	1353	1361	patients	Species	9606
+
+31292430|t|The Association Between the rs2975760 and rs3792267 Single Nucleotide Polymorphisms of Calpain 10 (CAPN10) and Gestational Diabetes Mellitus.
+31292430|a|BACKGROUND This study aimed to investigate the association between the rs2975760 and rs3792267 single nucleotide polymorphisms (SNPs) of the calpain 10 (CAPN10) gene and gestational diabetes mellitus. MATERIAL AND METHODS The study included 138 patients with gestational diabetes mellitus and 152 healthy pregnant women. Venous blood was separated, and the DNA was extracted. The rs2975760 and rs3792267SNP polymorphisms of CAPN10 were detected using polymerase chain reaction (PCR). The frequencies of different genotypes in patients with gestational diabetes mellitus and healthy pregnant women were determined, and the relationship between different SNP genotypes and the risk of gestational diabetes mellitus was analyzed. RESULTS There were no significant differences in the frequencies of the TT, CT and CC genotypes of rs2975760 and the frequencies of the GG, AG and AA genotypes of rs3792267 between the women with gestational diabetes and the controls. Expression of rs2975760 and rs3792267 were not associated with the risk of gestational diabetes in the dominant model, recessive model, and additive model. However, grade B and grade D diabetes in the CC and TC genotypes of rs2975760 were significantly different from those in the TT genotype (P&lt;0.05). Grade B and grade D diabetes in the AA and AG genotypes of rs3792267 were significantly different compared with those in the GG genotype (P&lt;0.05), and allele A was significantly increased compared with allele G (P&lt;0.05). CONCLUSIONS The rs2975760 and rs3792267 SNP polymorphisms of CAPN10 showed no significant association with the incidence of gestational diabetes mellitus and only a mild association with the severity.
+31292430	28	37	rs2975760	SNP	rs2975760
+31292430	42	51	rs3792267	SNP	rs3792267
+31292430	87	97	Calpain 10	Gene	11132
+31292430	99	105	CAPN10	Gene	11132
+31292430	111	140	Gestational Diabetes Mellitus	Disease	MESH:D016640
+31292430	213	222	rs2975760	SNP	rs2975760
+31292430	227	236	rs3792267	SNP	rs3792267
+31292430	283	293	calpain 10	Gene	11132
+31292430	295	301	CAPN10	Gene	11132
+31292430	324	341	diabetes mellitus	Disease	MESH:D003920
+31292430	387	395	patients	Species	9606
+31292430	401	430	gestational diabetes mellitus	Disease	MESH:D016640
+31292430	456	461	women	Species	9606
+31292430	522	531	rs2975760	SNP	rs2975760
+31292430	536	545	rs3792267	SNP	rs3792267
+31292430	566	572	CAPN10	Gene	11132
+31292430	668	676	patients	Species	9606
+31292430	682	711	gestational diabetes mellitus	Disease	MESH:D016640
+31292430	733	738	women	Species	9606
+31292430	825	854	gestational diabetes mellitus	Disease	MESH:D016640
+31292430	968	977	rs2975760	SNP	rs2975760
+31292430	1032	1041	rs3792267	SNP	rs3792267
+31292430	1054	1059	women	Species	9606
+31292430	1065	1085	gestational diabetes	Disease	MESH:D016640
+31292430	1118	1127	rs2975760	SNP	rs2975760
+31292430	1132	1141	rs3792267	SNP	rs3792267
+31292430	1179	1199	gestational diabetes	Disease	MESH:D016640
+31292430	1289	1297	diabetes	Disease	MESH:D003920
+31292430	1328	1337	rs2975760	SNP	rs2975760
+31292430	1430	1438	diabetes	Disease	MESH:D003920
+31292430	1469	1478	rs3792267	SNP	rs3792267
+31292430	1653	1662	rs2975760	SNP	rs2975760
+31292430	1667	1676	rs3792267	SNP	rs3792267
+31292430	1698	1704	CAPN10	Gene	11132
+31292430	1761	1790	gestational diabetes mellitus	Disease	MESH:D016640
+
+31398423|t|Arsenic impairs GLUT1 trafficking through the inhibition of the calpain system in lymphocytes.
+31398423|a|Exposure to arsenic is associated with increased risk of developing insulin resistance and type 2 diabetes. The proteases calpain-1 (CAPN1), calpain-2 (CAPN2) and calpain-10 (CAPN10) and their endogenous inhibitor calpastatin (CAST) regulate glucose uptake in skeletal muscle and adipocytes. We investigated whether arsenic disrupts GLUT1 trafficking and function through calpain inhibition, using lymphocytes as a cell model. Lymphocytes from healthy subjects were treated with 0.1 or 1 muM of sodium arsenite for 72 h and challenged with 3.9 or 11.1 mM of glucose. Our results showed that arsenite inhibited GLUT1 trafficking, glucose uptake, and calpain activity in the presence of 11.1 mM of glucose. These correlated with a decrease in the autolytical fragment of 50 kDa of CAPN1 and increased levels of CAST, but there were no changes in CAPN2 and CAPN10. We used a cell-free system to evaluate the effect of arsenite over CAPN1, finding that arsenite induced CAPN1 autolysis. To confirm that calpains are involved in GLUT1 trafficking and glucose uptake in lymphocytes, we generated stable CAPN1 or CAPN10 knockdowns in Jurkat cells using short hairpin RNA (shRNA). CAPN1 knockdown induced glucose uptake, while CAPN10 knockdown diminished glucose uptake, which correlated with a significant reduction of calpain activity after the pulse with 11.1 mM of glucose. These data showed that CAPN10 was responsible for the induction of calpain activity after the challenge with 11.1 mM of glucose and that CAPN1 and CAPN10 regulate glucose uptake in lymphocytes. Altogether, our results suggest that arsenite impairs GLUT1 trafficking and function through calpain dysregulation.
+31398423	0	7	Arsenic	Chemical	MESH:D001151
+31398423	16	21	GLUT1	Gene	6513
+31398423	107	114	arsenic	Chemical	MESH:D001151
+31398423	193	201	diabetes	Disease	MESH:D003920
+31398423	217	226	calpain-1	Gene	823
+31398423	228	233	CAPN1	Gene	823
+31398423	236	245	calpain-2	Gene	824
+31398423	247	252	CAPN2	Gene	824
+31398423	258	268	calpain-10	Gene	11132
+31398423	270	276	CAPN10	Gene	11132
+31398423	309	320	calpastatin	Chemical	
+31398423	322	326	CAST	Gene	831
+31398423	337	344	glucose	Chemical	MESH:D005947
+31398423	411	418	arsenic	Chemical	MESH:D001151
+31398423	428	433	GLUT1	Gene	6513
+31398423	590	605	sodium arsenite	Chemical	MESH:C017947
+31398423	653	660	glucose	Chemical	MESH:D005947
+31398423	686	694	arsenite	Chemical	MESH:D018053
+31398423	705	710	GLUT1	Gene	6513
+31398423	724	731	glucose	Chemical	MESH:D005947
+31398423	791	798	glucose	Chemical	MESH:D005947
+31398423	874	879	CAPN1	Gene	823
+31398423	904	908	CAST	Gene	831
+31398423	939	944	CAPN2	Gene	824
+31398423	949	955	CAPN10	Gene	11132
+31398423	1010	1018	arsenite	Chemical	MESH:D018053
+31398423	1024	1029	CAPN1	Gene	823
+31398423	1044	1052	arsenite	Chemical	MESH:D018053
+31398423	1061	1066	CAPN1	Gene	823
+31398423	1119	1124	GLUT1	Gene	6513
+31398423	1141	1148	glucose	Chemical	MESH:D005947
+31398423	1192	1197	CAPN1	Gene	823
+31398423	1201	1207	CAPN10	Gene	11132
+31398423	1268	1273	CAPN1	Gene	823
+31398423	1292	1299	glucose	Chemical	MESH:D005947
+31398423	1314	1320	CAPN10	Gene	11132
+31398423	1342	1349	glucose	Chemical	MESH:D005947
+31398423	1456	1463	glucose	Chemical	MESH:D005947
+31398423	1488	1494	CAPN10	Gene	11132
+31398423	1585	1592	glucose	Chemical	MESH:D005947
+31398423	1602	1607	CAPN1	Gene	823
+31398423	1612	1618	CAPN10	Gene	11132
+31398423	1628	1635	glucose	Chemical	MESH:D005947
+31398423	1696	1704	arsenite	Chemical	MESH:D018053
+31398423	1713	1718	GLUT1	Gene	6513
+
+31791003|t|Calpain Activity in Leukocytes is Associated with Diabetes Biochemical Markers.
+31791003|a|BACKGROUND AND AIMS: CAPN10 gene is associated with type 2 diabetes (T2D). Specific members of the calpain system (CAPN1, CAPN2 and CAPN10) are implicated in glucose metabolism. The aim of this study was to evaluate the calpain activity in leukocytes of control subjects and patients with T2D and its association with the calpain family members involved in glucose metabolism and with biochemical parameters that are altered in T2D. METHODS: Calpain activity under extracellular glucose concentrations (70-280 mg/dL) was evaluated in leukocytes from subjects with and without T2D. Protein and mRNA levels of CAPN1, CAPN2 and CAPN10 were evaluated. Calpain inhibitors assays were performed in leukocytes from subjects without T2D to evaluate glucose uptake. Calpain activity at 100 mg/dL glucose was correlated with biochemical parameters by multivariate regression. RESULTS: Calpain activity in control subjects increased with extracellular glucose concentration in a dose-dependent manner, showing a negative association with HbA1c levels and total amount of CAPN10 protein. In contrast, calpain activity is decreased in patients with T2D and do not respond to changes in glucose concentration. A reduction of CAPN1 autolytic fragments were observed in the subjects with diabetes. Calpain inhibitors decreased calpain activity but did not altered glucose uptake in leukocytes. CONCLUSIONS: Calpain activity induced by glucose in leukocytes was associated with biochemical markers of glucose metabolism and with CAPN10 protein abundance. Calpain activity is low in subjects with T2D. Thus, calpain activity induced by extracellular glucose in leukocytes could be a potential marker for T2D early risk detection.
+31791003	50	58	Diabetes	Disease	MESH:D003920
+31791003	101	107	CAPN10	Gene	11132
+31791003	132	147	type 2 diabetes	Disease	MESH:D003924
+31791003	149	152	T2D	Disease	MESH:D003924
+31791003	195	200	CAPN1	Gene	823
+31791003	202	207	CAPN2	Gene	824
+31791003	212	218	CAPN10	Gene	11132
+31791003	238	256	glucose metabolism	Disease	MESH:D044882
+31791003	355	363	patients	Species	9606
+31791003	369	372	T2D	Disease	MESH:D003924
+31791003	402	409	calpain	Gene	823;11132;824
+31791003	437	455	glucose metabolism	Disease	MESH:D044882
+31791003	508	511	T2D	Disease	MESH:D003924
+31791003	559	566	glucose	Chemical	MESH:D005947
+31791003	656	659	T2D	Disease	MESH:D003924
+31791003	688	693	CAPN1	Gene	823
+31791003	695	700	CAPN2	Gene	824
+31791003	705	711	CAPN10	Gene	11132
+31791003	805	808	T2D	Disease	MESH:D003924
+31791003	821	828	glucose	Chemical	MESH:D005947
+31791003	867	874	glucose	Chemical	MESH:D005947
+31791003	1021	1028	glucose	Chemical	MESH:D005947
+31791003	1140	1146	CAPN10	Gene	11132
+31791003	1202	1210	patients	Species	9606
+31791003	1216	1219	T2D	Disease	MESH:D003924
+31791003	1253	1260	glucose	Chemical	MESH:D005947
+31791003	1291	1296	CAPN1	Gene	823
+31791003	1352	1360	diabetes	Disease	MESH:D003920
+31791003	1391	1398	calpain	Gene	823;11132;824
+31791003	1428	1435	glucose	Chemical	MESH:D005947
+31791003	1499	1506	glucose	Chemical	MESH:D005947
+31791003	1564	1582	glucose metabolism	Disease	MESH:D044882
+31791003	1592	1598	CAPN10	Gene	11132
+31791003	1659	1662	T2D	Disease	MESH:D003924
+31791003	1712	1719	glucose	Chemical	MESH:D005947
+31791003	1766	1769	T2D	Disease	MESH:D003924
+

@@ -1,0 +1,1257 @@
+19564454|t|Maturity-onset diabetes of the young in children with incidental hyperglycemia: a multicenter Italian study of 172 families.
+19564454|a|OBJECTIVE: To investigate the prevalence of maturity-onset diabetes of the young (MODY) in Italian children with incidental hyperglycemia. RESEARCH DESIGN AND METHODS: Among 748 subjects age 1-18 years with incidental hyperglycemia, minimal diagnostic criteria for MODY were met by 172 families. Mutational analyses of the glucokinase (GCK) and hepatocyte nuclear factor 1alpha (HNF1A) genes were performed. RESULTS: We identified 85 GCK gene mutations in 109 probands and 10 HNF1A mutations in 12 probands. In GCK patients, the median neonatal weight and age at the first evaluation were lower than those found in patients with HNF1A mutations. Median fasting plasma glucose and impaired fasting glucose/impaired glucose tolerance frequency after oral glucose tolerance testing were higher in GCK patients, who also showed a lower frequency of diabetes than HNF1A patients. CONCLUSIONS: GCK mutations are the prevailing cause of MODY (63.4%) when the index case is recruited in Italian children with incidental hyperglycemia.
+19564454	15	23	diabetes	Disease	MESH:D003920
+19564454	40	48	children	Species	9606
+19564454	65	78	hyperglycemia	Disease	MESH:D006943
+19564454	184	192	diabetes	Disease	MESH:D003920
+19564454	224	232	children	Species	9606
+19564454	249	262	hyperglycemia	Disease	MESH:D006943
+19564454	343	356	hyperglycemia	Disease	MESH:D006943
+19564454	448	459	glucokinase	Gene	2645
+19564454	461	464	GCK	Gene	2645
+19564454	470	509	hepatocyte nuclear factor 1alpha (HNF1A	Gene	6927
+19564454	559	562	GCK	Gene	2645
+19564454	601	606	HNF1A	Gene	6927
+19564454	636	639	GCK	Gene	2645
+19564454	640	648	patients	Species	9606
+19564454	740	748	patients	Species	9606
+19564454	754	759	HNF1A	Gene	6927
+19564454	793	856	glucose and impaired fasting glucose/impaired glucose tolerance	Disease	MESH:D018149
+19564454	878	885	glucose	Chemical	MESH:D005947
+19564454	919	922	GCK	Gene	2645
+19564454	923	931	patients	Species	9606
+19564454	970	978	diabetes	Disease	MESH:D003920
+19564454	984	989	HNF1A	Gene	6927
+19564454	990	998	patients	Species	9606
+19564454	1013	1016	GCK	Gene	2645
+19564454	1112	1120	children	Species	9606
+19564454	1137	1150	hyperglycemia	Disease	MESH:D006943
+
+19565026|t|Investigating maturity onset diabetes of the young.
+19565026|a|Maturity Onset Diabetes of Young (MODY) is a monogenic and autosomal dominant form of diabetes mellitus with onset of the disease often before 25 years of age. It is due to dysfunction of pancreatic beta cells characterised by non-ketotic diabetes and absence of pancreatic auto-antibodies. It is frequently mistaken for type 1 or type 2 diabetes mellitus. Diagnosis of MODY is important as the GCK subtype has better prognosis and may not require any treatment. Subtypes HNF1A and HNF4A are sensitive to sulfonylureas, however diabetes complications are common if not treated early. Moreover, there is genetic implication for the patient and family. Rare MODY subtypes can be associated with pancreatic and renal anomalies as well as exocrine dysfunction of the pancreas. So far there are six widely accepted subtypes of MODY described but the list has grown to nine. Although the majority of diabetes mellitus in youth remains type 1 and the incidence of type 2 is rising, MODY should be considered in patients with non-ketotic diabetes at presentation, and in patients with a strong family history of diabetes mellitus without pancreatic auto-antibodies. Furthermore the diagnosis must be confirmed by molecular studies. With advancement in genomic technology, rapid screening for MODY mutations will become readily available in the future.
+19565026	29	37	diabetes	Disease	MESH:D003920
+19565026	67	75	Diabetes	Disease	MESH:D003920
+19565026	138	155	diabetes mellitus	Disease	MESH:D003920
+19565026	291	299	diabetes	Disease	MESH:D003920
+19565026	383	407	type 2 diabetes mellitus	Disease	MESH:D003924
+19565026	447	450	GCK	Gene	2645
+19565026	524	529	HNF1A	Gene	6927
+19565026	534	539	HNF4A	Gene	3172
+19565026	557	570	sulfonylureas	Chemical	MESH:D013453
+19565026	580	602	diabetes complications	Disease	MESH:D003925
+19565026	683	690	patient	Species	9606
+19565026	745	775	pancreatic and renal anomalies	Disease	MESH:D010195
+19565026	946	963	diabetes mellitus	Disease	MESH:D003920
+19565026	1056	1064	patients	Species	9606
+19565026	1070	1090	non-ketotic diabetes	Disease	MESH:D020158
+19565026	1115	1123	patients	Species	9606
+19565026	1156	1173	diabetes mellitus	Disease	MESH:D003920
+
+19646184|t|Phenotypical aspects of maturity-onset diabetes of the young (MODY diabetes) in comparison with Type 2 diabetes mellitus (T2DM) in children and adolescents: experience from a large multicentre database.
+19646184|a|AIMS: To analyse and compare clinical characteristics in young patients with maturity-onset diabetes of the young (MODY) and Type 2 diabetes mellitus (T2DM). METHODS: We conducted an observational investigation using the DPV-Wiss database containing clinical data on 40 757 diabetic patients &lt; 20 years of age from Germany and Austria. RESULTS: Three hundred and thirty-nine cases were clinically categorized as MODY (0.83%); 562 patients were diagnosed as T2DM (1.4%). In 20% of cases, the diagnosis of MODY was based on clinical findings only. Of the 272 subjects where genetic testing was available, 3% did not carry mutations in the three examined MODY genes. Glucokinase-MODY was commoner than HNF1A-MODY and HNF4A-MODY. Age at diagnosis was younger in MODY patients. The body mass index of T2DM was significantly higher compared with all MODY subgroups. Macrovascular risk factors such as dyslipidaemia and hypertension were commoner in T2DM, but 23% of MODY patients had dyslipidaemia and 10% hypertension. Glycaemic control was within the therapeutic target (HbA(1c) &lt; 7.5%) in 86% of MODY and 70% of T2DM patients. CONCLUSIONS: The prevalence of MODY in children and adolescents in Germany and Austria is lower than that of T2DM in this age group. Dyslipidaemia and hypertension are less frequent in MODY compared with T2DM patients, but do occur.
+19646184	39	47	diabetes	Disease	MESH:D003920
+19646184	67	75	diabetes	Disease	MESH:D003920
+19646184	96	120	Type 2 diabetes mellitus	Disease	MESH:D003924
+19646184	131	139	children	Species	9606
+19646184	266	274	patients	Species	9606
+19646184	295	303	diabetes	Disease	MESH:D003920
+19646184	328	352	Type 2 diabetes mellitus	Disease	MESH:D003924
+19646184	477	485	diabetic	Disease	MESH:D003920
+19646184	486	494	patients	Species	9606
+19646184	636	644	patients	Species	9606
+19646184	870	881	Glucokinase	Gene	2645
+19646184	905	910	HNF1A	Gene	6927
+19646184	920	930	HNF4A-MODY	Gene	3172
+19646184	969	977	patients	Species	9606
+19646184	1101	1114	dyslipidaemia	Disease	
+19646184	1119	1131	hypertension	Disease	MESH:D006973
+19646184	1171	1179	patients	Species	9606
+19646184	1184	1197	dyslipidaemia	Disease	
+19646184	1206	1218	hypertension	Disease	MESH:D006973
+19646184	1323	1331	patients	Species	9606
+19646184	1372	1380	children	Species	9606
+19646184	1466	1479	Dyslipidaemia	Disease	
+19646184	1484	1496	hypertension	Disease	MESH:D006973
+19646184	1542	1550	patients	Species	9606
+
+19672314|t|Low frequency variants in the exons only encoding isoform A of HNF1A do not contribute to susceptibility to type 2 diabetes.
+19672314|a|BACKGROUND: There is considerable interest in the hypothesis that low frequency, intermediate penetrance variants contribute to the proportion of Type 2 Diabetes (T2D) susceptibility not attributable to the common variants uncovered through genome-wide association approaches. Genes previously implicated in monogenic and multifactorial forms of diabetes are obvious candidates in this respect. In this study, we focussed on exons 8-10 of the HNF1A gene since rare, penetrant mutations in these exons (which are only transcribed in selected HNF1A isoforms) are associated with a later age of diagnosis of Maturity onset diabetes of the young (MODY) than mutations in exons 1-7. The age of diagnosis in the subgroup of HNF1A-MODY individuals with exon 8-10 mutations overlaps with that of early multifactorial T2D, and we set out to test the hypothesis that these exons might also harbour low-frequency coding variants of intermediate penetrance that contribute to risk of multifactorial T2D. METHODOLOGY AND PRINCIPAL FINDINGS: We performed targeted capillary resequencing of HNF1A exons 8-10 in 591 European T2D subjects enriched for genetic aetiology on the basis of an early age of diagnosis (&lt; or =45 years) and/or family history of T2D (&gt; or =1 affected sibling). PCR products were sequenced and compared to the published HNF1A sequence. We identified several variants (rs735396 [IVS9-24T&gt;C], rs1169304 [IVS8+29T&gt;C], c.1768+44C&gt;T [IVS9+44C&gt;T] and rs61953349 [c.1545G&gt;A, p.T515T] but no novel non-synonymous coding variants were detected. CONCLUSIONS AND SIGNIFICANCE: We conclude that low frequency, nonsynonymous coding variants in the terminal exons of HNF1A are unlikely to contribute to T2D-susceptibility in European samples. Nevertheless, the rationale for seeking low-frequency causal variants in genes known to contain rare, penetrant mutations remains strong and should motivate efforts to screen other genes in a similar fashion.
+19672314	63	68	HNF1A	Gene	6927
+19672314	115	123	diabetes	Disease	MESH:D003920
+19672314	271	286	Type 2 Diabetes	Disease	MESH:D003924
+19672314	471	479	diabetes	Disease	MESH:D003920
+19672314	568	573	HNF1A	Gene	6927
+19672314	666	671	HNF1A	Gene	6927
+19672314	730	753	Maturity onset diabetes	Disease	MESH:D003924
+19672314	843	848	HNF1A	Gene	6927
+19672314	1201	1206	HNF1A	Gene	6927
+19672314	1458	1463	HNF1A	Gene	6927
+19672314	1506	1514	rs735396	SNP	rs735396
+19672314	1532	1541	rs1169304	SNP	rs1169304
+19672314	1595	1605	rs61953349	SNP	rs61953349
+19672314	1806	1811	HNF1A	Gene	6927
+
+19794065|t|Polygenic risk variants for type 2 diabetes susceptibility modify age at diagnosis in monogenic HNF1A diabetes.
+19794065|a|OBJECTIVE: Mutations in the HNF1A gene are the most common cause of maturity-onset diabetes of the young (MODY). There is a substantial variation in the age at diabetes diagnosis, even within families where diabetes is caused by the same mutation. We investigated the hypothesis that common polygenic variants that predispose to type 2 diabetes might account for the difference in age at diagnosis. RESEARCH DESIGN AND METHODS: Fifteen robustly associated type 2 diabetes variants were successfully genotyped in 410 individuals from 203 HNF1A-MODY families, from two study centers in the U.K. and Norway. We assessed their effect on the age at diagnosis both individually and in a combined genetic score by summing the number of type 2 diabetes risk alleles carried by each patient. RESULTS: We confirmed the effects of environmental and genetic factors known to modify the age at HNF1A-MODY diagnosis, namely intrauterine hyperglycemia (-5.1 years if present, P = 1.6 x 10(-10)) and HNF1A mutation position (-5.2 years if at least two isoforms affected, P = 1.8 x 10(-2)). Additionally, our data showed strong effects of sex (females diagnosed 3.0 years earlier, P = 6.0 x 10(-4)) and age at study (0.3 years later diagnosis per year increase in age, P = 4.7 x 10(-38)). There were no strong individual single nucleotide polymorphism effects; however, in the combined genetic score model, each additional risk allele was associated with 0.35 years earlier diabetes diagnosis (P = 5.1 x 10(-3)). CONCLUSIONS: We show that type 2 diabetes risk variants of modest effect sizes reduce the age at diagnosis in HNF1A-MODY. This is one of the first studies to demonstrate that clinical characteristics of a monogenic disease can be modified by common polygenic variants.
+19794065	35	43	diabetes	Disease	MESH:D003920
+19794065	96	101	HNF1A	Gene	6927
+19794065	102	110	diabetes	Disease	MESH:D003920
+19794065	140	145	HNF1A	Gene	6927
+19794065	195	203	diabetes	Disease	MESH:D003920
+19794065	272	280	diabetes	Disease	MESH:D003920
+19794065	319	327	diabetes	Disease	MESH:D003920
+19794065	448	456	diabetes	Disease	MESH:D003920
+19794065	575	583	diabetes	Disease	MESH:D003920
+19794065	649	659	HNF1A-MODY	Gene	6927
+19794065	848	856	diabetes	Disease	MESH:D003920
+19794065	886	893	patient	Species	9606
+19794065	993	1003	HNF1A-MODY	Gene	6927
+19794065	1022	1048	intrauterine hyperglycemia	Disease	MESH:D006943
+19794065	1096	1101	HNF1A	Gene	6927
+19794065	1569	1577	diabetes	Disease	MESH:D003920
+19794065	1641	1649	diabetes	Disease	MESH:D003920
+19794065	1718	1723	HNF1A	Gene	6927
+
+19900242|t|Testing for monogenic diabetes among children and adolescents with antibody-negative clinically defined Type 1 diabetes.
+19900242|a|AIMS: Monogenic diabetes is frequently misdiagnosed as Type 1 diabetes. We aimed to screen for undiagnosed monogenic diabetes in a cohort of children who had a clinical diagnosis of Type 1 diabetes but were pancreatic autoantibody-negative. METHODS: We studied 252 patients diagnosed clinically with Type 1 diabetes between 6 months and 17 years of age. Pancreatic autoantibodies [islet cell autoantibodies (ICA), glutamic acid decarboxylase antibodies (GADA) and/or insulinoma-associated antigen-2 antibodies (IA2A)] were absent in 25 cases (9.9%). The most frequent genes involved in monogenic diabetes [KCNJ11 and INS for neonatal diabetes and HNF1A and HNF4A for maturity-onset diabetes of the young (MODY)] were directly sequenced. RESULTS: Two of the 25 (8%) antibody-negative patients had de novo heterozygous mutations in INS; c.94G&gt;A (G32S) and c.265C&gt;T (R89C). The two patients presented with non-ketotic hyperglycaemia at 8 and 11 months of age. In contrast, the four antibody-positive patients who presented at a similar age (6-12 months) had a more severe metabolic derangement, manifested as ketosis in all four cases, with ketoacidosis in two. At ages 15 and 5 years, both INS mutation patients were prescribed a replacement dose of insulin with good glycaemic control [glycated haemoglobin (HbA(1c)) 7.0 and 7.2%]. No mutations were found in KCNJ11, HNF1A or HNF4A. CONCLUSIONS: The identification of patients with monogenic diabetes from children with clinically defined Type 1 diabetes may be helped by clinical criteria including the absence of pancreatic autoantibodies.
+19900242	22	30	diabetes	Disease	MESH:D003920
+19900242	37	45	children	Species	9606
+19900242	104	119	Type 1 diabetes	Disease	MESH:D003922
+19900242	137	145	diabetes	Disease	MESH:D003920
+19900242	176	191	Type 1 diabetes	Disease	MESH:D003922
+19900242	238	246	diabetes	Disease	MESH:D003920
+19900242	262	270	children	Species	9606
+19900242	303	318	Type 1 diabetes	Disease	MESH:D003922
+19900242	328	338	pancreatic	Disease	MESH:D010195
+19900242	386	394	patients	Species	9606
+19900242	421	436	Type 1 diabetes	Disease	MESH:D003922
+19900242	535	548	glutamic acid	Chemical	MESH:C030030
+19900242	588	598	insulinoma	Disease	MESH:D007340
+19900242	717	725	diabetes	Disease	MESH:D003920
+19900242	727	733	KCNJ11	Gene	3767
+19900242	738	763	INS for neonatal diabetes	Disease	MESH:D003920
+19900242	768	773	HNF1A	Gene	6927
+19900242	778	783	HNF4A	Gene	3172
+19900242	803	811	diabetes	Disease	MESH:D003920
+19900242	904	912	patients	Species	9606
+19900242	968	972	G32S	ProteinMutation	p.G32S
+19900242	991	995	R89C	ProteinMutation	p.R89C;RS#:201264306
+19900242	1006	1014	patients	Species	9606
+19900242	1030	1056	non-ketotic hyperglycaemia	Disease	MESH:D020158
+19900242	1124	1132	patients	Species	9606
+19900242	1233	1240	ketosis	Disease	MESH:D007662
+19900242	1265	1277	ketoacidosis	Disease	MESH:D007662
+19900242	1328	1336	patients	Species	9606
+19900242	1485	1491	KCNJ11	Gene	3767
+19900242	1493	1498	HNF1A	Gene	6927
+19900242	1502	1507	HNF4A	Gene	3172
+19900242	1544	1552	patients	Species	9606
+19900242	1568	1576	diabetes	Disease	MESH:D003920
+19900242	1582	1590	children	Species	9606
+19900242	1615	1630	Type 1 diabetes	Disease	MESH:D003922
+19900242	1691	1701	pancreatic	Disease	MESH:D010195
+
+19929997|t|Hepatocyte nuclear factor (HNF)1A and HNF4A substitution occurring simultaneously in a family with maturity-onset diabetes of the young.
+19929997|a|INTRODUCTION: Maturity-onset diabetes of the young (MODY) is a monogenic form of diabetes mellitus characterized by an early age at onset, autosomal dominant inheritance and a primary defect in the function of the B-cells of the pancreas. We report a family with two members carrying a substitution in both the hepatocyte nuclear factor (HNF)1A and HNF4A gene simultaneously. CASE REPORT: A 39-year-old man was referred because of mild diabetic retinopathy. Because of a dominant presentation of diabetes in his family, genetic testing was performed. Sequence analysis of the genes involved in MODY-1-3 revealed the presence of an amino acid substitution in the HNF1A as well as the HNF4A gene. Both substitutions were also detected in his mother. The HNF1A substitution has been described previously as pathogenic, whereas the HNF4A substitution had not been found previously. The HNF4A substitution was located in a conserved region of the protein and, additionally, the proband and his mother had high birthweights and low triglyceride levels, both of which are associated with pathogenic HNF4A substitutions. CONCLUSIONS: To our knowledge this is the first reported family carrying both a substitution of HNF1A and HNF4A gene simultaneously. The exact contribution of each substitution to the phenotype of our subjects remains to be further elucidated, however, given the high birthweights and the low triglyceride levels in those with both substitutions, it is reasonable that the HNF4A substitution is pathogenic.
+19929997	0	33	Hepatocyte nuclear factor (HNF)1A	Gene	6927
+19929997	38	43	HNF4A	Gene	3172
+19929997	114	122	diabetes	Disease	MESH:D003920
+19929997	166	174	diabetes	Disease	MESH:D003920
+19929997	218	235	diabetes mellitus	Disease	MESH:D003920
+19929997	448	481	hepatocyte nuclear factor (HNF)1A	Gene	6927
+19929997	486	491	HNF4A	Gene	3172
+19929997	540	543	man	Species	9606
+19929997	573	593	diabetic retinopathy	Disease	MESH:D003930
+19929997	633	641	diabetes	Disease	MESH:D003920
+19929997	731	739	MODY-1-3	Gene	3767;3172;2645;6927
+19929997	799	804	HNF1A	Gene	6927
+19929997	820	825	HNF4A	Gene	3172
+19929997	889	894	HNF1A	Gene	6927
+19929997	965	970	HNF4A	Gene	3172
+19929997	1019	1024	HNF4A	Gene	3172
+19929997	1163	1175	triglyceride	Chemical	MESH:D014280
+19929997	1229	1234	HNF4A	Gene	3172
+19929997	1346	1351	HNF1A	Gene	6927
+19929997	1356	1361	HNF4A	Gene	3172
+19929997	1543	1555	triglyceride	Chemical	MESH:D014280
+19929997	1623	1628	HNF4A	Gene	3172
+
+19933992|t|Evaluation of serum 1,5 anhydroglucitol levels as a clinical test to differentiate subtypes of diabetes.
+19933992|a|OBJECTIVE: Assignment of the correct molecular diagnosis in diabetes is necessary for informed decisions regarding treatment and prognosis. Better clinical markers would facilitate discrimination and prioritization for genetic testing between diabetes subtypes. Serum 1,5 anhydroglucitol (1,5AG) levels were reported to differentiate maturity-onset diabetes of the young due to HNF1A mutations (HNF1A-MODY) from type 2 diabetes, but this requires further validation. We evaluated serum 1,5AG in a range of diabetes subtypes as an adjunct for defining diabetes etiology. RESEARCH DESIGN AND METHODS: 1,5AG was measured in U.K. subjects with: HNF1A-MODY (n = 23), MODY due to glucokinase mutations (GCK-MODY, n = 23), type 1 diabetes (n = 29), latent autoimmune diabetes in adults (LADA, n = 42), and type 2 diabetes (n = 206). Receiver operating characteristic curve analysis was performed to assess discriminative accuracy of 1,5AG for diabetes etiology. RESULTS: Mean (SD range) 1,5AG levels were: GCK-MODY 13.06 microg/ml (5.74-29.74), HNF1A-MODY 4.23 microg/ml (2.12-8.44), type 1 diabetes 3.09 microg/ml (1.45-6.57), LADA 3.46 microg/ml (1.42-8.45), and type 2 diabetes 5.43 (2.12-13.23). Levels in GCK-MODY were higher than in other groups (P &lt; 10(-4) vs. each group). HNF1A-MODY subjects showed no difference in unadjusted 1,5AG levels from type 2 diabetes, type 1 diabetes, and LADA. Adjusting for A1C revealed a difference between HNF1A-MODY and type 2 diabetes (P = 0.001). The discriminative accuracy of unadjusted 1,5AG levels was 0.79 for GCK-MODY versus type 2 diabetes and 0.86 for GCK-MODY versus HNF1A-MODY but was only 0.60 for HNF1A-MODY versus type 2 diabetes. CONCLUSIONS: In our dataset, serum 1,5AG performed well in discriminating GCK-MODY from other diabetes subtypes, particularly HNF1A-MODY. Measurement of 1,5AG levels could inform decisions regarding MODY diagnostic testing.
+19933992	24	39	anhydroglucitol	Chemical	MESH:C466770
+19933992	95	103	diabetes	Disease	MESH:D003920
+19933992	165	173	diabetes	Disease	MESH:D003920
+19933992	348	356	diabetes	Disease	MESH:D003920
+19933992	377	392	anhydroglucitol	Chemical	MESH:C466770
+19933992	454	462	diabetes	Disease	MESH:D003920
+19933992	483	488	HNF1A	Gene	6927
+19933992	500	510	HNF1A-MODY	Gene	6927
+19933992	524	532	diabetes	Disease	MESH:D003920
+19933992	611	619	diabetes	Disease	MESH:D003920
+19933992	656	664	diabetes	Disease	MESH:D003920
+19933992	746	756	HNF1A-MODY	Gene	6927
+19933992	779	790	glucokinase	Gene	2645
+19933992	802	805	GCK	Gene	2645
+19933992	828	836	diabetes	Disease	MESH:D003920
+19933992	854	873	autoimmune diabetes	Disease	MESH:D003922
+19933992	904	919	type 2 diabetes	Disease	MESH:D003924
+19933992	1041	1049	diabetes	Disease	MESH:D003920
+19933992	1104	1107	GCK	Gene	2645
+19933992	1143	1155	HNF1A-MODY 4	Gene	6927;3651
+19933992	1189	1197	diabetes	Disease	MESH:D003920
+19933992	1263	1278	type 2 diabetes	Disease	MESH:D003924
+19933992	1308	1311	GCK	Gene	2645
+19933992	1382	1387	HNF1A	Gene	6927
+19933992	1462	1470	diabetes	Disease	MESH:D003920
+19933992	1479	1487	diabetes	Disease	MESH:D003920
+19933992	1513	1516	A1C	DNAMutation	c.1A>C
+19933992	1547	1552	HNF1A	Gene	6927
+19933992	1569	1577	diabetes	Disease	MESH:D003920
+19933992	1659	1662	GCK	Gene	2645
+19933992	1682	1690	diabetes	Disease	MESH:D003920
+19933992	1704	1707	GCK	Gene	2645
+19933992	1720	1730	HNF1A-MODY	Gene	6927
+19933992	1753	1758	HNF1A	Gene	6927
+19933992	1778	1786	diabetes	Disease	MESH:D003920
+19933992	1862	1865	GCK	Gene	2645
+19933992	1882	1890	diabetes	Disease	MESH:D003920
+19933992	1914	1924	HNF1A-MODY	Gene	6927
+
+20132997|t|Three novel mutations in MODY and its phenotype in three different Czech families.
+20132997|a|AIMS/HYPOTHESIS: MODY (Maturity Onset Diabetes of the Young) is an autosomal dominant inherited type of diabetes with significant genetic heterogeneity. New mutations causing MODY are still being found. A genetically confirmed diagnosis of MODY allows application of individualized treatment based on the underlying concrete genetic dysfunction. Detection of novel MODY mutations helps provide a more complete picture of the possible MODY genotypes. MATERIALS AND METHODS: We tested 43 adult Czech patients with clinical characteristics of MODY, using direct sequencing of HNF1A (hepatocyte nuclear factor 1-alpha), HNF4A (hepatocyte nuclear factor 4-alpha) and GCK (glucokinase) genes. RESULTS: In three Czech families we identified three novel mutations we believe causing MODY-two missense mutations in HNF1A [F268L (c.802T&gt;C) and P291S (c.871C&gt;T)] and one frame shift mutation in GCK V244fsdelG (c.729delG). Some of the novel HNF1A mutation carriers were successfully transferred from insulin to gliclazide, while some of the novel GCK mutation carriers had a good clinical response when switched from insulin or oral antidiabetic drugs to diet. CONCLUSION: We describe three novel MODY mutations in three Czech families. The identification of MODY mutations had a meaningful impact on therapy on the mutation carriers.
+20132997	121	129	Diabetes	Disease	MESH:D003920
+20132997	169	195	inherited type of diabetes	Disease	MESH:D003924
+20132997	399	427	concrete genetic dysfunction	Disease	MESH:D030342
+20132997	581	589	patients	Species	9606
+20132997	656	661	HNF1A	Gene	6927
+20132997	663	696	hepatocyte nuclear factor 1-alpha	Gene	6927
+20132997	699	704	HNF4A	Gene	3172
+20132997	706	739	hepatocyte nuclear factor 4-alpha	Gene	3172
+20132997	745	748	GCK	Gene	2645
+20132997	750	761	glucokinase	Gene	2645
+20132997	889	894	HNF1A	Gene	6927
+20132997	896	901	F268L	ProteinMutation	p.F268L
+20132997	920	925	P291S	ProteinMutation	p.P291S;RS#:151256267
+20132997	973	976	GCK	Gene	2645
+20132997	989	998	c.729delG	DNAMutation	c.729delG
+20132997	1019	1024	HNF1A	Gene	6927
+20132997	1089	1099	gliclazide	Chemical	MESH:D005907
+20132997	1125	1128	GCK	Gene	2645
+
+20172480|t|Clinical differences between patients with MODY-3, MODY-2 and type 2 diabetes mellitus with I27L polymorphism in the HNF1alpha gene.
+20172480|a|OBJECTIVE: The aim of our study was to describe and evaluate the clinical and metabolic characteristics of patients with MODY-3, MODY-2 or type 2 diabetes who presented I27L polymorphism in the HNF1alpha gene. METHODS: The study included 31 previously diagnosed subjects under follow-up for MODY-3 (10 subjects from 5 families), MODY-2 (15 subjects from 9 families), or type 2 diabetes (6 subjects) with I27L polymorphism in the HNF1alpha gene. The demographic, clinical, metabolic, and genetic characteristics of all patients were analyzed. RESULTS: No differences were observed in distribution according to sex, age of onset, or form of diagnosis. All patients with MODY-2 or MODY-3 had a family history of diabetes. In contrast, 33.3% of patients with type 2 diabetes mellitus and I27L polymorphism in the HNF1alpha gene had no family history of diabetes (p &lt; 0.05). No differences were observed in body mass index, prevalence of hypertension, or microvascular or macrovascular complications. Drug therapy was required by 100% of MODY-3 patients, but not required by 100% of MODY-2 patients or 16.7% of patients with type 2 diabetes mellitus and I27L polymorphism in the HNF1alpha gene (p &lt; 0.05). CONCLUSIONS: Occasional difficulties may be encountered when classifying patients with MODY-2, MODY-3 or type 2 diabetes of atypical characteristics, in this case patients who present I27L polymorphism in the HNF1alpha gene.
+20172480	29	37	patients	Species	9606
+20172480	43	49	MODY-3	Gene	6927
+20172480	51	57	MODY-2	Gene	2645
+20172480	69	86	diabetes mellitus	Disease	MESH:D003920
+20172480	92	96	I27L	ProteinMutation	p.I27L;RS#:1169288
+20172480	117	126	HNF1alpha	Gene	6927
+20172480	240	248	patients	Species	9606
+20172480	254	260	MODY-3	Gene	6927
+20172480	262	268	MODY-2	Gene	2645
+20172480	279	287	diabetes	Disease	MESH:D003920
+20172480	302	306	I27L	ProteinMutation	p.I27L;RS#:1169288
+20172480	327	336	HNF1alpha	Gene	6927
+20172480	424	430	MODY-3	Gene	6927
+20172480	462	468	MODY-2	Gene	2645
+20172480	503	518	type 2 diabetes	Disease	MESH:D003924
+20172480	537	541	I27L	ProteinMutation	p.I27L;RS#:1169288
+20172480	562	571	HNF1alpha	Gene	6927
+20172480	651	659	patients	Species	9606
+20172480	787	795	patients	Species	9606
+20172480	801	807	MODY-2	Gene	2645
+20172480	811	817	MODY-3	Gene	6927
+20172480	842	850	diabetes	Disease	MESH:D003920
+20172480	874	882	patients	Species	9606
+20172480	888	912	type 2 diabetes mellitus	Disease	MESH:D003924
+20172480	917	921	I27L	ProteinMutation	p.I27L;RS#:1169288
+20172480	942	951	HNF1alpha	Gene	6927
+20172480	982	990	diabetes	Disease	MESH:D003920
+20172480	1069	1081	hypertension	Disease	MESH:D006973
+20172480	1169	1175	MODY-3	Gene	6927
+20172480	1176	1184	patients	Species	9606
+20172480	1214	1220	MODY-2	Gene	2645
+20172480	1221	1229	patients	Species	9606
+20172480	1242	1250	patients	Species	9606
+20172480	1256	1280	type 2 diabetes mellitus	Disease	MESH:D003924
+20172480	1285	1289	I27L	ProteinMutation	p.I27L;RS#:1169288
+20172480	1310	1319	HNF1alpha	Gene	6927
+20172480	1413	1421	patients	Species	9606
+20172480	1427	1433	MODY-2	Gene	2645
+20172480	1435	1441	MODY-3	Gene	6927
+20172480	1452	1460	diabetes	Disease	MESH:D003920
+20172480	1503	1511	patients	Species	9606
+20172480	1524	1528	I27L	ProteinMutation	p.I27L;RS#:1169288
+20172480	1549	1558	HNF1alpha	Gene	6927
+
+20210571|t|Dipeptidyl peptidase-IV inhibitors are efficient adjunct therapy in HNF1A maturity-onset diabetes of the young patients--report of two cases.
+20210571|a|BACKGROUND: In HNF1A maturity-onset diabetes of the young (MODY), sulfonylurea (SU) is the first-line treatment. Over time, such therapy fails, and additional treatment is required. Dipeptidyl peptidase IV (DPP-IV) inhibitors are new agents that lower blood glucose by prolonging the activity of circulating incretins. METHODS: We applied DPP-IV inhibitors in two HNF1A MODY patients whose earlier therapeutic regimen included SU. RESULTS: Case 1, a 39-year-old woman, a carrier of the ArgR171X HNF1A mutation, with a 7-year history of diabetes was on 160 mg of gliclazide and 2,000 mg of metformin. Her initial hemoglobin A1c (HbA1c) level was 7.2%, while the mean glucose level on the CGMS((R)) (Medtronic, Northridge, CA) record was 162 mg/dL. Sitagliptine, in a dose of 100 mg/day, was added to the previous treatment. Case 2, a 62-year-old woman, a carrier of the IVS7nt-6G&gt;A mutation, with a 41-year history of diabetes was treated with 240 mg/day gliclazide and 6 IU of insulin/day. Her initial HbA1c was 8.8%, and average glycemia reached 172 mg/dL. In her case, we started the combined therapy with 50 mg of vildagliptine twice daily. Patients were reexamined after 3 months, and HbA1c fell to 6.3% in both subjects. Similarly, significant improvement in glycemic control on CGMS was observed as the average glycemia decreased to 114 mg/dL and 134 mg/dL in Case 1 and Case 2, respectively. No episodes of hypoglycemia or other side effects were recorded. As intravenous glucose tolerance tests (IVGTTs) were performed before and after DPP-IV implementation, we were able to assess their impact on insulin secretion under fasting conditions. We saw a substantial rise in insulin level increment during IVGTT (by 9.8 and13.4 mIU/L in Case 1 and Case 2, respectively). CONCLUSIONS: DPP-IV inhibitors may be an effective tool of combined therapy in HNF1A MODY, and they seem to improve beta-cell function under fasting conditions.
+20210571	0	23	Dipeptidyl peptidase-IV	Gene	1803
+20210571	68	73	HNF1A	Gene	6927
+20210571	89	97	diabetes	Disease	MESH:D003920
+20210571	111	119	patients	Species	9606
+20210571	157	162	HNF1A	Gene	6927
+20210571	178	186	diabetes	Disease	MESH:D003920
+20210571	208	220	sulfonylurea	Chemical	MESH:D013453
+20210571	324	347	Dipeptidyl peptidase IV	Gene	1803
+20210571	349	355	DPP-IV	Gene	1803
+20210571	400	407	glucose	Chemical	MESH:D005947
+20210571	481	487	DPP-IV	Gene	1803
+20210571	506	511	HNF1A	Gene	6927
+20210571	517	525	patients	Species	9606
+20210571	604	609	woman	Species	9606
+20210571	637	642	HNF1A	Gene	6927
+20210571	678	686	diabetes	Disease	MESH:D003920
+20210571	704	714	gliclazide	Chemical	MESH:D005907
+20210571	731	740	metformin	Chemical	MESH:D008687
+20210571	808	815	glucose	Chemical	MESH:D005947
+20210571	889	901	Sitagliptine	Chemical	
+20210571	987	992	woman	Species	9606
+20210571	1062	1070	diabetes	Disease	MESH:D003920
+20210571	1099	1109	gliclazide	Chemical	MESH:D005907
+20210571	1122	1129	insulin	Gene	3630
+20210571	1175	1183	glycemia	Disease	
+20210571	1262	1275	vildagliptine	Chemical	
+20210571	1289	1297	Patients	Species	9606
+20210571	1462	1480	glycemia decreased	Disease	MESH:D012021
+20210571	1559	1571	hypoglycemia	Disease	MESH:D007003
+20210571	1624	1631	glucose	Chemical	MESH:D005947
+20210571	1689	1695	DPP-IV	Gene	1803
+20210571	1751	1758	insulin	Gene	3630
+20210571	1824	1831	insulin	Gene	3630
+20210571	1933	1939	DPP-IV	Gene	1803
+20210571	1999	2004	HNF1A	Gene	6927
+
+20361036|t|Gene-gene interactions lead to higher risk for development of type 2 diabetes in an Ashkenazi Jewish population.
+20361036|a|BACKGROUND: Evidence has accumulated that multiple genetic and environmental factors play important roles in determining susceptibility to type 2 diabetes (T2D). Although variants from candidate genes have become prime targets for genetic analysis, few studies have considered their interplay. Our goal was to evaluate interactions among SNPs within genes frequently identified as associated with T2D. METHODS/PRINCIPAL FINDINGS: Logistic regression was used to study interactions among 4 SNPs, one each from HNF4A[rs1884613], TCF7L2[rs12255372], WFS1[rs10010131], and KCNJ11[rs5219] in a case-control Ashkenazi sample of 974 diabetic subjects and 896 controls. Nonparametric multifactor dimensionality reduction (MDR) and generalized MDR (GMDR) were used to confirm findings from the logistic regression analysis. HNF4A and WFS1 SNPs were associated with T2D in logistic regression analyses [P&lt;0.0001, P&lt;0.0002, respectively]. Interaction between these SNPs were also strong using parametric or nonparametric methods: the unadjusted odds of being affected with T2D was 3 times greater in subjects with the HNF4A and WFS1 risk alleles than those without either (95% CI = [1.7-5.3]; P&lt;or=0.0001). Although the univariate association between the TCF7L2 SNP and T2D was relatively modest [P = 0.02], when paired with the HNF4A SNP, the OR for subjects with risk alleles in both SNPs was 2.4 [95% CI = 1.7-3.4; P&lt;or=0.0001]. The KCNJ11 variant reached significance only when paired with either the HNF4A or WFSI SNPs: unadjusted ORs were 2.0 [95% CI = 1.4-2.8; P&lt;or=0.0001] and 2.3 [95% CI = 1.2-4.4; P&lt;or=0.0001], respectively. MDR and GMDR results were consistent with the parametric findings. CONCLUSIONS: These results provide evidence of strong independent associations between T2D and SNPs in HNF4A and WFS1 and their interaction in our Ashkenazi sample. We also observed an interaction in the nonparametric analysis between the HNF4A and KCNJ11 SNPs (P&lt;or=0.001), demonstrating that an independently non-significant variant may interact with another variant resulting in an increased disease risk.
+20361036	69	77	diabetes	Disease	MESH:D003920
+20361036	252	267	type 2 diabetes	Disease	MESH:D003924
+20361036	622	627	HNF4A	Gene	3172
+20361036	628	637	rs1884613	SNP	rs1884613
+20361036	640	646	TCF7L2	Gene	6934
+20361036	647	657	rs12255372	SNP	rs12255372
+20361036	660	664	WFS1	Gene	7466
+20361036	665	675	rs10010131	SNP	rs10010131
+20361036	682	688	KCNJ11	Gene	3767
+20361036	689	695	rs5219	SNP	rs5219
+20361036	739	747	diabetic	Disease	MESH:D003920
+20361036	928	933	HNF4A	Gene	3172
+20361036	938	942	WFS1	Gene	7466
+20361036	1226	1231	HNF4A	Gene	3172
+20361036	1236	1240	WFS1	Gene	7466
+20361036	1366	1372	TCF7L2	Gene	6934
+20361036	1440	1445	HNF4A	Gene	3172
+20361036	1550	1556	KCNJ11	Gene	3767
+20361036	1619	1624	HNF4A	Gene	3172
+20361036	1926	1931	HNF4A	Gene	3172
+20361036	1936	1940	WFS1	Gene	7466
+20361036	2062	2067	HNF4A	Gene	3172
+20361036	2072	2078	KCNJ11	Gene	3767
+
+20531501|t|[Progress in diabetes genetics].
+20531501|a|BACKGROUND: Diabetes is classified as Type 1 diabetes, Type 2 diabetes, gestational diabetes and other types. Our goal was to provide an overview of new genetic knowledge of monogenic and type 2 diabetes. MATERIAL AND METHOD: The article is based on literature identified through a non-systematic search in PubMed and own experience concerning research in diabetes genetics and treatment of patients with monogenic diabetes. RESULTS: 18 genes have been found for which one single mutation may cause diabetes. The most common causes for such monogenic diabetes are mutations in the genes KCNJ11, ABCC8 and INS when the condition is diagnosed at the age 0 - 6 months, and in the genes HNF1A, GCK, HNF4A and HNF1B when the diagnosis is made later than six months of age. Genetic testing is appropriate in assessment of monogenic diabetes, because antidiabetic tablets rather that insulin injections can be used to treat patients with mutations in certain genes; i.e. KCNJ11, ABCC8, HNF1A and HNF4A. Genome-wide association studies have recently identified about 20 genetic variants that increase the risk of Type 2 diabetes, but which have a low predictive value for development of disease. How these genetic variants can cause Type 2 diabetes has not been assessed and clinical relevance remains to be shown. INTERPRETATION: So far, genetic findings only affect diagnosis and treatment of monogenic diabetes.
+20531501	13	21	diabetes	Disease	MESH:D003920
+20531501	45	53	Diabetes	Disease	MESH:D003920
+20531501	71	103	Type 1 diabetes, Type 2 diabetes	Disease	MESH:D003924
+20531501	117	125	diabetes	Disease	MESH:D003920
+20531501	228	236	diabetes	Disease	MESH:D003920
+20531501	389	397	diabetes	Disease	MESH:D003920
+20531501	424	432	patients	Species	9606
+20531501	448	456	diabetes	Disease	MESH:D003920
+20531501	532	540	diabetes	Disease	MESH:D003920
+20531501	584	592	diabetes	Disease	MESH:D003920
+20531501	620	626	KCNJ11	Gene	3767
+20531501	628	633	ABCC8	Gene	6833
+20531501	716	721	HNF1A	Gene	6927
+20531501	723	726	GCK	Gene	2645
+20531501	728	733	HNF4A	Gene	3172
+20531501	738	743	HNF1B	Gene	6928
+20531501	859	867	diabetes	Disease	MESH:D003920
+20531501	910	917	insulin	Gene	3630
+20531501	950	958	patients	Species	9606
+20531501	997	1003	KCNJ11	Gene	3767
+20531501	1005	1010	ABCC8	Gene	6833
+20531501	1012	1017	HNF1A	Gene	6927
+20531501	1022	1027	HNF4A	Gene	3172
+20531501	1138	1153	Type 2 diabetes	Disease	MESH:D003924
+20531501	1258	1273	Type 2 diabetes	Disease	MESH:D003924
+20531501	1430	1438	diabetes	Disease	MESH:D003920
+
+20546258|t|Increased all-cause and cardiovascular mortality in monogenic diabetes as a result of mutations in the HNF1A gene.
+20546258|a|AIMS: To investigate all-cause and cardiovascular mortality in subjects with diabetes caused by a mutation in the hepatocyte nuclear factor 1alpha gene (HNF1A). METHODS: We identified 39 British families with HNF1A mutations. Consenting individuals were asked details of age and cause of death of parents and siblings. Copies of death certificates were requested from the family or were obtained via the Offices for National Statistics. RESULTS: Data were collated on 241 control subjects and 153 mutation carriers. Of those who died, 66% of mutation carriers died from a cardiovascular-related illness compared with 43% of control subjects (P = 0.02). Family members with HNF1A mutations died at a younger age than familial control subjects [all-cause hazard ratio, adjusting for sex and smoking status: 1.9 (95% confidence interval 1.2, 2.9, P = 0.006; cardiovascular hazard ratio: 2.3, confidence interval 1.3, 4.2, P = 0.006)]. CONCLUSIONS: We have shown that individuals known to have diabetes caused by a mutation in the HNF1A gene have an increased risk of cardiovascular mortality compared with their unaffected family members. As with other forms of diabetes, consideration should be given to early statin therapy despite a seemingly protective lipid profile.
+20546258	62	70	diabetes	Disease	MESH:D003920
+20546258	103	108	HNF1A	Gene	6927
+20546258	192	200	diabetes	Disease	MESH:D003920
+20546258	229	261	hepatocyte nuclear factor 1alpha	Gene	6927
+20546258	268	273	HNF1A	Gene	6927
+20546258	324	329	HNF1A	Gene	6927
+20546258	788	793	HNF1A	Gene	6927
+20546258	1105	1113	diabetes	Disease	MESH:D003920
+20546258	1142	1147	HNF1A	Gene	6927
+20546258	1274	1282	diabetes	Disease	MESH:D003920
+
+20581827|t|Twelve type 2 diabetes susceptibility loci identified through large-scale association analysis.
+20581827|a|By combining genome-wide association data from 8,130 individuals with type 2 diabetes (T2D) and 38,987 controls of European descent and following up previously unidentified meta-analysis signals in a further 34,412 cases and 59,925 controls, we identified 12 new T2D association signals with combined P&lt;5x10(-8). These include a second independent signal at the KCNQ1 locus; the first report, to our knowledge, of an X-chromosomal association (near DUSP9); and a further instance of overlap between loci implicated in monogenic and multifactorial forms of diabetes (at HNF1A). The identified loci affect both beta-cell function and insulin action, and, overall, T2D association signals show evidence of enrichment for genes involved in cell cycle regulation. We also show that a high proportion of T2D susceptibility loci harbor independent association signals influencing apparently unrelated complex traits.
+20581827	14	22	diabetes	Disease	MESH:D003920
+20581827	166	181	type 2 diabetes	Disease	MESH:D003924
+20581827	461	466	KCNQ1	Gene	3784
+20581827	548	553	DUSP9	Gene	1852
+20581827	631	663	multifactorial forms of diabetes	Disease	MESH:D003920
+20581827	668	673	HNF1A	Gene	6927
+20581827	731	738	insulin	Gene	3630
+
+20705777|t|Double heterozygous mutations involving both HNF1A/MODY3 and HNF4A/MODY1 genes: a case report.
+20705777|a|OBJECTIVE: We describe a maturity-onset diabetes of the young (MODY) case with mutations involving both HNF4A and HNF1A genes. RESEARCH DESIGN AND METHODS: A male patient was diagnosed with diabetes at age 17; the metabolic control rapidly worsened to insulin requirement. At that time no relatives were known to be affected by diabetes, which was diagnosed years later in both the parents (father at age 50 years, mother at age 54 years) and the sister (at age 32 years, during pregnancy). RESULTS: The genetic screening showed a double heterozygosity for the mutation p.E508K in the HNF1A/MODY3 gene and the novel variant p.R80Q in the HNF4A/MODY1 gene. The genetic testing of the family showed that the father carried the MODY3 mutation while the mother, the sister, and her two children carried the MODY1 mutation. CONCLUSIONS: MODY1 and MODY3 mutations may interact by chance to give a more severe form of diabetes (younger age at presentation and early need of insulin therapy to control hyperglycemia).
+20705777	45	50	HNF1A	Gene	6927
+20705777	51	56	MODY3	Gene	6927
+20705777	61	66	HNF4A	Gene	3172
+20705777	67	72	MODY1	Gene	3172
+20705777	135	143	diabetes	Disease	MESH:D003920
+20705777	199	204	HNF4A	Gene	3172
+20705777	209	214	HNF1A	Gene	6927
+20705777	258	265	patient	Species	9606
+20705777	285	293	diabetes	Disease	MESH:D003920
+20705777	347	354	insulin	Gene	3630
+20705777	423	431	diabetes	Disease	MESH:D003920
+20705777	665	672	p.E508K	ProteinMutation	p.E508K;RS#:483353044
+20705777	680	685	HNF1A	Gene	6927
+20705777	686	691	MODY3	Gene	6927
+20705777	719	725	p.R80Q	ProteinMutation	p.R80Q
+20705777	733	738	HNF4A	Gene	3172
+20705777	739	744	MODY1	Gene	3172
+20705777	820	825	MODY3	Gene	6927
+20705777	877	885	children	Species	9606
+20705777	898	903	MODY1	Gene	3172
+20705777	927	932	MODY1	Gene	3172
+20705777	937	942	MODY3	Gene	6927
+20705777	1006	1014	diabetes	Disease	MESH:D003920
+20705777	1062	1069	insulin	Gene	3630
+20705777	1089	1102	hyperglycemia	Disease	MESH:D006943
+
+20716378|t|Assessing the association of the HNF1A G319S variant with C-reactive protein in Aboriginal Canadians: a population-based epidemiological study.
+20716378|a|BACKGROUND: C-reactive protein (CRP), a biomarker of inflammation, has been associated with increased risk of developing cardiovascular disease. Common variants of the hepatocyte nuclear factor 1A (HNF1A) gene encoding HNF-1alpha have been associated with plasma CRP in predominantly European Caucasian samples. HNF1A might therefore have an impact on vascular disease and diabetes risk that is mediated by CRP. In an Aboriginal Canadian population, a private polymorphism, HNF1A G319S, was associated with increased prevalence of type 2 diabetes. However, it has not been investigated whether this association is mediated by CRP. We aimed to investigate whether CRP was mediating the association between HNF1A G319S and type 2 diabetes in an Aboriginal Canadian population with a high prevalence of diabetes. METHODS: A total of 718 individuals who participated in a diabetes prevalence and risk factor survey were included in the current analysis. Participants were genotyped for HNF1A G319S. Fasting plasma samples were analyzed for CRP. Fasting plasma glucose and a 75-g oral glucose tolerance test were obtained to determine type 2 diabetes. RESULTS: The prevalence rate of type 2 diabetes was 17.4% (125/718) using the 1999 World Health Organization definition and was higher among S319 allele carriers compared to G/G homozygotes (p &lt; 0.0001). Among participants without type 2 diabetes, CRP levels were higher among G/G homozygotes (1.64 [95% confidence interval 1.35-2.00] mg/l) than in S319 carriers (1.26 [1.04-1.54] mg/l) (p = 0.009) after adjustment for age, sex, 2-h post-load glucose, waist circumference, and serum amyloid A. CRP levels were elevated among those with diabetes after similar adjustment (4.39 [95% confidence interval 3.09-6.23] and 4.44 [3.13-6.30] mg/L, respectively), and no significant difference in CRP was observed between S319 carriers and non-carriers (p = 0.95). CONCLUSIONS: CRP levels were lower in S319 allele carriers of the HNF1A gene compared to non-carriers among individuals without diabetes, but this difference was not present among those with diabetes, who uniformly had elevated CRP levels. Therefore, while HNF1A appears to influence CRP concentrations in the non-diabetic state, chronic elevation of CRP is unlikely mediating the association between the HNF1A polymorphism and the high prevalence of type 2 diabetes in this Aboriginal population.
+20716378	33	38	HNF1A	Gene	6927
+20716378	39	44	G319S	ProteinMutation	p.G319S;RS#:137853240
+20716378	58	76	C-reactive protein	Gene	1401
+20716378	156	174	C-reactive protein	Gene	1401
+20716378	176	179	CRP	Gene	1401
+20716378	197	209	inflammation	Disease	MESH:D007249
+20716378	265	287	cardiovascular disease	Disease	MESH:D002318
+20716378	312	340	hepatocyte nuclear factor 1A	Gene	6927
+20716378	342	347	HNF1A	Gene	6927
+20716378	363	373	HNF-1alpha	Gene	6927
+20716378	407	410	CRP	Gene	1401
+20716378	456	461	HNF1A	Gene	6927
+20716378	496	512	vascular disease	Disease	MESH:D014652
+20716378	517	525	diabetes	Disease	MESH:D003920
+20716378	551	554	CRP	Gene	1401
+20716378	618	623	HNF1A	Gene	6927
+20716378	624	629	G319S	ProteinMutation	p.G319S;RS#:137853240
+20716378	682	690	diabetes	Disease	MESH:D003920
+20716378	770	773	CRP	Gene	1401
+20716378	807	810	CRP	Gene	1401
+20716378	849	854	HNF1A	Gene	6927
+20716378	855	860	G319S	ProteinMutation	p.G319S;RS#:137853240
+20716378	865	880	type 2 diabetes	Disease	MESH:D003924
+20716378	944	952	diabetes	Disease	MESH:D003920
+20716378	1012	1020	diabetes	Disease	MESH:D003920
+20716378	1094	1106	Participants	Species	9606
+20716378	1126	1131	HNF1A	Gene	6927
+20716378	1132	1137	G319S	ProteinMutation	p.G319S;RS#:137853240
+20716378	1180	1183	CRP	Gene	1401
+20716378	1200	1207	glucose	Chemical	MESH:D005947
+20716378	1224	1231	glucose	Chemical	MESH:D005947
+20716378	1281	1289	diabetes	Disease	MESH:D003920
+20716378	1330	1338	diabetes	Disease	MESH:D003920
+20716378	1504	1516	participants	Species	9606
+20716378	1525	1540	type 2 diabetes	Disease	MESH:D003924
+20716378	1542	1545	CRP	Gene	1401
+20716378	1738	1745	glucose	Chemical	MESH:D005947
+20716378	1789	1792	CRP	Gene	1401
+20716378	1831	1839	diabetes	Disease	MESH:D003920
+20716378	1982	1985	CRP	Gene	1401
+20716378	2063	2066	CRP	Gene	1401
+20716378	2116	2121	HNF1A	Gene	6927
+20716378	2178	2186	diabetes	Disease	MESH:D003920
+20716378	2241	2249	diabetes	Disease	MESH:D003920
+20716378	2278	2281	CRP	Gene	1401
+20716378	2307	2312	HNF1A	Gene	6927
+20716378	2334	2337	CRP	Gene	1401
+20716378	2364	2372	diabetic	Disease	MESH:D003920
+20716378	2401	2404	CRP	Gene	1401
+20716378	2455	2460	HNF1A	Gene	6927
+20716378	2508	2516	diabetes	Disease	MESH:D003920
+
+20724646|t|Assessment of high-sensitivity C-reactive protein levels as diagnostic discriminator of maturity-onset diabetes of the young due to HNF1A mutations.
+20724646|a|OBJECTIVE: Despite the clinical importance of an accurate diagnosis in individuals with monogenic forms of diabetes, restricted access to genetic testing leaves many patients with undiagnosed diabetes. Recently, common variation near the HNF1 homeobox A (HNF1A) gene was shown to influence C-reactive protein levels in healthy adults. We hypothesized that serum levels of high-sensitivity C-reactive protein (hs-CRP) could represent a clinically useful biomarker for the identification of HNF1A mutations causing maturity-onset diabetes of the young (MODY). RESEARCH DESIGN AND METHODS: Serum hs-CRP was measured in subjects with HNF1A-MODY (n = 31), autoimmune diabetes (n = 316), type 2 diabetes (n = 240), and glucokinase (GCK) MODY (n = 24) and in nondiabetic individuals (n = 198). The discriminative accuracy of hs-CRP was evaluated through receiver operating characteristic (ROC) curve analysis, and performance was compared with standard diagnostic criteria. Our primary analyses excluded approximately 11% of subjects in whom the single available hs-CRP measurement was &gt;10 mg/l. RESULTS: Geometric mean (SD range) hs-CRP levels were significantly lower (P &lt;or= 0.009) for HNF1A-MODY individuals, 0.20 (0.03-1.14) mg/l, than for any other group: autoimmune diabetes 0.58 (0.10-2.75) mg/l, type 2 diabetes 1.33 (0.28-6.14) mg/l, GCK-MODY 1.01 (0.19-5.33) mg/l, and nondiabetic 0.48 (0.10-2.42) mg/l. The ROC-derived C-statistic for discriminating HNF1A-MODY and type 2 diabetes was 0.8. Measurement of hs-CRP, either alone or in combination with current diagnostic criteria, was superior to current diagnostic criteria alone. Sensitivity and specificity for the combined criteria approached 80%. CONCLUSIONS: Serum hs-CRP levels are markedly lower in HNF1A-MODY than in other forms of diabetes. hs-CRP has potential as a widely available, cost-effective screening test to support more precise targeting of MODY diagnostic testing.
+20724646	31	49	C-reactive protein	Gene	1401
+20724646	103	111	diabetes	Disease	MESH:D003920
+20724646	132	137	HNF1A	Gene	6927
+20724646	256	264	diabetes	Disease	MESH:D003920
+20724646	315	323	patients	Species	9606
+20724646	341	349	diabetes	Disease	MESH:D003920
+20724646	387	402	HNF1 homeobox A	Gene	6927
+20724646	404	409	HNF1A	Gene	6927
+20724646	439	457	C-reactive protein	Gene	1401
+20724646	538	556	C-reactive protein	Gene	1401
+20724646	638	643	HNF1A	Gene	6927
+20724646	677	685	diabetes	Disease	MESH:D003920
+20724646	779	789	HNF1A-MODY	Gene	6927
+20724646	800	819	autoimmune diabetes	Disease	MESH:D003922
+20724646	838	846	diabetes	Disease	MESH:D003920
+20724646	862	873	glucokinase	Gene	2645
+20724646	875	878	GCK	Gene	2645
+20724646	1337	1342	HNF1A	Gene	6927
+20724646	1410	1429	autoimmune diabetes	Disease	MESH:D003922
+20724646	1460	1468	diabetes	Disease	MESH:D003920
+20724646	1492	1495	GCK	Gene	2645
+20724646	1496	1502	MODY 1	Gene	3172
+20724646	1610	1615	HNF1A	Gene	6927
+20724646	1632	1640	diabetes	Disease	MESH:D003920
+20724646	1914	1919	HNF1A	Gene	6927
+20724646	1948	1956	diabetes	Disease	MESH:D003920
+
+21051477|t|Monogenic diabetes, renal dysplasia and hypopituitarism: a patient with a HNF1A mutation.
+21051477|a|
+21051477	10	18	diabetes	Disease	MESH:D003920
+21051477	20	35	renal dysplasia	Disease	MESH:D007674
+21051477	40	55	hypopituitarism	Disease	MESH:D007018
+21051477	59	66	patient	Species	9606
+21051477	74	79	HNF1A	Gene	6927
+
+21105491|t|Familial young-onset forms of diabetes related to HNF4A and rare HNF1A molecular aetiologies.
+21105491|a|OBJECTIVE: We have dissected the rare molecular anomalies that may affect hepatocyte nuclear factor-1a (HNF1A) and hepatocyte nuclear factor-4a (HNF4A) in patients with familial young-onset diabetes for whom HNF1A mutations have been excluded by sequence analysis. METHODS: Eighty-four unrelatedHNF1A-negative patients with diabetes diagnosed before the age of 40 years, a family history of diabetes and the absence of features suggestive of Type 2 diabetes were included. We analysed by sequencing the HNF4A promoter and coding regions, the HNF1A promoter region and specific regions of HNF1A(B) and HNF1A(C) isoforms and searched for large deletions of HNF1A and HNF4A by multiplex ligation-dependent probe amplification (MLPA). RESULTS: We identified five novel HNF4A mutations (5 / 84, 6%), including four missense and one in-frame deletion, and one mutation of the HNF1A promoter (1 / 84). Sequence analysis of isoform-specific coding regions of HNF1A did not reveal any mutation. We next identified two whole gene deletions of HNF1A and HNF4A, respectively (2 / 84, 2.4%). CONCLUSIONS: Altogether, the search for rare molecular events in HNF1A and HNF4A led us to elucidate 8 / 84 (9.5%) of our HNF1A-negative cases.This study shows that genetic aetiologies remain to be elucidated in familial young-onset diabetes. It also highlights the difficulty of the differential diagnosis with Type 2 diabetes because of the wide clinical expression of monogenic young-onset diabetes and the absence of specific biomarkers.
+21105491	30	38	diabetes	Disease	MESH:D003920
+21105491	50	55	HNF4A	Gene	3172
+21105491	65	70	HNF1A	Gene	6927
+21105491	168	196	hepatocyte nuclear factor-1a	Gene	6927
+21105491	198	203	HNF1A	Gene	6927
+21105491	209	237	hepatocyte nuclear factor-4a	Gene	3172
+21105491	239	244	HNF4A	Gene	3172
+21105491	249	257	patients	Species	9606
+21105491	284	292	diabetes	Disease	MESH:D003920
+21105491	302	307	HNF1A	Gene	6927
+21105491	404	412	patients	Species	9606
+21105491	418	426	diabetes	Disease	MESH:D003920
+21105491	485	493	diabetes	Disease	MESH:D003920
+21105491	536	551	Type 2 diabetes	Disease	MESH:D003924
+21105491	597	602	HNF4A	Gene	3172
+21105491	636	641	HNF1A	Gene	6927
+21105491	682	689	HNF1A(B	Gene	6927
+21105491	695	700	HNF1A	Gene	6927
+21105491	749	754	HNF1A	Gene	6927
+21105491	759	764	HNF4A	Gene	3172
+21105491	818	822	MLPA	Chemical	
+21105491	859	864	HNF4A	Gene	3172
+21105491	964	969	HNF1A	Gene	6927
+21105491	1045	1050	HNF1A	Gene	6927
+21105491	1127	1132	HNF1A	Gene	6927
+21105491	1137	1142	HNF4A	Gene	3172
+21105491	1238	1243	HNF1A	Gene	6927
+21105491	1248	1253	HNF4A	Gene	3172
+21105491	1295	1300	HNF1A	Gene	6927
+21105491	1406	1414	diabetes	Disease	MESH:D003920
+21105491	1485	1500	Type 2 diabetes	Disease	MESH:D003924
+21105491	1566	1574	diabetes	Disease	MESH:D003920
+
+21168233|t|HNF1 alpha gene coding regions mutations screening, in a Caucasian population clinically characterized as MODY from Argentina.
+21168233|a|INTRODUCTION: There are at least six subtypes of Maturity Onset Diabetes of the Young (MODY) with distinctive genetic causes. MODY 3 is caused by mutations in HNF1A gene, an insulin transcription factor, so mutations in this gene are associated with impaired insulin secretion. MODY 3 prevalence differs according to the population analyzed, but it is one of the most frequent subtypes. Therefore, our aims in this work were to find mutations present in the HNF1A gene and provide information on their prevalence. MATERIAL AND METHODS: Mutations screening was done in a group of 80 unrelated patients (average age 17.1 years) selected by clinical characterization of MODY, by SSCP electrophoresis followed by sequenciation. RESULTS: We found eight mutations, of which six were novel and four sequence variants, which were all novel. Therefore the prevalence of MODY 3 in this group was 10%. Compared clinical data between the non-MODY 3 patients and the MODY 3 diagnosed patients did not show any significant difference. DISCUSSION: Eight patients were diagnosed as MODY 3 and new data about the prevalence of that subtype is provided. Our results contribute to reveal novel mutations, providing new data about the prevalence of that subtype.
+21168233	0	10	HNF1 alpha	Gene	6927
+21168233	191	199	Diabetes	Disease	MESH:D003920
+21168233	253	259	MODY 3	Gene	6927
+21168233	286	291	HNF1A	Gene	6927
+21168233	377	403	impaired insulin secretion	Disease	MESH:D007333
+21168233	405	411	MODY 3	Gene	6927
+21168233	585	590	HNF1A	Gene	6927
+21168233	719	727	patients	Species	9606
+21168233	988	994	MODY 3	Gene	6927
+21168233	1057	1063	MODY 3	Gene	6927
+21168233	1064	1072	patients	Species	9606
+21168233	1081	1087	MODY 3	Gene	6927
+21168233	1098	1106	patients	Species	9606
+21168233	1166	1174	patients	Species	9606
+21168233	1193	1199	MODY 3	Gene	6927
+
+21170474|t|Differential effects of HNF-1alpha mutations associated with familial young-onset diabetes on target gene regulation.
+21170474|a|Hepatocyte nuclear factor 1-alpha (HNF-1alpha) is a homeodomain transcription factor expressed in a variety of tissues (including liver and pancreas) that regulates a wide range of genes. Heterozygous mutations in the gene encoding HNF-1alpha (HNF1A) cause familial young-onset diabetes, also known as maturity-onset diabetes of the young, type 3 (MODY3). The variability of the MODY3 clinical phenotype can be due to environmental and genetic factors as well as to the type and position of mutations. Thus, functional characterization of HNF1A mutations might provide insight into the molecular defects explaining the variability of the MODY3 phenotype. We have functionally characterized six HNF1A mutations identified in diabetic patients: two novel ones, p.Glu235Gly and c-57-64delCACGCGGT;c-55G&gt;C; and four previously described, p.Val133Met, p.Thr196Ala, p.Arg271Trp and p.Pro379Arg. The effects of mutations on transcriptional activity have been measured by reporter assays on a subset of HNF-1alpha target promoters in Cos7 and Min6 cells. Target DNA binding affinities have been quantified by electrophoretic mobility shift assay using bacterially expressed glutathione-S-transferase (GST)-HNF-1alpha fusion proteins and nuclear extracts of transfected Cos7 cells. Our functional studies revealed that mutation c-57-64delCACGCGGT;c-55G&gt;C reduces HNF1A promoter activity in Min6 cells and that missense mutations have variable effects. Mutation p.Arg271Trp impairs HNF-1alpha activity in all conditions tested, whereas mutations p.Val133Met, p.Glu235Gly and p.Pro379Arg exert differential effects depending on the target promoter. In contrast, substitution p.Thr196Ala does not appear to alter HNF-1alpha function. Our results suggest that HNF1A mutations may have differential effects on the regulation of specific target genes, which could contribute to the variability of the MODY3 clinical phenotype.
+21170474	24	34	HNF-1alpha	Gene	21405
+21170474	82	90	diabetes	Disease	MESH:D003920
+21170474	118	151	Hepatocyte nuclear factor 1-alpha	Gene	21405
+21170474	153	163	HNF-1alpha	Gene	21405
+21170474	350	360	HNF-1alpha	Gene	21405
+21170474	362	367	HNF1A	Gene	21405
+21170474	396	404	diabetes	Disease	MESH:D003920
+21170474	435	443	diabetes	Disease	MESH:D003920
+21170474	657	662	HNF1A	Gene	21405
+21170474	812	817	HNF1A	Gene	6927
+21170474	842	850	diabetic	Disease	MESH:D003920
+21170474	851	859	patients	Species	9606
+21170474	877	888	p.Glu235Gly	ProteinMutation	p.E235G
+21170474	894	911	-57-64delCACGCGGT	ProteinMutation	c.-57-64delCACGCGGT
+21170474	955	966	p.Val133Met	ProteinMutation	p.V133M
+21170474	968	979	p.Thr196Ala	ProteinMutation	p.T196A;RS#:139712739
+21170474	981	992	p.Arg271Trp	ProteinMutation	p.R271W;RS#:886039386
+21170474	997	1008	p.Pro379Arg	ProteinMutation	p.P379R;RS#:371717826
+21170474	1116	1126	HNF-1alpha	Gene	21405
+21170474	1287	1298	glutathione	Chemical	MESH:D005978
+21170474	1299	1300	S	Chemical	MESH:D013455
+21170474	1319	1329	HNF-1alpha	Gene	21405
+21170474	1441	1458	-57-64delCACGCGGT	ProteinMutation	c.-57-64delCACGCGGT
+21170474	1478	1483	HNF1A	Gene	21405
+21170474	1576	1587	p.Arg271Trp	ProteinMutation	p.R271W;RS#:886039386
+21170474	1596	1606	HNF-1alpha	Gene	21405
+21170474	1660	1671	p.Val133Met	ProteinMutation	p.V133M
+21170474	1673	1684	p.Glu235Gly	ProteinMutation	p.E235G
+21170474	1689	1700	p.Pro379Arg	ProteinMutation	p.P379R;RS#:371717826
+21170474	1788	1799	p.Thr196Ala	ProteinMutation	p.T196A;RS#:139712739
+21170474	1825	1835	HNF-1alpha	Gene	21405
+21170474	1871	1876	HNF1A	Gene	21405
+
+21193557|t|Hnf1alpha (MODY3) regulates beta-cell-enriched MafA transcription factor expression.
+21193557|a|The expression pattern of genes important for pancreatic islet cell function requires the actions of cell-enriched transcription factors. Musculoaponeurotic fibrosarcoma homolog A (MafA) is a beta-cell-specific transcriptional activator critical to adult islet beta-cell function, with MafA mutant mice manifesting symptoms associated with human type 2 diabetes. Here, we describe that MafA expression is controlled by hepatocyte nuclear factor 1-alpha (Hnf1alpha), the transcription factor gene mutated in the most common monoallelic form of maturity onset diabetes of the young. There are six conserved sequence domains in the 5'-flanking MafA promoter, of which one, region 3 (R3) [base pair (bp) -8118/-7750] is principally involved in controlling the unique developmental and adult islet beta-cell-specific expression pattern. Chromatin immunoprecipitation analysis demonstrated that Hnf1alpha bound specifically within R3. Furthermore, in vitro DNA-binding experiments localized an Hnf1alpha regulatory element between bp -7822 and -7793, an area previously associated with stimulation by the islet developmental regulator, Islet1. However, site-directed mutational studies showed that Hnf1alpha was essential to R3-driven reporter activation through bp -7816/-7811. Significantly, MafA levels were dramatically reduced in the insulin(+) cell population remaining in embryonic and adult Hnf1alpha(-/-) pancreata. Our results demonstrate that Hnf1alpha regulates MafA in beta-cells and suggests that compromised MafA expression contributes to beta-cell dysfunction in maturity onset diabetes of the young.
+21193557	0	9	Hnf1alpha	Gene	6927
+21193557	11	16	MODY3	Gene	6927
+21193557	47	51	MafA	Gene	389692
+21193557	131	147	pancreatic islet	Disease	MESH:C535838
+21193557	223	264	Musculoaponeurotic fibrosarcoma homolog A	Gene	378435
+21193557	266	270	MafA	Gene	378435
+21193557	371	375	MafA	Gene	378435
+21193557	383	387	mice	Species	10090
+21193557	425	430	human	Species	9606
+21193557	438	446	diabetes	Disease	MESH:D003920
+21193557	471	475	MafA	Gene	389692
+21193557	504	537	hepatocyte nuclear factor 1-alpha	Gene	6927
+21193557	539	548	Hnf1alpha	Gene	6927
+21193557	643	651	diabetes	Disease	MESH:D003920
+21193557	726	730	MafA	Gene	389692
+21193557	974	983	Hnf1alpha	Gene	6927
+21193557	1073	1082	Hnf1alpha	Gene	6927
+21193557	1215	1221	Islet1	Gene	3670
+21193557	1277	1286	Hnf1alpha	Gene	6927
+21193557	1373	1377	MafA	Gene	389692
+21193557	1458	1467	embryonic	Disease	MESH:D018236
+21193557	1478	1487	Hnf1alpha	Gene	6927
+21193557	1533	1542	Hnf1alpha	Gene	6927
+21193557	1553	1557	MafA	Gene	389692
+21193557	1602	1606	MafA	Gene	389692
+21193557	1673	1681	diabetes	Disease	MESH:D003920
+
+21208426|t|HNF1A G319S variant, active cigarette smoking and incident type 2 diabetes in Aboriginal Canadians: a population-based epidemiological study.
+21208426|a|BACKGROUND: In a recent report of large-scale association analysis, a type 2 diabetes susceptibility locus near HNF1A was identified in predominantly European descent populations. A population-specific G319S polymorphism in HNF1A was previously identified in Aboriginal Canadians who have a high prevalence of type 2 diabetes. We aimed to investigate the association of the HNF1A G319S polymorphism with incident type 2 diabetes and to assess whether clinical risk variables for type 2 diabetes influence the association in an Aboriginal population. METHODS: Of 606 participants who were free of diabetes at baseline in 1993-1995, 540 (89.1%) participated in 10-year follow-up assessments in 2003-2005. Fasting glucose and a 75-g oral glucose tolerance test were obtained to determine incident type 2 diabetes. Participants were genotyped for the HNF1A G319S polymorphism. Interviewers administered questionnaires on smoking behavior. RESULTS: The incidence rates of type 2 diabetes were 14.2% (55/388) in major allele homozygotes and 31.2% (29/93) in minor allele carriers (p &lt; 0.001). The HNF1A G319S carrier status was associated with incident type 2 diabetes (odds ratio [OR] 3.78 [95% CI 2.13-6.69]) after adjustment for age, sex, hypertension, triglyceride, HDL cholesterol, and waist circumference. A statistical interaction was observed between HNF1A G319S and baseline active cigarette smoking on the development of type 2 diabetes with similar adjustment (p = 0.006). When participants were stratified by baseline smoking status, HNF1A G319S carriers who were active smokers had increased risk of developing diabetes (OR 6.91 [95% CI 3.38-14.12]), while the association was attenuated to non-significance among non-smokers (1.11 [0.40-3.08]). CONCLUSIONS: The HNF1A G319S variant is associated with incident type 2 diabetes in Aboriginal Canadians. Furthermore, cigarette smoking appears to amplify incident diabetes risk in carriers of HNF1A G319S.
+21208426	0	5	HNF1A	Gene	6927
+21208426	6	11	G319S	ProteinMutation	p.G319S;RS#:137853240
+21208426	66	74	diabetes	Disease	MESH:D003920
+21208426	219	227	diabetes	Disease	MESH:D003920
+21208426	254	259	HNF1A	Gene	6927
+21208426	344	349	G319S	ProteinMutation	p.G319S;RS#:137853240
+21208426	366	371	HNF1A	Gene	6927
+21208426	459	467	diabetes	Disease	MESH:D003920
+21208426	516	521	HNF1A	Gene	6927
+21208426	522	527	G319S	ProteinMutation	p.G319S;RS#:137853240
+21208426	562	570	diabetes	Disease	MESH:D003920
+21208426	628	636	diabetes	Disease	MESH:D003920
+21208426	708	720	participants	Species	9606
+21208426	738	746	diabetes	Disease	MESH:D003920
+21208426	853	860	glucose	Chemical	MESH:D005947
+21208426	877	884	glucose	Chemical	MESH:D005947
+21208426	936	951	type 2 diabetes	Disease	MESH:D003924
+21208426	953	965	Participants	Species	9606
+21208426	989	994	HNF1A	Gene	6927
+21208426	995	1000	G319S	ProteinMutation	p.G319S;RS#:137853240
+21208426	1116	1124	diabetes	Disease	MESH:D003920
+21208426	1236	1241	HNF1A	Gene	6927
+21208426	1242	1247	G319S	ProteinMutation	p.G319S;RS#:137853240
+21208426	1299	1307	diabetes	Disease	MESH:D003920
+21208426	1381	1393	hypertension	Disease	MESH:D006973
+21208426	1395	1407	triglyceride	Chemical	MESH:D014280
+21208426	1413	1424	cholesterol	Chemical	MESH:D002784
+21208426	1498	1503	HNF1A	Gene	6927
+21208426	1504	1509	G319S	ProteinMutation	p.G319S;RS#:137853240
+21208426	1570	1585	type 2 diabetes	Disease	MESH:D003924
+21208426	1628	1640	participants	Species	9606
+21208426	1685	1690	HNF1A	Gene	6927
+21208426	1691	1696	G319S	ProteinMutation	p.G319S;RS#:137853240
+21208426	1763	1771	diabetes	Disease	MESH:D003920
+21208426	1915	1920	HNF1A	Gene	6927
+21208426	1921	1926	G319S	ProteinMutation	p.G319S;RS#:137853240
+21208426	1970	1978	diabetes	Disease	MESH:D003920
+21208426	2063	2071	diabetes	Disease	MESH:D003920
+21208426	2092	2097	HNF1A	Gene	6927
+21208426	2098	2103	G319S	ProteinMutation	p.G319S;RS#:137853240
+
+21236713|t|GCKR mutations in Japanese families with clustered type 2 diabetes.
+21236713|a|OBJECTIVE: The aim was to investigate the genetic background of familial clustering of type 2 diabetes. SUBJECTS AND METHODS: We recruited Japanese families with a 3-generation history of diabetes. Genome-wide linkage analysis was performed assuming an autosomal dominant model. Genes in the linkage region were computationally prioritized using Endeavour. We sequenced the candidate genes, and the frequencies of detected nucleotide changes were then examined in normoglycemic controls. RESULTS: To exclude known genetic factors, we sequenced 6 maturity onset diabetes of the young (MODY) genes in 10 familial cases. Because we detected a MODY3 mutation HNF1A R583G in one case, we excluded this case from further investigation. Linkage analysis revealed a significant linkage region on 2p25-22 (LOD score=3.47) for 4 families. The 23.6-Mb linkage region contained 106 genes. Those genes were scored by computational prioritization. Eleven genes, i.e., top 10% of 106 genes, were selected and considered primary candidates. Considering their functions, we eliminated 3 well characterized genes and finally sequenced 8 genes. GCKR ranked highly in the computational prioritization. Mutations (minor allele frequency less than 1%) in exons and the promoter of GCKR were found in index cases of the families (3 of 18 alleles) more frequently than in controls (0 of 36 alleles, P=0.033). In one pedigree with 9 affected members, the mutation GCKR g.6859C&gt;G was concordant with affection status. No mutation in other 7 genes that ranked highly in the prioritization was concordant with affection status in families. CONCLUSIONS: We propose that GCKR is a susceptibility gene in Japanese families with clustered diabetes. The family based approach seems to be complementary with a large population study.
+21236713	0	4	GCKR	Gene	2646
+21236713	41	66	clustered type 2 diabetes	Disease	MESH:D003924
+21236713	162	170	diabetes	Disease	MESH:D003920
+21236713	256	264	diabetes	Disease	MESH:D003920
+21236713	629	637	diabetes	Disease	MESH:D003920
+21236713	708	713	MODY3	Gene	6927
+21236713	723	728	HNF1A	Gene	6927
+21236713	729	734	R583G	ProteinMutation	p.R583G;RS#:137853239
+21236713	1194	1198	GCKR	Gene	2646
+21236713	1327	1331	GCKR	Gene	2646
+21236713	1507	1511	GCKR	Gene	2646
+21236713	1712	1716	GCKR	Gene	2646
+21236713	1768	1786	clustered diabetes	Disease	MESH:D003920
+
+21267535|t|Type 2 diabetes risk allele near CENTD2 is associated with decreased glucose-stimulated insulin release.
+21267535|a|AIMS/HYPOTHESIS: By combining multiple genome-wide association (GWA) studies and comprehensive replication efforts, 12 novel type 2 diabetes associated loci have recently been discovered. Here we evaluate the effect of lead variants of these loci on estimates of insulin release and insulin resistance derived from an oral glucose tolerance test. METHODS: We examined 12 lead variants in or near HMGA2, CENTD2 (also known as ARAP1), KLF14, PRC1, TP53INP1, ZBED3, ZFAND6, CHCHD9, DUSP9, KCNQ1, BCL11A and HNF1A in 5,722 middle-aged people from the population-based Inter99 sample. RESULTS: Carriers of the major diabetogenic allele of rs1552224 in CENTD2 had increased 30-min plasma glucose values (2.0%, p = 2 x 10(-5)) as well as 4.2% reduced insulin release 30 min after an oral glucose load (p = 0.001). Risk allele carriers also had decreased BIGTT-acute insulin release (AIR), which is a surrogate measure of insulin release where sex, BMI, plasma glucose and serum insulin are integrated (5.3%, p = 8 x 10(-7)). In addition, a decreased corrected insulin response (CIR; 9.9%, p = 3 x 10(-8)) was observed. For rs5945326 near DUSP9 on the X-chromosome we stratified according to sex. Male carriers of the risk allele showed nominally decreased BIGTT-AIR (2.6%, p = 0.01). No associations with intermediate metabolic traits were found in women. For the remaining ten lead variants no consistent associations were demonstrated. CONCLUSIONS/INTERPRETATION: Of the lead variants from 12 novel type 2 diabetes associated loci, CENTD2 significantly associated with increased plasma glucose values and decreased glucose-stimulated insulin release, suggesting that the diabetogenic effect of this locus is mediated through an impaired pancreatic beta cell function.
+21267535	0	15	Type 2 diabetes	Disease	MESH:D003924
+21267535	33	39	CENTD2	Gene	116985
+21267535	69	76	glucose	Chemical	MESH:D005947
+21267535	88	95	insulin	Gene	3630
+21267535	237	245	diabetes	Disease	MESH:D003920
+21267535	368	395	insulin release and insulin	Gene	3630
+21267535	428	435	glucose	Chemical	MESH:D005947
+21267535	501	506	HMGA2	Gene	8091
+21267535	508	514	CENTD2	Gene	116985
+21267535	530	535	ARAP1	Gene	116985
+21267535	538	543	KLF14	Gene	136259
+21267535	545	549	PRC1	Gene	9055
+21267535	551	559	TP53INP1	Gene	94241
+21267535	561	566	ZBED3	Gene	84327
+21267535	568	574	ZFAND6	Gene	54469
+21267535	576	582	CHCHD9	Gene	645345
+21267535	584	589	DUSP9	Gene	1852
+21267535	591	596	KCNQ1	Gene	3784
+21267535	598	604	BCL11A	Gene	53335
+21267535	609	614	HNF1A	Gene	6927
+21267535	636	642	people	Species	9606
+21267535	739	748	rs1552224	SNP	rs1552224
+21267535	752	758	CENTD2	Gene	116985
+21267535	787	794	glucose	Chemical	MESH:D005947
+21267535	849	856	insulin	Gene	3630
+21267535	886	893	glucose	Chemical	MESH:D005947
+21267535	964	971	insulin	Gene	3630
+21267535	1019	1026	insulin	Gene	3630
+21267535	1058	1065	glucose	Chemical	MESH:D005947
+21267535	1076	1083	insulin	Gene	3630
+21267535	1158	1165	insulin	Gene	3630
+21267535	1221	1230	rs5945326	SNP	rs5945326
+21267535	1236	1241	DUSP9	Gene	1852
+21267535	1447	1452	women	Species	9606
+21267535	1606	1614	diabetes	Disease	MESH:D003920
+21267535	1632	1638	CENTD2	Gene	116985
+21267535	1686	1693	glucose	Chemical	MESH:D005947
+21267535	1715	1722	glucose	Chemical	MESH:D005947
+21267535	1734	1741	insulin	Gene	3630
+21267535	1828	1852	impaired pancreatic beta	Disease	MESH:D010195
+
+21270186|t|Urinary C-peptide creatinine ratio is a practical outpatient tool for identifying hepatocyte nuclear factor 1-{alpha}/hepatocyte nuclear factor 4-{alpha} maturity-onset diabetes of the young from long-duration type 1 diabetes.
+21270186|a|OBJECTIVE: Hepatocyte nuclear factor 1-alpha (HNF1A)/hepatocyte nuclear factor 4-alpha (HNF4A) maturity-onset diabetes of the young (MODY) is frequently misdiagnosed as type 1 diabetes, and patients are inappropriately treated with insulin. Blood C-peptide can aid in the diagnosis of MODY, but practical reasons limit its widespread use. Urinary C-peptide creatinine ratio (UCPCR), a stable measure of endogenous insulin secretion, is a noninvasive alternative. We aimed to compare stimulated UCPCR in adults with HNF1A/4A MODY, type 1 diabetes, and type 2 diabetes. RESEARCH DESIGN AND METHODS: Adults with diabetes for &gt;= 5 years, without renal impairment, were studied (HNF1A MODY [n = 54], HNF4A MODY [n = 23], glucokinase MODY [n = 20], type 1 diabetes [n = 69], and type 2 diabetes [n = 54]). The UCPCR was collected in boric acid 120 min after the largest meal of the day and mailed for analysis. Receiver operating characteristic (ROC) curves were used to identify optimal UCPCR cutoffs to differentiate HNF1A/4A MODY from type 1 and type 2 diabetes. RESULTS: UCPCR was lower in type 1 diabetes than HNF1A/4A MODY (median [interquartile range]) (&lt;0.02 nmol/mmol [&lt;0.02 to &lt;0.02] vs. 1.72 nmol/mmol [0.98-2.90]; P &lt; 0.0001). ROC curves showed excellent discrimination (area under curve [AUC] 0.98) and identified a cutoff UCPCR of &gt;= 0.2 nmol/mmol for differentiating HNF1A/4A MODY from type 1 diabetes (97% sensitivity, 96% specificity). UCPCR was lower in HNF1A/4A MODY than in type 2 diabetes (1.72 nmol/mmol [0.98-2.90] vs. 2.47 nmol/mmol [1.4-4.13]); P = 0.007). ROC curves showed a weak distinction between HNF1A/4A MODY and type 2 diabetes (AUC 0.64). CONCLUSIONS: UCPCR is a noninvasive outpatient tool that can be used to discriminate HNF1A and HNF4A MODY from long-duration type 1 diabetes. To differentiate MODY from type 1 diabetes of &gt;5 years' duration, UCPCR could be used to determine whether genetic testing is indicated.
+21270186	18	28	creatinine	Chemical	MESH:D003404
+21270186	50	60	outpatient	Species	9606
+21270186	169	177	diabetes	Disease	MESH:D003920
+21270186	217	225	diabetes	Disease	MESH:D003920
+21270186	238	271	Hepatocyte nuclear factor 1-alpha	Gene	6927
+21270186	273	278	HNF1A	Gene	6927
+21270186	280	313	hepatocyte nuclear factor 4-alpha	Gene	3172
+21270186	315	320	HNF4A	Gene	3172
+21270186	337	345	diabetes	Disease	MESH:D003920
+21270186	403	411	diabetes	Disease	MESH:D003920
+21270186	417	425	patients	Species	9606
+21270186	459	466	insulin	Gene	3630
+21270186	584	594	creatinine	Chemical	MESH:D003404
+21270186	641	648	insulin	Gene	3630
+21270186	742	747	HNF1A	Gene	6927
+21270186	764	772	diabetes	Disease	MESH:D003920
+21270186	778	793	type 2 diabetes	Disease	MESH:D003924
+21270186	836	844	diabetes	Disease	MESH:D003920
+21270186	872	888	renal impairment	Disease	MESH:D007674
+21270186	904	909	HNF1A	Gene	6927
+21270186	925	930	HNF4A	Gene	3172
+21270186	980	988	diabetes	Disease	MESH:D003920
+21270186	1010	1018	diabetes	Disease	MESH:D003920
+21270186	1057	1067	boric acid	Chemical	MESH:C032688
+21270186	1243	1248	HNF1A	Gene	6927
+21270186	1273	1288	type 2 diabetes	Disease	MESH:D003924
+21270186	1325	1333	diabetes	Disease	MESH:D003920
+21270186	1339	1344	HNF1A	Gene	6927
+21270186	1621	1626	HNF1A	Gene	6927
+21270186	1647	1655	diabetes	Disease	MESH:D003920
+21270186	1711	1716	HNF1A	Gene	6927
+21270186	1740	1748	diabetes	Disease	MESH:D003920
+21270186	1866	1871	HNF1A	Gene	6927
+21270186	1884	1899	type 2 diabetes	Disease	MESH:D003924
+21270186	1948	1958	outpatient	Species	9606
+21270186	1997	2002	HNF1A	Gene	6927
+21270186	2007	2012	HNF4A	Gene	3172
+21270186	2044	2052	diabetes	Disease	MESH:D003920
+21270186	2088	2096	diabetes	Disease	MESH:D003920
+
+21647700|t|Genome-wide association and meta-analysis in populations from Starr County, Texas, and Mexico City identify type 2 diabetes susceptibility loci and enrichment for expression quantitative trait loci in top signals.
+21647700|a|AIMS/HYPOTHESIS: We conducted genome-wide association studies (GWASs) and expression quantitative trait loci (eQTL) analyses to identify and characterise risk loci for type 2 diabetes in Mexican-Americans from Starr County, TX, USA. METHOD: Using 1.8 million directly interrogated and imputed genotypes in 837 unrelated type 2 diabetes cases and 436 normoglycaemic controls, we conducted Armitage trend tests. To improve power in this population with high disease rates, we also performed ordinal regression including an intermediate class with impaired fasting glucose and/or glucose tolerance. These analyses were followed by meta-analysis with a study of 967 type 2 diabetes cases and 343 normoglycaemic controls from Mexico City, Mexico. RESULT: The top signals (unadjusted p value &lt;1 x 10(-5)) included 49 single nucleotide polymorphisms (SNPs) in eight gene regions (PER3, PARD3B, EPHA4, TOMM7, PTPRD, HNT [also known as RREB1], LOC729993 and IL34) and six intergenic regions. Among these was a missense polymorphism (rs10462020; Gly639Val) in the clock gene PER3, a system recently implicated in diabetes. We also report a second signal (minimum p value 1.52 x 10(-6)) within PTPRD, independent of the previously implicated SNP, in a population of Han Chinese. Top meta-analysis signals included known regions HNF1A and KCNQ1. Annotation of top association signals in both studies revealed a marked excess of trans-acting eQTL in both adipose and muscle tissues. CONCLUSIONS/INTERPRETATION: In the largest study of type 2 diabetes in Mexican populations to date, we identified modest associations of novel and previously reported SNPs. In addition, in our top signals we report significant excess of SNPs that predict transcript levels in muscle and adipose tissues.
+21647700	115	123	diabetes	Disease	MESH:D003920
+21647700	382	397	type 2 diabetes	Disease	MESH:D003924
+21647700	541	549	diabetes	Disease	MESH:D003920
+21647700	776	783	glucose	Chemical	MESH:D005947
+21647700	791	798	glucose	Chemical	MESH:D005947
+21647700	883	891	diabetes	Disease	MESH:D003920
+21647700	1090	1094	PER3	Gene	8863
+21647700	1096	1102	PARD3B	Gene	117583
+21647700	1104	1109	EPHA4	Gene	2043
+21647700	1111	1116	TOMM7	Gene	54543
+21647700	1118	1123	PTPRD	Gene	5789
+21647700	1125	1128	HNT	Gene	6239
+21647700	1144	1149	RREB1	Gene	6239
+21647700	1152	1161	LOC729993	Chemical	MESH:C492399
+21647700	1166	1170	IL34	Gene	146433
+21647700	1241	1251	rs10462020	SNP	rs10462020
+21647700	1253	1262	Gly639Val	ProteinMutation	p.G639V;RS#:10462020
+21647700	1282	1286	PER3	Gene	8863
+21647700	1320	1328	diabetes	Disease	MESH:D003920
+21647700	1400	1405	PTPRD	Gene	5789
+21647700	1534	1539	HNF1A	Gene	6927
+21647700	1544	1549	KCNQ1	Gene	3784
+21647700	1746	1754	diabetes	Disease	MESH:D003920
+
+21648289|t|HNF1A mutation presenting with fetal macrosomia and hypoglycemia in childhood prior to onset of overt diabetes.
+21648289|a|BACKGROUND: HNF1A-MODY (MODY3) is a common subtype of autosomal dominant diabetes. Unlike HNF4-MODY where fetal macrosomia and early postnatal hyperinsulinemic hypoglycemia have been reported, history of transient insulin overproduction has not yet been recognized in individuals with HNF1A-MODY. CASE REPORT: Here, we report on a 40-year-old male patient with HNF1A mutation p.Arg272His (c.815G&gt;A) having a history of fetal macrosomia (4750 g, 59 cm), and, at least, one attack of symptomatic hypoglycemia in childhood. Diabetes was subsequently diagnosed at 19 years of age. The proband's daughter who developed diabetes at 16 years carries the same mutation, but her birth weight and length were in the upper normal range, and she never experienced hypoglycemic symptoms. CONCLUSION: The observation of fetal macrosomia and hypoglycemia in childhood is indicative of a biphasic impact of the HNF1A mutation on p-cell function over the lifespan, leading from inappropriate insulin oversecretion to final clinical diabetes.
+21648289	0	5	HNF1A	Gene	6927
+21648289	31	64	fetal macrosomia and hypoglycemia	Disease	MESH:D005320
+21648289	102	110	diabetes	Disease	MESH:D003920
+21648289	124	134	HNF1A-MODY	Gene	6927
+21648289	136	141	MODY3	Gene	6927
+21648289	166	193	autosomal dominant diabetes	Disease	MESH:C562774
+21648289	202	206	HNF4	Gene	3172
+21648289	224	234	macrosomia	Disease	MESH:D005320
+21648289	245	284	postnatal hyperinsulinemic hypoglycemia	Disease	MESH:D044903
+21648289	397	407	HNF1A-MODY	Gene	6927
+21648289	460	467	patient	Species	9606
+21648289	473	478	HNF1A	Gene	6927
+21648289	488	499	p.Arg272His	ProteinMutation	p.R272H;RS#:137853238
+21648289	534	550	fetal macrosomia	Disease	MESH:D005320
+21648289	609	621	hypoglycemia	Disease	MESH:D007003
+21648289	636	644	Diabetes	Disease	MESH:D003920
+21648289	729	737	diabetes	Disease	MESH:D003920
+21648289	867	888	hypoglycemic symptoms	Disease	MESH:D051271
+21648289	921	954	fetal macrosomia and hypoglycemia	Disease	MESH:D005320
+21648289	1010	1015	HNF1A	Gene	6927
+21648289	1130	1138	diabetes	Disease	MESH:D003920
+
+21677039|t|Clinical characteristics and diagnostic criteria of maturity-onset diabetes of the young (MODY) due to molecular anomalies of the HNF1A gene.
+21677039|a|CONTEXT: The diagnosis of maturity-onset diabetes of the young type 3 (MODY3), associated with HNF1A molecular abnormalities, is often missed. OBJECTIVE: The objective of the study was to describe the phenotypes of a large series of MODY3 patients and to reassess parameters that may improve its diagnosis. DESIGN, SETTING, AND PATIENTS: This retrospective multicenter study included 487 unrelated patients referred because of suspicion of MODY3. Genetic analysis identified 196 MODY3 and 283 non-MODY3 cases. Criteria associated with MODY3 were assessed by multivariate analysis. The capacity of the model to predict MODY3 diagnosis was assessed by the area under the receiver-operating characteristic curve and was further validated in an independent sample of 851 patients (165 MODY3 and 686 non-MODY3). RESULTS: In the MODY3 patients, diabetes was revealed by clinical symptoms in 25% of the cases and was diagnosed by screening in the others. Age at diagnosis of diabetes was more than 25 yr in 40% of the MODY3 patients. There was considerable variability and overlap of all assessed parameters in MODY3 and non-MODY3 patients. The best predictive model was based on criteria available at diagnosis of diabetes, including age, body mass index, number of affected generations, presence of diabetes symptoms, and geographical origin. The area under the curve of the receiver-operating characteristic analysis was 0.81. When sensitivity was set to 90%, specificity was 49%. CONCLUSIONS: Differential diagnosis between MODY3 and early-onset type 2 diabetes remains difficult. Whether the proposed model will improve the pick-up rate of MODY3 diagnosis needs to be confirmed in independent populations.
+21677039	67	75	diabetes	Disease	MESH:D003920
+21677039	130	135	HNF1A	Gene	6927
+21677039	168	191	maturity-onset diabetes	Disease	MESH:D003924
+21677039	213	218	MODY3	Gene	6927
+21677039	237	242	HNF1A	Gene	6927
+21677039	243	266	molecular abnormalities	Disease	MESH:D030342
+21677039	375	380	MODY3	Gene	6927
+21677039	381	389	patients	Species	9606
+21677039	470	478	PATIENTS	Species	9606
+21677039	540	548	patients	Species	9606
+21677039	582	587	MODY3	Gene	6927
+21677039	621	626	MODY3	Gene	6927
+21677039	639	644	MODY3	Gene	6927
+21677039	677	682	MODY3	Gene	6927
+21677039	760	765	MODY3	Gene	6927
+21677039	909	917	patients	Species	9606
+21677039	923	928	MODY3	Gene	6927
+21677039	941	946	MODY3	Gene	6927
+21677039	965	970	MODY3	Gene	6927
+21677039	971	979	patients	Species	9606
+21677039	981	989	diabetes	Disease	MESH:D003920
+21677039	1110	1118	diabetes	Disease	MESH:D003920
+21677039	1153	1158	MODY3	Gene	6927
+21677039	1159	1167	patients	Species	9606
+21677039	1246	1251	MODY3	Gene	6927
+21677039	1260	1265	MODY3	Gene	6927
+21677039	1266	1274	patients	Species	9606
+21677039	1350	1358	diabetes	Disease	MESH:D003920
+21677039	1436	1453	diabetes symptoms	Disease	MESH:D051271
+21677039	1663	1668	MODY3	Gene	6927
+21677039	1692	1700	diabetes	Disease	MESH:D003920
+21677039	1780	1785	MODY3	Gene	6927
+
+21683639|t|Identification of HNF1A-MODY and HNF4A-MODY in Irish families: phenotypic characteristics and therapeutic implications.
+21683639|a|AIM: The prevalence of hepatocyte nuclear factor (HNF)-1A and HNF4A mutations, and the clinical implications following the genetic diagnosis of maturity-onset diabetes of the young (MODY) in the Irish population, remain unknown. The aim of this study was to establish the occurrence of HNF1A and HNF4A mutations in subjects classified clinically as MODY to identify novel mutations, and to determine the phenotypic features and response to therapy. METHODS: A total of 36 unrelated index cases with a clinical diagnosis of MODY were analyzed for HNF1A/HNF4A mutations. OGTT was performed to determine the degree of glucose tolerance and insulin secretory response. Also, 38 relatives underwent OGTT and were tested for the relevant known mutations. HNF1A-/HNF4A-MODY subjects were compared with nine HNF1A mutation-negative relatives and 20 type 2 diabetic (T2DM) patients. RESULTS: Seven different HNF1A mutations were identified in 11/36 (30.5%) index cases, two of which were novel (S352fsdelG and F426X), as well as two novel HNF4A mutations (M1? and R290C; 6%). Family screening revealed 20 subjects with HNF1A and seven with HNF4A mutations. Only 51.6% of HNF1A mutation carriers were diagnosed with diabetes by age 25 years; 11 of the mutation carriers were overweight and four were obese. Insulin secretory response to glucose was significantly lower in HNF1A-MODY subjects than in T2DM patients and HNF1A mutation-negative relatives (P=0.01). Therapeutic changes occurred in 48% of mutation carriers following genetic diagnosis. CONCLUSION: There was an HNF1A-MODY pick-up rate of 30.5% and an HNF4A-MODY pick-up rate of 6% in Irish MODY families. Genetically confirmed MODY has significant therapeutic implications.
+21683639	18	23	HNF1A	Gene	6927
+21683639	33	38	HNF4A	Gene	3172
+21683639	143	177	hepatocyte nuclear factor (HNF)-1A	Gene	6927
+21683639	182	187	HNF4A	Gene	3172
+21683639	264	287	maturity-onset diabetes	Disease	MESH:D003924
+21683639	406	411	HNF1A	Gene	6927
+21683639	416	421	HNF4A	Gene	3172
+21683639	666	671	HNF1A	Gene	6927
+21683639	672	677	HNF4A	Gene	3172
+21683639	735	752	glucose tolerance	Disease	MESH:D018149
+21683639	869	874	HNF1A	Gene	6927
+21683639	876	881	HNF4A	Gene	3172
+21683639	920	925	HNF1A	Gene	6927
+21683639	968	976	diabetic	Disease	MESH:D003920
+21683639	984	992	patients	Species	9606
+21683639	1019	1024	HNF1A	Gene	6927
+21683639	1106	1116	S352fsdelG	ProteinMutation	c.352delS,G
+21683639	1121	1126	F426X	ProteinMutation	p.F426X
+21683639	1150	1155	HNF4A	Gene	3172
+21683639	1175	1180	R290C	ProteinMutation	p.R290C
+21683639	1230	1235	HNF1A	Gene	6927
+21683639	1251	1256	HNF4A	Gene	3172
+21683639	1282	1287	HNF1A	Gene	6927
+21683639	1326	1334	diabetes	Disease	MESH:D003920
+21683639	1410	1415	obese	Disease	MESH:D009765
+21683639	1447	1454	glucose	Chemical	MESH:D005947
+21683639	1482	1487	HNF1A	Gene	6927
+21683639	1515	1523	patients	Species	9606
+21683639	1528	1533	HNF1A	Gene	6927
+21683639	1683	1688	HNF1A	Gene	6927
+21683639	1723	1728	HNF4A	Gene	3172
+
+21696527|t|Onset of type 1 diabetes mellitus in two patients with maturity onset diabetes of the young.
+21696527|a|The association between maturity onset diabetes of the young (MODY) and type 1 diabetes mellitus (T1DM) has been rarely described. We report two patients affected by MODY who developed T1DM. Case 1: a 4-yr-old girl referred for glycosuria presented hemoglobin A1c (HbA1c) of 6.6%. Islet cell antibodies (ICA) and anti-glutamic acid decarboxylase (GADA) were initially negative. As her father, uncle and grandmother showed mild hyperglycemia, they were screened for MODY 2. A novel mutation in glucokinase gene was found in the family. Few months later, her glycemic control worsened consistently and she required insulin treatment. A high titer of GADA and ICA was then detected. Six years afterwards insulin requirement is 0.8 U/kg and HbA1c 6.7%. Case 2: a 15-yr-old boy treated for growth hormone deficiency was found with a blood glucose level of 106 mg/dL. HbA1c was 7.2%, ICA and GADA were negative. Family history was positive for autoimmune diseases and type 2 diabetes mellitus. The patient was investigated for MODY 2 and MODY 3, and a mutation of hepatocyte nuclear factor-1 alpha gene was found. The same mutation was found in the mother who had never been referred for hyperglycemia. After 1 yr, due to an unjustified worsening of the metabolic control, autoimmunity was again investigated and a mild positivity was found. He then required insulin therapy and after 5 yr current HbA1c was 8.2%. The diagnosis of MODY does not exclude the risk of developing T1DM. Therefore autoimmunity should be investigated when ordinary treatments fail and metabolic control unexpectedly worsens.
+21696527	16	33	diabetes mellitus	Disease	MESH:D003920
+21696527	41	49	patients	Species	9606
+21696527	70	78	diabetes	Disease	MESH:D003920
+21696527	132	140	diabetes	Disease	MESH:D003920
+21696527	172	189	diabetes mellitus	Disease	MESH:D003920
+21696527	238	246	patients	Species	9606
+21696527	303	307	girl	Species	9606
+21696527	321	331	glycosuria	Disease	MESH:D006029
+21696527	411	424	glutamic acid	Chemical	MESH:C030030
+21696527	520	533	hyperglycemia	Disease	MESH:D006943
+21696527	558	564	MODY 2	Gene	2645
+21696527	706	713	insulin	Gene	3630
+21696527	794	801	insulin	Gene	3630
+21696527	862	865	boy	Species	9606
+21696527	878	903	growth hormone deficiency	Disease	MESH:C537404
+21696527	927	934	glucose	Chemical	MESH:D005947
+21696527	1031	1050	autoimmune diseases	Disease	MESH:D001327
+21696527	1055	1079	type 2 diabetes mellitus	Disease	MESH:D003924
+21696527	1085	1092	patient	Species	9606
+21696527	1114	1120	MODY 2	Gene	2645
+21696527	1125	1131	MODY 3	Gene	6927
+21696527	1151	1184	hepatocyte nuclear factor-1 alpha	Gene	6927
+21696527	1275	1288	hyperglycemia	Disease	MESH:D006943
+21696527	1360	1372	autoimmunity	Disease	MESH:D001327
+21696527	1446	1453	insulin	Gene	3630
+21696527	1579	1591	autoimmunity	Disease	MESH:D001327
+
+21700917|t|High-sensitivity CRP discriminates HNF1A-MODY from other subtypes of diabetes.
+21700917|a|OBJECTIVE: Maturity-onset diabetes of the young (MODY) as a result of mutations in hepatocyte nuclear factor 1-alpha (HNF1A) is often misdiagnosed as type 1 diabetes or type 2 diabetes. Recent work has shown that high-sensitivity C-reactive protein (hs-CRP) levels are lower in HNF1A-MODY than type 1 diabetes, type 2 diabetes, or glucokinase (GCK)-MODY. We aim to replicate these findings in larger numbers and other MODY subtypes. RESEARCH DESIGN AND METHODS: hs-CRP levels were assessed in 750 patients (220 HNF1A, 245 GCK, 54 HNF4-alpha [HNF4A], 21 HNF1-beta (HNF1B), 53 type 1 diabetes, and 157 type 2 diabetes). RESULTS: hs-CRP was lower in HNF1A-MODY (median [IQR] 0.3 [0.1-0.6] mg/L) than type 2 diabetes (1.40 [0.60-3.45] mg/L; P &lt; 0.001) and type 1 diabetes (1.10 [0.50-1.85] mg/L; P &lt; 0.001), HNF4A-MODY (1.45 [0.46-2.88] mg/L; P &lt; 0.001), GCK-MODY (0.60 [0.30-1.80] mg/L; P &lt; 0.001), and HNF1B-MODY (0.60 [0.10-2.8] mg/L; P = 0.07). hs-CRP discriminated HNF1A-MODY from type 2 diabetes with hs-CRP &lt;0.75 mg/L showing 79% sensitivity and 70% specificity (receiver operating characteristic area under the curve = 0.84). CONCLUSIONS: hs-CRP levels are lower in HNF1A-MODY than other forms of diabetes and may be used as a biomarker to select patients for diagnostic HNF1A genetic testing.
+21700917	35	45	HNF1A-MODY	Gene	6927
+21700917	69	77	diabetes	Disease	MESH:D003920
+21700917	105	113	diabetes	Disease	MESH:D003920
+21700917	162	195	hepatocyte nuclear factor 1-alpha	Gene	6927
+21700917	197	202	HNF1A	Gene	6927
+21700917	229	263	type 1 diabetes or type 2 diabetes	Disease	MESH:D003924
+21700917	357	362	HNF1A	Gene	6927
+21700917	380	405	diabetes, type 2 diabetes	Disease	MESH:D003924
+21700917	410	421	glucokinase	Gene	2645
+21700917	423	426	GCK	Gene	2645
+21700917	576	584	patients	Species	9606
+21700917	590	604	HNF1A, 245 GCK	Gene	6927
+21700917	609	619	HNF4-alpha	Gene	3172
+21700917	621	626	HNF4A	Gene	3172
+21700917	632	641	HNF1-beta	Gene	6928
+21700917	643	648	HNF1B	Gene	6928
+21700917	661	669	diabetes	Disease	MESH:D003920
+21700917	686	694	diabetes	Disease	MESH:D003920
+21700917	726	736	HNF1A-MODY	Gene	6927
+21700917	783	791	diabetes	Disease	MESH:D003920
+21700917	841	849	diabetes	Disease	MESH:D003920
+21700917	889	899	HNF4A-MODY	Gene	3172
+21700917	939	942	GCK	Gene	2645
+21700917	991	996	HNF1B	Gene	6928
+21700917	1057	1062	HNF1A	Gene	6927
+21700917	1080	1088	diabetes	Disease	MESH:D003920
+21700917	1264	1269	HNF1A	Gene	6927
+21700917	1295	1303	diabetes	Disease	MESH:D003920
+21700917	1345	1353	patients	Species	9606
+21700917	1369	1374	HNF1A	Gene	6927
+
+21784843|t|Hepatic nuclear factor 1alpha (HNF1alpha) dysfunction down-regulates X-box-binding protein 1 (XBP1) and sensitizes beta-cells to endoplasmic reticulum stress.
+21784843|a|Correct endoplasmic reticulum (ER) function is critical for the health of secretory cells, such as the pancreatic beta-cell, and ER stress is often a contributory factor to beta-cell death in type 2 diabetes. We have used an insulin-secreting cell line with inducible expression of dominant negative (DN) HNF1alpha, a transcription factor vital for correct beta-cell development and function, to show that HNF1alpha is required for Xbp1 transcription and maintenance of the normal ER stress response. DN HNF1alpha expression sensitizes the beta-cell to ER stress by directly down-regulating Xbp1 transcription, whereas Atf6 is unaffected. Furthermore, DN HNF1alpha alters calcium homeostasis, resulting in elevated cytoplasmic calcium and increased store-operated calcium entry, whereas mitochondrial calcium uptake is normal. Loss of function of XBP1 is toxic to the beta-cell and decreases production of the ER chaperone BiP, even in the absence of ER stress. DN HNF1alpha-induced sensitivity to cyclopiazonic acid can be partially rescued with the chemical chaperone tauroursodeoxycholate. Rat insulin 2 promoter-DN HNF1alpha mouse islets express lower levels of BiP mRNA, synthesize less insulin, and are sensitized to ER stress relative to matched control mouse islets, suggesting that this mechanism is also operating in vivo.
+21784843	0	40	Hepatic nuclear factor 1alpha (HNF1alpha	Gene	21405
+21784843	69	92	X-box-binding protein 1	Gene	22433
+21784843	94	98	XBP1	Gene	22433
+21784843	358	366	diabetes	Disease	MESH:D003920
+21784843	464	473	HNF1alpha	Gene	21405
+21784843	565	574	HNF1alpha	Gene	21405
+21784843	591	595	Xbp1	Gene	22433
+21784843	663	672	HNF1alpha	Gene	21405
+21784843	750	754	Xbp1	Gene	22433
+21784843	778	782	Atf6	Gene	226641
+21784843	814	823	HNF1alpha	Gene	21405
+21784843	831	838	calcium	Chemical	MESH:D002118
+21784843	886	893	calcium	Chemical	MESH:D002118
+21784843	923	930	calcium	Chemical	MESH:D002118
+21784843	960	967	calcium	Chemical	MESH:D002118
+21784843	1006	1010	XBP1	Gene	22433
+21784843	1082	1085	BiP	Gene	14828
+21784843	1124	1133	HNF1alpha	Gene	21405
+21784843	1157	1175	cyclopiazonic acid	Chemical	MESH:C000543
+21784843	1229	1250	tauroursodeoxycholate	Chemical	
+21784843	1252	1255	Rat	Species	10116
+21784843	1278	1287	HNF1alpha	Gene	21405
+21784843	1288	1293	mouse	Species	10090
+21784843	1325	1328	BiP	Gene	14828
+21784843	1420	1425	mouse	Species	10090
+
+21814221|t|Association of variants in genes involved in pancreatic beta-cell development and function with type 2 diabetes in North Indians.
+21814221|a|Variants in genes involved in pancreatic beta-cell development and function are known to cause monogenic forms of type 2 diabetes and are also associated with complex form. In this study, we studied the genetic association of polymorphisms in such important genes with type 2 diabetes in the high-risk Indians. We genotyped 91 polymorphisms in 19 genes (ABCC8, HNF1A, HNF1B, HNF4A, INS, INSM1, ISL1, KCNJ11, MAFA, MNX1, NEUROD1, NEUROG3, NKX2.2, NKX6.1, PAX4, PAX6, PDX1, USF1 and WFS1) in 2025 unrelated North Indians of Indo-European ethnicity comprising of 1019 diabetic and 1006 non-diabetic subjects. HNF4A promoter P2 polymorphisms rs1884613 and rs2144908, which are in high linkage disequilibrium, showed significant association with type 2 diabetes (odds ratio (OR)=1.37 (95% confidence interval (CI) 1.19-1.57), P=9.4 x 10(-6) for rs1884613 and OR=1.37 (95%CI 1.20-1.57), P=6.0 x 10(-6) for rs2144908), as previously shown in other populations. We observed body mass index-dependent association of these variants with type 2 diabetes in normal-weight/lean subjects. Variants in USF1, ABCC8, ISL1 and KCNJ11 showed nominal association, while haplotypes in these genes were significantly associated. rs3812704 upstream of NEUROG3 significantly increased risk for type 2 diabetes in normal-weight/lean subjects (OR=1.68 (95%CI 1.25-2.24), P=4.9 x 10(-4)). Thus, pancreatic beta-cell development and function genes contribute to susceptibility to type 2 diabetes in North Indians.
+21814221	103	111	diabetes	Disease	MESH:D003920
+21814221	251	259	diabetes	Disease	MESH:D003920
+21814221	406	414	diabetes	Disease	MESH:D003920
+21814221	484	489	ABCC8	Gene	6833
+21814221	491	496	HNF1A	Gene	6927
+21814221	498	503	HNF1B	Gene	6928
+21814221	505	510	HNF4A	Gene	3172
+21814221	517	522	INSM1	Gene	3642
+21814221	524	528	ISL1	Gene	3670
+21814221	530	536	KCNJ11	Gene	3767
+21814221	538	542	MAFA	Gene	389692
+21814221	544	548	MNX1	Gene	3110
+21814221	550	557	NEUROD1	Gene	4760
+21814221	559	566	NEUROG3	Gene	50674
+21814221	568	574	NKX2.2	Gene	4821
+21814221	576	582	NKX6.1	Gene	4825
+21814221	584	588	PAX4	Gene	5078
+21814221	590	594	PAX6	Gene	5080
+21814221	596	600	PDX1	Gene	3651
+21814221	602	606	USF1	Gene	7391
+21814221	611	615	WFS1	Gene	7466
+21814221	695	703	diabetic	Disease	MESH:D003920
+21814221	713	725	non-diabetic	Disease	MESH:D003924
+21814221	736	741	HNF4A	Gene	3172
+21814221	768	777	rs1884613	SNP	rs1884613
+21814221	782	791	rs2144908	SNP	rs2144908
+21814221	871	886	type 2 diabetes	Disease	MESH:D003924
+21814221	951	956	P=9.4	Gene	825
+21814221	970	979	rs1884613	SNP	rs1884613
+21814221	1011	1016	P=6.0	Gene	8878
+21814221	1030	1039	rs2144908	SNP	rs2144908
+21814221	1164	1172	diabetes	Disease	MESH:D003920
+21814221	1217	1221	USF1	Gene	7391
+21814221	1223	1228	ABCC8	Gene	6833
+21814221	1230	1234	ISL1	Gene	3670
+21814221	1239	1245	KCNJ11	Gene	3767
+21814221	1337	1346	rs3812704	SNP	rs3812704
+21814221	1359	1366	NEUROG3	Gene	50674
+21814221	1407	1415	diabetes	Disease	MESH:D003920
+21814221	1475	1480	P=4.9	Gene	153443
+21814221	1589	1597	diabetes	Disease	MESH:D003920
+
+21814873|t|A large multi-centre European study validates high-sensitivity C-reactive protein (hsCRP) as a clinical biomarker for the diagnosis of diabetes subtypes.
+21814873|a|AIMS/HYPOTHESIS: An accurate molecular diagnosis of diabetes subtype confers clinical benefits; however, many individuals with monogenic diabetes remain undiagnosed. Biomarkers could help to prioritise patients for genetic investigation. We recently demonstrated that high-sensitivity C-reactive protein (hsCRP) levels are lower in UK patients with hepatocyte nuclear factor 1 alpha (HNF1A)-MODY than in other diabetes subtypes. In this large multi-centre study we aimed to assess the clinical validity of hsCRP as a diagnostic biomarker, examine the genotype-phenotype relationship and compare different hsCRP assays. METHODS: High-sensitivity CRP levels were analysed in individuals with HNF1A-MODY (n = 457), glucokinase (GCK)-MODY (n = 404), hepatocyte nuclear factor 4 alpha (HNF4A)-MODY (n = 54) and type 2 diabetes (n = 582) from seven European centres. Three common assays for hsCRP analysis were evaluated. We excluded 121 participants (8.1%) with hsCRP values &gt;10 mg/l. The discriminative power of hsCRP with respect to diabetes aetiology was assessed by receiver operating characteristic curve-derived C-statistic. RESULTS: In all centres and irrespective of the assay method, meta-analysis confirmed significantly lower hsCRP levels in those with HNF1A-MODY than in those with other aetiologies (z score -21.8, p &lt; 5 x 10(-105)). HNF1A-MODY cases with missense mutations had lower hsCRP levels than those with truncating mutations (0.03 vs 0.08 mg/l, p &lt; 5 x 10(-5)). High-sensitivity CRP values between assays were strongly correlated (r (2) &gt;= 0.91, p &lt;= 1 x 10(-5)). Across the seven centres, the C-statistic for distinguishing HNF1A-MODY from young adult-onset type 2 diabetes ranged from 0.79 to 0.97, indicating high discriminative accuracy. CONCLUSIONS/INTERPRETATION: In the largest study to date, we have established that hsCRP is a clinically valid biomarker for HNF1A-MODY in European populations. Given the modest costs and wide availability, hsCRP could translate rapidly into clinical practice, considerably improving diagnosis rates in monogenic diabetes.
+21814873	63	81	C-reactive protein	Gene	1401
+21814873	135	143	diabetes	Disease	MESH:D003920
+21814873	206	214	diabetes	Disease	MESH:D003920
+21814873	291	299	diabetes	Disease	MESH:D003920
+21814873	356	364	patients	Species	9606
+21814873	439	457	C-reactive protein	Gene	1401
+21814873	489	497	patients	Species	9606
+21814873	503	543	hepatocyte nuclear factor 1 alpha (HNF1A	Gene	6927
+21814873	564	572	diabetes	Disease	MESH:D003920
+21814873	844	854	HNF1A-MODY	Gene	6927
+21814873	866	877	glucokinase	Gene	2645
+21814873	879	882	GCK	Gene	2645
+21814873	900	933	hepatocyte nuclear factor 4 alpha	Gene	3172
+21814873	935	940	HNF4A	Gene	3172
+21814873	960	975	type 2 diabetes	Disease	MESH:D003924
+21814873	1086	1098	participants	Species	9606
+21814873	1187	1195	diabetes	Disease	MESH:D003920
+21814873	1416	1426	HNF1A-MODY	Gene	6927
+21814873	1502	1507	HNF1A	Gene	6927
+21814873	1812	1822	HNF1A-MODY	Gene	6927
+21814873	1853	1861	diabetes	Disease	MESH:D003920
+21814873	2054	2059	HNF1A	Gene	6927
+21814873	2242	2250	diabetes	Disease	MESH:D003920
+
+21823540|t|HNF1A mutation presenting with fetal macrosomia and hypoglycemia in childhood prior to onset of overt diabetes.
+21823540|a|BACKGROUND: HNF1A-MODY (MODY3) is a common subtype of autosomal dominant diabetes. Unlike HNF4-MODY where fetal macrosomia and early postnatal hyperinsulinemic hypoglycemia have been reported, a history of transient insulin overproduction has not been recognized in individuals with HNF1A-MODY yet. CASE REPORT: Here, we report a 40-year-old male patient with HNFJA mutation p.Arg272His (c.815G&gt;A) with a history of fetal macrosomia (4750 g, 59 cm) and, at least, one attack of symptomatic hypoglycemia in childhood. Diabetes was subsequently diagnosed at 19 years. The proband's daughter who developed diabetes at 16 years carries the same mutation, but her birth weight and length were in the upper normal range, and she never experienced hypoglycemic symptoms. CONCLUSION: The observation of fetal macrosomia and hypoglycemia in childhood is suggestive of a biphasic impact of the HNF1A mutation on beta-cell function over the lifespan, leading from inappropriate insulin oversecretion to final clinical diabetes.
+21823540	0	5	HNF1A	Gene	6927
+21823540	31	64	fetal macrosomia and hypoglycemia	Disease	MESH:D005320
+21823540	102	110	diabetes	Disease	MESH:D003920
+21823540	124	134	HNF1A-MODY	Gene	6927
+21823540	136	141	MODY3	Gene	6927
+21823540	166	193	autosomal dominant diabetes	Disease	MESH:C562774
+21823540	202	206	HNF4	Gene	3172
+21823540	224	234	macrosomia	Disease	MESH:D005320
+21823540	245	284	postnatal hyperinsulinemic hypoglycemia	Disease	MESH:D044903
+21823540	328	335	insulin	Gene	3630
+21823540	395	405	HNF1A-MODY	Gene	6927
+21823540	459	466	patient	Species	9606
+21823540	487	498	p.Arg272His	ProteinMutation	p.R272H;RS#:137853238
+21823540	531	547	fetal macrosomia	Disease	MESH:D005320
+21823540	605	617	hypoglycemia	Disease	MESH:D007003
+21823540	632	640	Diabetes	Disease	MESH:D003920
+21823540	718	726	diabetes	Disease	MESH:D003920
+21823540	856	877	hypoglycemic symptoms	Disease	MESH:D051271
+21823540	910	943	fetal macrosomia and hypoglycemia	Disease	MESH:D005320
+21823540	999	1004	HNF1A	Gene	6927
+21823540	1082	1089	insulin	Gene	3630
+21823540	1122	1130	diabetes	Disease	MESH:D003920
+
+21841783|t|Pathway to diabetes through attenuation of pancreatic beta cell glycosylation and glucose transport.
+21841783|a|A connection between diet, obesity and diabetes exists in multiple species and is the basis of an escalating human health problem. The factors responsible provoke both insulin resistance and pancreatic beta cell dysfunction but remain to be fully identified. We report a combination of molecular events in human and mouse pancreatic beta cells, induced by elevated levels of free fatty acids or by administration of a high-fat diet with associated obesity, that comprise a pathogenic pathway to diabetes. Elevated concentrations of free fatty acids caused nuclear exclusion and reduced expression of the transcription factors FOXA2 and HNF1A in beta cells. This resulted in a deficit of GnT-4a glycosyltransferase expression in beta cells that produced signs of metabolic disease, including hyperglycemia, impaired glucose tolerance, hyperinsulinemia, hepatic steatosis and diminished insulin action in muscle and adipose tissues. Protection from disease was conferred by enforced beta cell-specific GnT-4a protein glycosylation and involved the maintenance of glucose transporter expression and the preservation of glucose transport. We observed that this pathogenic process was active in human islet cells obtained from donors with type 2 diabetes; thus, illuminating a pathway to disease implicated in the diet- and obesity-associated component of type 2 diabetes mellitus.
+21841783	11	19	diabetes	Disease	MESH:D003920
+21841783	43	77	pancreatic beta cell glycosylation	Disease	MESH:D010182
+21841783	82	89	glucose	Chemical	MESH:D005947
+21841783	128	135	obesity	Disease	MESH:D009765
+21841783	140	148	diabetes	Disease	MESH:D003920
+21841783	210	215	human	Species	9606
+21841783	269	276	insulin	Gene	3630
+21841783	292	324	pancreatic beta cell dysfunction	Disease	MESH:D010182
+21841783	407	412	human	Species	9606
+21841783	417	422	mouse	Species	10090
+21841783	481	492	fatty acids	Chemical	MESH:D005227
+21841783	549	556	obesity	Disease	MESH:D009765
+21841783	596	604	diabetes	Disease	MESH:D003920
+21841783	638	649	fatty acids	Chemical	MESH:D005227
+21841783	727	732	FOXA2	Gene	3170
+21841783	737	742	HNF1A	Gene	6927
+21841783	863	880	metabolic disease	Disease	MESH:D008659
+21841783	892	905	hyperglycemia	Disease	MESH:D006943
+21841783	907	933	impaired glucose tolerance	Disease	MESH:D018149
+21841783	935	951	hyperinsulinemia	Disease	MESH:D006946
+21841783	953	970	hepatic steatosis	Disease	MESH:D005234
+21841783	986	993	insulin	Gene	3630
+21841783	1162	1169	glucose	Chemical	MESH:D005947
+21841783	1217	1224	glucose	Chemical	MESH:D005947
+21841783	1291	1296	human	Species	9606
+21841783	1335	1350	type 2 diabetes	Disease	MESH:D003924
+21841783	1420	1476	obesity-associated component of type 2 diabetes mellitus	Disease	MESH:D003924
+
+21874357|t|Rapamycin protects against dominant negative-HNF1A-induced apoptosis in INS-1 cells.
+21874357|a|HNF1A-maturity onset diabetes of the young (HNF1A-MODY) is caused by mutations in Hnf1a gene encoding the transcription factor hepatocyte nuclear factor 1alpha (HNF1A). An increased rate of apoptosis has been associated with the decrease in beta-cell mass that is a hallmark of HNF1A-MODY and other forms of diabetes. In a cellular model of HNF1A-MODY, we have recently shown that signalling through mammalian target of rapamycin (mTOR) is decreased by the overexpression of a dominant-negative mutant of HNF1A (DN-HNF1A). mTOR is a protein kinase which has important roles in cell metabolism and growth, but also in cell survival, where it has been shown to be both protective and detrimental. Here, we show that pharmacological inhibition of mTOR activity with rapamycin protected INS-1 cells against DN-HNF1A-induced apoptosis. Rapamycin also prevented DN-HNF1A-induced activation of AMP-activated protein kinase (AMPK), an intracellular energy sensor which we have previously shown to mediate DN-HNF1A-induced apoptosis. Conversely, activation of mTOR with leucine potentiated DN-HNF1A-induced apoptosis. Gene silencing of raptor (regulatory associated protein of mTOR), a subunit of mTOR complex 1 (mTORC1), also conferred protection on INS-1 cells against DN-HNF1A-induced apoptosis, confirming that mTORC1 mediates the protective effect. The potential relevance of this effect with regards to the clinical use of rapamycin as an immunosuppressant in diabetics post-transplantation is discussed.
+21874357	0	9	Rapamycin	Chemical	MESH:D020123
+21874357	45	50	HNF1A	Gene	24817
+21874357	85	90	HNF1A	Gene	24817
+21874357	106	114	diabetes	Disease	MESH:D003920
+21874357	129	134	HNF1A	Gene	24817
+21874357	167	172	Hnf1a	Gene	24817
+21874357	212	251	hepatocyte nuclear factor 1alpha (HNF1A	Gene	24817
+21874357	363	368	HNF1A	Gene	24817
+21874357	393	401	diabetes	Disease	MESH:D003920
+21874357	426	436	HNF1A-MODY	Gene	6927
+21874357	485	514	mammalian target of rapamycin	Gene	2475
+21874357	516	520	mTOR	Gene	2475
+21874357	590	595	HNF1A	Gene	6927
+21874357	597	605	DN-HNF1A	Gene	6927
+21874357	608	612	mTOR	Gene	2475
+21874357	829	833	mTOR	Gene	56718
+21874357	848	857	rapamycin	Chemical	MESH:D020123
+21874357	888	896	DN-HNF1A	Gene	24817
+21874357	916	925	Rapamycin	Chemical	MESH:D020123
+21874357	941	949	DN-HNF1A	Gene	24817
+21874357	972	975	AMP	Chemical	MESH:D000249
+21874357	1082	1090	DN-HNF1A	Gene	24817
+21874357	1136	1140	mTOR	Gene	56718
+21874357	1146	1153	leucine	Chemical	MESH:C038361
+21874357	1166	1174	DN-HNF1A	Gene	24817
+21874357	1212	1218	raptor	Gene	287871
+21874357	1220	1257	regulatory associated protein of mTOR	Gene	287871
+21874357	1273	1277	mTOR	Gene	56718
+21874357	1289	1295	mTORC1	Gene	382056
+21874357	1347	1355	DN-HNF1A	Gene	24817
+21874357	1391	1397	mTORC1	Gene	382056
+21874357	1505	1514	rapamycin	Chemical	MESH:D020123
+
+21937998|t|Single-nucleotide polymorphisms at five loci are associated with C-reactive protein levels in a cohort of Filipino young adults.
+21937998|a|C-reactive protein (CRP) is a component of nonspecific immune defense and is a reliable marker of low-grade inflammation involved in obesity, type 2 diabetes and cardiovascular disease. Genome-wide association studies in middle-aged and elderly populations, predominantly of European descent, demonstrated associations of CRP levels with single-nucleotide polymorphisms (SNPs) at several loci. To examine whether the variants identified are replicated in Filipino young adults, we applied Tobit regression models to study the association of plasma CRP with 12 SNPs at seven loci in a cohort of 1691 Filipino young adults (aged 21.5+-0.3 years) from the Cebu Longitudinal Health and Nutrition Survey. SNPs in or near CRP (P=3.2 x 10(-11)), HNF1A, IL6R, APOE-APOC1 and LEPR showed significant associations (P&lt;0.05) and together explained 4.8% of the total variation in CRP. Modest interactions were observed between LEPR-rs1892534 and waist circumference (uncorrected P(interaction)=0.020) and between APOE-rs769449 and pathogen exposure (uncorrected P(interaction)=0.0073) in models predicting CRP. Our results demonstrated that variants in several loci are significantly associated with plasma CRP in Filipino young adults, suggesting shared genetic influences on circulating CRP across populations and age groups.
+21937998	65	83	C-reactive protein	Gene	1401
+21937998	129	147	C-reactive protein	Gene	1401
+21937998	149	152	CRP	Gene	1401
+21937998	262	286	obesity, type 2 diabetes	Disease	MESH:D009765
+21937998	291	313	cardiovascular disease	Disease	MESH:D002318
+21937998	451	454	CRP	Gene	1401
+21937998	677	680	CRP	Gene	1401
+21937998	845	848	CRP	Gene	1401
+21937998	868	873	HNF1A	Gene	6927
+21937998	875	879	IL6R	Gene	3570
+21937998	881	885	APOE	Gene	348
+21937998	886	891	APOC1	Gene	341
+21937998	896	900	LEPR	Gene	3953
+21937998	999	1002	CRP	Gene	1401
+21937998	1046	1050	LEPR	Gene	3953
+21937998	1051	1060	rs1892534	SNP	rs1892534
+21937998	1132	1136	APOE	Gene	348
+21937998	1137	1145	rs769449	SNP	rs769449
+21937998	1225	1228	CRP	Gene	1401
+21937998	1326	1329	CRP	Gene	1401
+21937998	1408	1411	CRP	Gene	1401
+
+21989597|t|Heterozygous ABCC8 mutations are a cause of MODY.
+21989597|a|AIMS/HYPOTHESIS: The ABCC8 gene encodes the sulfonylurea receptor 1 (SUR1) subunit of the pancreatic beta cell ATP-sensitive potassium (K(ATP)) channel. Inactivating mutations cause congenital hyperinsulinism (CHI) and activating mutations cause transient neonatal diabetes (TNDM) or permanent neonatal diabetes (PNDM) that can usually be treated with sulfonylureas. Sulfonylurea sensitivity is also a feature of HNF1A and HNF4A MODY, but patients referred for genetic testing with clinical features of these types of diabetes do not always have mutations in the HNF1A/4A genes. Our aim was to establish whether mutations in the ABCC8 gene cause MODY that is responsive to sulfonylurea therapy. METHODS: We sequenced the ABCC8 gene in 85 patients with a BMI &lt;30 kg/m2, no family history of neonatal diabetes and who were deemed sensitive to sulfonylureas by the referring clinician or were sulfonylurea-treated. All had tested negative for mutations in the HNF1A and HNF4A genes. RESULTS: ABCC8 mutations were found in seven of the 85 (8%) probands. Four patients were heterozygous for previously reported mutations and four novel mutations, E100K, G214R, Q485R and N1245D, were identified. Only four probands fulfilled MODY criteria, with two diagnosed after 25 years and one patient, who had no family history of diabetes, as a result of a proven de novo mutation. CONCLUSIONS/INTERPRETATION: ABCC8 mutations can cause MODY in patients whose clinical features are similar to those with HNF1A/4A MODY. Therefore, sequencing of ABCC8 in addition to the known MODY genes should be considered if such features are present, to facilitate optimal clinical management of these patients.
+21989597	13	18	ABCC8	Gene	6833
+21989597	71	76	ABCC8	Gene	6833
+21989597	94	117	sulfonylurea receptor 1	Gene	6833
+21989597	119	123	SUR1	Gene	6833
+21989597	161	164	ATP	Chemical	MESH:D000255
+21989597	175	184	potassium	Chemical	MESH:D011188
+21989597	188	191	ATP	Chemical	MESH:D000255
+21989597	232	258	congenital hyperinsulinism	Disease	MESH:D044903
+21989597	260	263	CHI	Chemical	MESH:C084533
+21989597	306	323	neonatal diabetes	Disease	MESH:D003920
+21989597	325	329	TNDM	Gene	7952
+21989597	334	361	permanent neonatal diabetes	Disease	MESH:C563425
+21989597	402	415	sulfonylureas	Chemical	MESH:D013453
+21989597	417	429	Sulfonylurea	Chemical	MESH:D013453
+21989597	463	468	HNF1A	Gene	6927
+21989597	473	478	HNF4A	Gene	3172
+21989597	489	497	patients	Species	9606
+21989597	568	576	diabetes	Disease	MESH:D003920
+21989597	613	618	HNF1A	Gene	6927
+21989597	679	684	ABCC8	Gene	6833
+21989597	723	735	sulfonylurea	Chemical	MESH:D013453
+21989597	771	776	ABCC8	Gene	6833
+21989597	788	796	patients	Species	9606
+21989597	843	860	neonatal diabetes	Disease	MESH:D003920
+21989597	894	907	sulfonylureas	Chemical	MESH:D013453
+21989597	943	955	sulfonylurea	Chemical	MESH:D013453
+21989597	1010	1015	HNF1A	Gene	6927
+21989597	1020	1025	HNF4A	Gene	3172
+21989597	1042	1047	ABCC8	Gene	6833
+21989597	1108	1116	patients	Species	9606
+21989597	1195	1200	E100K	ProteinMutation	p.E100K;RS#:200687571
+21989597	1202	1207	G214R	ProteinMutation	p.G214R;RS#:1274656446
+21989597	1209	1214	Q485R	ProteinMutation	p.Q485R;RS#:376080397
+21989597	1219	1225	N1245D	ProteinMutation	p.N1245D
+21989597	1330	1337	patient	Species	9606
+21989597	1368	1376	diabetes	Disease	MESH:D003920
+21989597	1448	1453	ABCC8	Gene	6833
+21989597	1482	1490	patients	Species	9606
+21989597	1541	1546	HNF1A	Gene	6927
+21989597	1581	1586	ABCC8	Gene	6833
+21989597	1725	1733	patients	Species	9606
+
+22060211|t|Comprehensive molecular analysis of Japanese patients with pediatric-onset MODY-type diabetes mellitus.
+22060211|a|BACKGROUND: In Asians, mutations in the known maturity-onset diabetes of the young (MODY) genes have been identified in only &lt;15% of patients. These results were obtained mostly through studies on adult patients. OBJECTIVE: To investigate the molecular basis of Japanese patients with pediatric-onset MODY-type diabetes. SUBJECTS: Eighty Japanese patients with pediatric-onset MODY-type diabetes. METHODS: Mitochondrial 3243A&gt;G mutation was first tested by the polymerase chain reaction restriction fragment length polymorphism analysis for maternally inherited families. Then, all coding exons and exon-intron boundaries of the HNF1A, HNF1B, GCK, and HNF4A genes were amplified from genomic DNA and directly sequenced. Multiplex ligation-dependent probe amplification analysis was also performed to detect whole-exon deletions. RESULTS: After excluding one patient with a mitochondrial 3243A&gt;G, mutations were identified in 38 (48.1%) patients; 18 had GCK mutations, 11 had HNF1A mutations, 3 had HNF4A mutations, and 6 had HNF1B mutations. In patients aged &lt;8 yr, mutations were detected mostly in GCK at a higher frequency (63.6%). In patients &gt;9 yr of age, mutations were identified less frequently (45.1%), with HNF1A mutations being the most frequent. A large fraction of mutation-negative patients showed elevated homeostasis model assessment (HOMA) insulin-resistance and normal HOMA-beta indices. Most of the HNF1B mutations were large deletions, and, interestingly, renal cysts were undetectable in two patients with whole-gene deletion of HNF1B. CONCLUSION: In Japanese patients with pediatric-onset MODY-type diabetes, mutations in known genes were identified at a much higher frequency than previously reported for adult Asians. A fraction of mutation-negative patients presented with insulin-resistance and normal insulin-secretory capacities resembling early-onset type 2 diabetes.
+22060211	45	53	patients	Species	9606
+22060211	75	102	MODY-type diabetes mellitus	Disease	MESH:D003920
+22060211	165	173	diabetes	Disease	MESH:D003920
+22060211	240	248	patients	Species	9606
+22060211	310	318	patients	Species	9606
+22060211	378	386	patients	Species	9606
+22060211	408	426	MODY-type diabetes	Disease	MESH:D003924
+22060211	454	462	patients	Species	9606
+22060211	484	502	MODY-type diabetes	Disease	MESH:D003924
+22060211	739	744	HNF1A	Gene	6927
+22060211	746	751	HNF1B	Gene	6928
+22060211	753	756	GCK	Gene	2645
+22060211	762	767	HNF4A	Gene	3172
+22060211	968	975	patient	Species	9606
+22060211	1049	1057	patients	Species	9606
+22060211	1066	1069	GCK	Gene	2645
+22060211	1088	1093	HNF1A	Gene	6927
+22060211	1111	1116	HNF4A	Gene	3172
+22060211	1138	1143	HNF1B	Gene	6928
+22060211	1158	1166	patients	Species	9606
+22060211	1216	1219	GCK	Gene	2645
+22060211	1254	1262	patients	Species	9606
+22060211	1336	1341	HNF1A	Gene	6927
+22060211	1415	1423	patients	Species	9606
+22060211	1476	1483	insulin	Gene	3630
+22060211	1537	1542	HNF1B	Gene	6928
+22060211	1595	1606	renal cysts	Disease	MESH:D007674
+22060211	1632	1640	patients	Species	9606
+22060211	1669	1674	HNF1B	Gene	6928
+22060211	1700	1708	patients	Species	9606
+22060211	1730	1748	MODY-type diabetes	Disease	MESH:D003924
+22060211	1893	1901	patients	Species	9606
+22060211	1917	1924	insulin	Gene	3630
+22060211	1947	1954	insulin	Gene	3630
+22060211	1999	2014	type 2 diabetes	Disease	MESH:D003924
+
